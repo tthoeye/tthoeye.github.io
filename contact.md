@@ -10,7 +10,7 @@ The managing consortium of this projects consists of:
 
 |              |                                                                                      |  |
 | ------------ | ------------------------------------------------------------------------------------------- | ------- |
-| ![image info](../images/partners/oasc.png)   | OPEN & AGILE SMART CITIES                                                                   | BE      |
+| ![image info](../images/partners/oasc.png)   | OPEN & AGILE SMART CITIES & COMMUNITIES                                                                   | BE      |
 | ![image info](../images/partners/list.png) | LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY                                              | LU      |
 | ![image info](../images/partners/fiware.png)      | FIWARE FOUNDATION EV                                                                        | DE      |
 | ![image info](../images/partners/kereval.png)     | KEREVAL                                                                                     | FR      |
