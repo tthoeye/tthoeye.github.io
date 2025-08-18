@@ -3,7 +3,7 @@ title: About
 layout: page
 description: About
 intro_image: "images/illustrations/reading.jpg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
@@ -39,6 +39,7 @@ Through hands-on pilot projects, we support cities to build practical services u
 We’re adding new AI-powered tools to the existing EU Local Digital Twin Toolbox -like simulation models, prediction tools and self-organising systems -to help cities tackle challenges more quickly and flexibly.
 
 # Why it matters for Europe’s digital future
+
 Europe’s digital growth is being held back by high costs, complex rules and scattered expertise. LDT4SSC helps overcome these barriers by:
 
 * Bringing cities together to share needs and solutions
@@ -49,6 +50,7 @@ Europe’s digital growth is being held back by high costs, complex rules and sc
 We’re proud to support the Digital Europe Programme in building a more inclusive, innovative and sustainable digital society.
 
 # Who works with us
+
 LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe. This collaboration is made possible with the support of the European Union as the funding authority, ensuring alignment with broader EU digital and innovation priorities.
 
 
@@ -67,3 +69,5 @@ LDT4SSC brings together a diverse and experienced group of partners from across 
 
 
 The project officially started in June 2025 and will run until December 2028. The first open call for pilot projects is scheduled to launch in month 5, inviting multi-stakeholder consortia to propose impactful, real-world use cases that advance the development and deployment of Local Digital Twins across Europe.
+
+--
