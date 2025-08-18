@@ -2,86 +2,68 @@
 title: About
 layout: page
 description: About
+intro_image: "images/illustrations/reading.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# What we do
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+**About LDT4SSC**
+Better city and community services with local digital twins
+Across Europe, cities and communities face similar challenges: how to use energy more efficiently, reduce pollution, improve public services and adapt to climate change.
+LDT4SSC, short for Local Digital Twins for Smart Sustainable Cities, brings cities together to share digital tools that help tackle these problems. These tools, called **Local Digital Twins**, are like digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make better decisions. For example, by predicting traffic, improving waste collection or planning green spaces.
+We connect existing digital platforms across Europe and support local teams to develop **real-life pilot projects** using open technology. These pilots show how digital twins can work in the real world and help cities learn from each other.
+Together with partners from governments, research and tech, we’re building a strong European network where cities — big and small — can access the tools, knowledge and support they need for a smarter, more sustainable future.
+This project is funded by the **Digital Europe Programme** and supports the EU’s goal of a digital, green and inclusive society.
 
-# Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+# What we focus on
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+**Smart AI solutions**
+We support cities and communities in creating practical AI tools that solve real community problems, from predicting energy use to improving public transport.
+**Connecting digital tools across Europe**
+We help local digital twins work together by using common standards and shared data. This makes it easier for cities to learn from each other and scale up what works.
+**Fair and sustainable innovation**
+We promote open, ethical technology that supports local economies, protects citizens' rights, and aligns with Europe’s digital and green goals.
 
-## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+# What we do and why it matters
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+1. Linking existing digital twins across Europe
+We’re connecting the digital tools cities and communities already use - like traffic monitors, energy trackers or environmental sensors - into one shared European network. This makes it easier to collaborate, reuse tools and help smaller communities get on board.
+2. Testing smart solutions in the real world
+Through hands-on pilot projects, we support cities to build practical services using AI and local digital twins. These pilots aim to improve daily life, from better planning and faster services to smarter decision-making.
+3. Expanding Europe’s toolbox with AI innovation
+We’re adding new AI-powered tools to the existing EU Local Digital Twin Toolbox -like simulation models, prediction tools and self-organising systems -to help cities tackle challenges more quickly and flexibly.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+# Why it matters for Europe’s digital future
+Europe’s digital growth is being held back by high costs, complex rules and scattered expertise. LDT4SSC helps overcome these barriers by:
 
-## Faithful Representation
+* Bringing cities together to share needs and solutions
+* Encouraging ethical, people-centred AI
+* Supporting open technology and fair digital markets
+* Working with the European Digital Infrastructure Consortium (EDIC) to create strong, connected systems across borders
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+We’re proud to support the Digital Europe Programme in building a more inclusive, innovative and sustainable digital society.
 
-## Enhancing Qualitative Characteristics
+# Who works with us
+LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe. This collaboration is made possible with the support of the European Union as the funding authority, ensuring alignment with broader EU digital and innovation priorities.
 
-### Verifiability
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+|              |                                                                                      |  |
+| ------------ | ------------------------------------------------------------------------------------------- | ------- |
+| ![image info](../images/partners/oasc.png)   | OPEN & AGILE SMART CITIES & COMMUNITIES                                                                   | BE      |
+| ![image info](../images/partners/list.png) | LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY                                              | LU      |
+| ![image info](../images/partners/fiware.png)      | FIWARE FOUNDATION EV                                                                        | DE      |
+| ![image info](../images/partners/kereval.png)     | KEREVAL                                                                                     | FR      |
+| ![image info](../images/partners/taltech.png)      | TALLINNA TEHNIKAÜLIKOOL                                                                     | EE      |
+| ![image info](../images/partners/enoll.svg)        | EUROPEAN NETWORK OF LIVING LABS IVZW                                                        | BE      |
+| ![image info](../images/partners/cerema.png)       | CENTRE D ETUDES ET D EXPERTISE SUR LES RISQUES L ENVIRONNEMENT LA MOBILITE ET L AMENAGEMENT | FR      |
+| ![image info](../images/partners/technopolis.png)          | TECHNOPOLIS CONSULTING GROUP BELGIUM                                                        | BE      |
+| ![image info](../images/partners/libellium.jpg)  | LIBELIUM LAB SL                                                                             | ES      |
+| ![image info](../images/partners/ugent.png)         | UNIVERSITEIT GENT                                                                           | BE      |
 
-### Comparability
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+The project officially started in June 2025 and will run until December 2028. The first open call for pilot projects is scheduled to launch in month 5, inviting multi-stakeholder consortia to propose impactful, real-world use cases that advance the development and deployment of Local Digital Twins across Europe.
