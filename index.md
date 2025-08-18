@@ -17,11 +17,11 @@ LDT4SSC is driving the next wave of smart community innovation by creating an **
 
 ## 3 Key Goals  
 <p>
-<ul>
-<li>1. AI-Driven Services: Developing advanced AI solutions tailored to real-world community needs.</li>
-<li>2. Interoperability Blueprint: Connecting LDTs across sectors and borders with a common data and integration framework.  </li>
-<li>3. Sustainable Digital Innovation: Promoting ethical AI, open standards and fair digital markets aligned with EU Digital Decade goals.  </li>
-</ul>
+
+1. AI-Driven Services: Developing advanced AI solutions tailored to real-world community needs.  
+2. Interoperability Blueprint: Connecting LDTs across sectors and borders with a common data and integration framework.  
+3. Sustainable Digital Innovation: Promoting ethical AI, open standards and fair digital markets aligned with EU Digital Decade goals.  
+
 </p>
 
 
