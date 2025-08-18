@@ -1,13 +1,10 @@
 ---
 title: Open Calls & Pilots
-layout: home
+layout: page
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
-intro_image: "/images/illustrations/playing.jpg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
 ---
 
-# Open calls & pilots 
+# Open Calls & Pilots 
 
 ## Empowering smart communities through practical innovation
 
@@ -18,6 +15,7 @@ Each pilot will:
 * Develop AI-driven services tailored to community challenges
 * Use interoperable building blocks defined by the LDT4SSC Consolidated Common Interoperability Blueprint
 * Demonstrate cross-sector and cross-border collaboration to scale digital twin solutions across Europe
+<br>
 
 ## Building a unified digital ecosystem
 
