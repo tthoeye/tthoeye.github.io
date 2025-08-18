@@ -30,12 +30,12 @@ Pilot duration: Approximately 18 months each
 Funding per pilot: Around €1 million (details will be provided in the official open call documents)
 
 Open call rounds schedule
-Round 1: TBA
-Round 2: TBA
-Round 3: TBA
+* Round 1: TBA
+* Round 2: TBA
+* Round 3: TBA
 
 Stay tuned for updates
-The first open call round will launch in month 5. Subscribe to receive announcements and learn how your organisation can participate. (Link to newsletter)
+The first open call round will launch in month 5. Subscribe to receive announcements and learn how your organisation can participate. 
 
 
 
