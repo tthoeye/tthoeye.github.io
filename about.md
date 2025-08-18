@@ -22,11 +22,11 @@ This project is funded by the **Digital Europe Programme** and supports the EU�
 # What we focus on
 
 **Smart AI solutions**<br>
-We support cities and communities in creating practical AI tools that solve real community problems, from predicting energy use to improving public transport.
+We support cities and communities in creating practical AI tools that solve real community problems, from predicting energy use to improving public transport.<br>  
 **Connecting digital tools across Europe**<br>
-We help local digital twins work together by using common standards and shared data. This makes it easier for cities to learn from each other and scale up what works.
+We help local digital twins work together by using common standards and shared data. This makes it easier for cities to learn from each other and scale up what works.<br>
 **Fair and sustainable innovation**<br>
-We promote open, ethical technology that supports local economies, protects citizens' rights, and aligns with Europe’s digital and green goals.
+We promote open, ethical technology that supports local economies, protects citizens' rights, and aligns with Europe’s digital and green goals.<br>
 
 
 # What we do and why it matters
