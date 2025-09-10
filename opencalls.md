@@ -29,14 +29,14 @@ Pilot duration: Approximately 18 months each
 Funding per pilot: Around €1 million (details will be provided in the official open call documents)
 
 Open call rounds schedule
-* Work Strand 1:
- * Round 1: November 1st 2025
-* Work Strand 2:
- * Round 2: February 2026
- * Round 3: May 2026 
-* Work Strand 3:
- * Round 4: February 2026
- * Round 5: May 2026 
+* Work Strand 1 (Inter-connection of existing LDTs):
+  * Round 1: November 1st 2025
+* Work Strand 2 (Creation of LDTs based on common needs):
+  * Round 2: February 2026
+  * Round 3: May 2026 
+* Work Strand 3 (Adding new and advanced AI services to the EU LDT Toolbox):
+  * Round 4: February 2026
+  * Round 5: May 2026 
 
 Stay tuned for updates
 The first open call round will launch in month 5. Subscribe to receive announcements and learn how your organisation can participate. 
