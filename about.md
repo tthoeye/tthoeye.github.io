@@ -56,6 +56,7 @@ LDT4SSC brings together a diverse and experienced group of partners from across 
 
 |              |                                                                                      |  |
 | ------------ | ------------------------------------------------------------------------------------------- | ------- |
+|  SOME | THING | ELSE |
 | ![image info](../images/partners/oasc.png)   | OPEN & AGILE SMART CITIES & COMMUNITIES                                                                   | BE      |
 | ![image info](../images/partners/list.png) | LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY                                              | LU      |
 | ![image info](../images/partners/fiware.png)      | FIWARE FOUNDATION EV                                                                        | DE      |
