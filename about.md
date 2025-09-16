@@ -11,7 +11,7 @@ bodyClass: page-about
 # What we do
 
 **About LDT4SSC**:<br>
-Better city and community services with local digital twins<br>
+
 Across Europe, cities and communities face similar challenges: how to use energy more efficiently, reduce pollution, improve public services and adapt to climate change.
 LDT4SSC, short for Local Digital Twins for Smart Sustainable Cities, brings cities together to share digital tools that help tackle these problems. These tools, called **Local Digital Twins**, are like digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make better decisions. For example, by predicting traffic, improving waste collection or planning green spaces.
 We connect existing digital platforms across Europe and support local teams to develop **real-life pilot projects** using open technology. These pilots show how digital twins can work in the real world and help cities learn from each other.
