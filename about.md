@@ -1,14 +1,14 @@
 ---
 title: About
 layout: page
-description: About
+description: About the Project
 intro_image: "images/illustrations/reading.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
 
-# What we do and why it matters
+# Our Work
 
 Across Europe, cities and communities face similar challenges: how to use energy more efficiently, reduce pollution, improve public services and adapt to climate change.
 
@@ -26,7 +26,7 @@ Through pilot projects, we support local teams to develop and test AI-driven ser
 
 We are enriching the EU’s Local Digital Twin Toolbox with new AI-powered tools — from prediction models to self-organising systems — so cities can respond to challenges more quickly and effectively.
 
-# Why it matters for Europe’s future
+# Impact for Europe
 
 Europe’s digital transformation is often slowed down by high costs, complex rules and scattered expertise. LDT4SSC helps break down these barriers by:
 
@@ -40,7 +40,7 @@ Europe’s digital transformation is often slowed down by high costs, complex ru
 
 This project is funded by the Digital Europe Programme and directly supports the EU’s vision of a digital, green and inclusive society.
 
-# Who works with us
+# Our Partners
 
 LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe. This collaboration is made possible with the support of the European Union as the funding authority, ensuring alignment with broader EU digital and innovation priorities.
 
