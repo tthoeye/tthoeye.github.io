@@ -14,5 +14,3 @@ show_call_box: true
 Welcome to the LDT4SSC hub! Here you’ll find the latest news, project updates, events and community highlights.
 
 Follow our progress as we build a European network of interoperable Local Digital Twins, showcase pilot innovations and share ways to get involved.
-
-**Latest Updates**
