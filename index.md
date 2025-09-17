@@ -21,8 +21,10 @@ At its heart, the project puts people first. Using ethical and trustworthy AI, L
 ## 3 Key Goals:  
 <p>
 
-1. Smarter Services with AI: We’re building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use.  
-2. Connected Digital Twins: By linking digital twins across cities, regions, and sectors, we create a shared framework where data and solutions can flow seamlessly across Europe. 
+1. Smarter Services with AI: We’re building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use.
+   
+2. Connected Digital Twins: By linking digital twins across cities, regions, and sectors, we create a shared framework where data and solutions can flow seamlessly across Europe.
+   
 3. Sustainable Digital Futures: We promote innovation that is ethical, fair and open — supporting Europe’s vision for a greener, more inclusive Digital Decade.
 
 </p>
