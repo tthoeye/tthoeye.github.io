@@ -27,6 +27,9 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
+          <h3 class="service-date">
+            {{ service.date | date: "%B %d, %Y" }}
+          </h3>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 600 }}</p>
         </div>
       </div>
