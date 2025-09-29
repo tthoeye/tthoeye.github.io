@@ -18,16 +18,35 @@ With these tools, regions can take on today’s biggest challenges: fighting cli
 
 At its heart, the project puts people first. Using ethical and trustworthy AI, LDT4SSC helps create healthier, greener and more sustainable communities for everyone.
 
-## 3 Key Goals:  
-<p>
+<section style="background:#f9f9f9; padding:60px 0;">
+  <div class="container">
+    <h2 style="text-align:center; margin-bottom:40px;">Our 3 Key Goals</h2>
+    <div class="row text-center">
+      
+      <div class="col-md-4" style="padding:20px;">
+        <div style="background:#fff; border-radius:12px; padding:30px; box-shadow:0 2px 6px rgba(0,0,0,0.1); height:100%;">
+          <h3>Smarter Services with AI</h3>
+          <p>We’re building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use.</p>
+        </div>
+      </div>
 
-1. Smarter Services with AI: We’re building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use.
-   
-2. Connected Digital Twins: By linking digital twins across cities, regions, and sectors, we create a shared framework where data and solutions can flow seamlessly across Europe.
-   
-3. Sustainable Digital Futures: We promote innovation that is ethical, fair and open — supporting Europe’s vision for a greener, more inclusive Digital Decade.
+      <div class="col-md-4" style="padding:20px;">
+        <div style="background:#fff; border-radius:12px; padding:30px; box-shadow:0 2px 6px rgba(0,0,0,0.1); height:100%;">
+          <h3>Connected Digital Twins</h3>
+          <p>By linking digital twins across cities, regions, and sectors, we create a shared framework where data and solutions can flow seamlessly across Europe.</p>
+        </div>
+      </div>
 
-</p>
+      <div class="col-md-4" style="padding:20px;">
+        <div style="background:#fff; border-radius:12px; padding:30px; box-shadow:0 2px 6px rgba(0,0,0,0.1); height:100%;">
+          <h3>Sustainable Digital Futures</h3>
+          <p>We promote innovation that is ethical, fair and open — supporting Europe’s vision for a greener, more inclusive Digital Decade.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
 
 
 
