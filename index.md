@@ -11,15 +11,19 @@ show_call_box: true
   <section style="background-color: #f4f4f9; padding: 60px 20px;">
     <div class="container-fluid">
       <h1 style="text-align: center; margin-bottom: 40px;">Local Digital Twins for Smart & Sustainable Communities</h1>
+
       <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
         LDT4SSC is driving the future of smart living by creating connected digital twins for cities and communities across Europe. These digital twins act as virtual mirrors of real places, helping us understand, plan and improve the world around us.
       </p>
+
       <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
         Working hand in hand with major European initiatives — such as the EU’s Local Digital Twin Toolbox, GAIA-X for trusted data and CitiVERSE for urban innovation — LDT4SSC brings everything together into one powerful ecosystem.
       </p>
+
       <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
         With these tools, regions can take on today’s biggest challenges: fighting climate change, improving air quality, saving energy and making better use of resources.
       </p>
+
       <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
         At its heart, the project puts people first. Using ethical and trustworthy AI, LDT4SSC helps create healthier, greener and more sustainable communities for everyone.
       </p>
