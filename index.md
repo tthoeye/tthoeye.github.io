@@ -2,48 +2,35 @@
 title: Local Digital Twins for Smart Communities
 layout: home
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
-intro_image: "images/illustrations/reading.jpg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
 <main class="page-home">
 
   <!-- Intro / Welcome Section -->
-  <section style="background-color: #f4f4f9; padding: 60px 0;">
-    <div class="container">
-      <div class="row align-items-center">
-        <!-- Left Column: Text -->
-        <div class="col-md-6 order-1 order-md-1">
-          <h1>Local Digital Twins for Smart & Sustainable Communities</h1>
-          <p style="text-align: justify;">
-            LDT4SSC is driving the future of smart living by creating connected digital twins for cities and communities across Europe. These digital twins act as virtual mirrors of real places, helping us understand, plan and improve the world around us.
-          </p>
-          <p style="text-align: justify;">
-            Working hand in hand with major European initiatives — such as the EU’s Local Digital Twin Toolbox, GAIA-X for trusted data and CitiVERSE for urban innovation — LDT4SSC brings everything together into one powerful ecosystem.
-          </p>
-          <p style="text-align: justify;">
-            With these tools, regions can take on today’s biggest challenges: fighting climate change, improving air quality, saving energy and making better use of resources.
-          </p>
-          <p style="text-align: justify;">
-            At its heart, the project puts people first. Using ethical and trustworthy AI, LDT4SSC helps create healthier, greener and more sustainable communities for everyone.
-          </p>
-        </div>
-        <!-- Right Column: Image -->
-        <div class="col-md-6 order-2 order-md-2">
-          <!-- REPLACE THE IMAGE BELOW IF YOUR FILE NAME OR PATH IS DIFFERENT -->
-          <img src="images/illustrations/reading.jpg" alt="Digital Twin Illustration" style="width: 100%; border-radius: 8px;">
-        </div>
-      </div>
+  <section style="background-color: #f4f4f9; padding: 60px 20px;">
+    <div class="container-fluid">
+      <h1 style="text-align: center; margin-bottom: 40px;">Local Digital Twins for Smart & Sustainable Communities</h1>
+      <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
+        LDT4SSC is driving the future of smart living by creating connected digital twins for cities and communities across Europe. These digital twins act as virtual mirrors of real places, helping us understand, plan and improve the world around us.
+      </p>
+      <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
+        Working hand in hand with major European initiatives — such as the EU’s Local Digital Twin Toolbox, GAIA-X for trusted data and CitiVERSE for urban innovation — LDT4SSC brings everything together into one powerful ecosystem.
+      </p>
+      <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
+        With these tools, regions can take on today’s biggest challenges: fighting climate change, improving air quality, saving energy and making better use of resources.
+      </p>
+      <p style="text-align: justify; max-width: 1000px; margin: 0 auto 20px auto;">
+        At its heart, the project puts people first. Using ethical and trustworthy AI, LDT4SSC helps create healthier, greener and more sustainable communities for everyone.
+      </p>
     </div>
   </section>
 
   <!-- 3 Key Goals Section -->
-  <section style="background:#f9f9f9; padding:60px 0;">
-    <div class="container">
+  <section style="background:#f9f9f9; padding:60px 20px;">
+    <div class="container-fluid">
       <h2 style="text-align:center; margin-bottom:40px;">Our 3 Key Goals</h2>
-      <div class="row text-center">
+      <div class="row" style="max-width: 1200px; margin: 0 auto;">
 
         <div class="col-md-4" style="padding:20px;">
           <div style="background:#fff; border-radius:12px; padding:30px; box-shadow:0 2px 6px rgba(0,0,0,0.1); height:100%;">
