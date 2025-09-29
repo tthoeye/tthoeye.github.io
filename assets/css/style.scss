@@ -116,3 +116,17 @@ body {
     line-height: 1.3;
   }
 }
+/* Make homepage text full-width and justified */
+.page-home .container,
+.page-home .container-fluid {
+  max-width: 100% !important;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.page-home h1,
+.page-home p,
+.page-home h2,
+.page-home h3 {
+  text-align: justify;
+}
