@@ -8,12 +8,15 @@ main:
   - name: "Open Calls"
     url: "/opencalls/"
     weight: 3
+  - name: "Knowledge Hub"
+    url: "https://knowledgehub.ldt4ssc.eu/"
+    weight: 4
   - name: "News"
     url: "/news/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
@@ -22,6 +25,15 @@ footer:
   - name: "About"
     url: "/about/"
     weight: 2
+  - name: "Open Calls"
+    url: "/opencalls/"
+    weight: 3
+  - name: "Knowledge Hub"
+    url: "https://knowledgehub.ldt4ssc.eu/"
+    weight: 4
+  - name: "News"
+    url: "/news/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 6
