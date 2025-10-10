@@ -1,5 +1,6 @@
 ---
 title: "LDT4SSC: Unlock EU Funding for Digital Twin Pilots"
+date: 2025-09-16
 weight: 2
 ---
 
