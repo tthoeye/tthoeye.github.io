@@ -14,5 +14,3 @@ Participants will learn about:
 * how to maximise the impact of innovative ideas.
 
 Register for the webinar [here](https://us06web.zoom.us/webinar/register/WN_eLhM4HT6Se6NprU5bpwOdw#/registration)
-
-Don’t miss future updates — [subscribe to the LDT4SSC newsletter](https://marketing.egoi.page/aeve86B1/signup)
