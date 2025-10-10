@@ -1,7 +1,6 @@
 ---
 title: "LDT4SSC: Unlock EU Funding for Digital Twin Pilots"
-date: 2025-09-16T12:33:46+10:00
-weight: 1
+weight: 2
 ---
 
 On 25 September (10:00–11:30 CET), the LDT4SSC project will host a free online webinar for cities and stakeholders interested in turning digital twin ideas into funded pilots.
