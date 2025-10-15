@@ -61,8 +61,5 @@ LDT4SSC brings together a diverse and experienced group of partners from across 
 
 The project officially started in June 2025 and will run until December 2028. The first open call for pilot projects is scheduled to launch in month 5, inviting multi-stakeholder consortia to propose impactful, real-world use cases that advance the development and deployment of Local Digital Twins across Europe.
 
-| ![OASC](../images/partners/oasc.png)[OASC](https://oascities.org) | ![LIST](../images/partners/list.png)[LIST](https://list.lu) | ![FIWARE](../images/partners/fiware.png)[FIWARE](https://www.fiware.org) | ![Kereval](../images/partners/kereval.png)[Kereval](https://www.kereval.com) | ![TalTech](../images/partners/taltech.png)[TalTech](https://taltech.ee) |
-| ------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| ![ENOLL](../images/partners/enoll.svg)[ENOLL](https://enoll.org) | ![Cerema](../images/partners/cerema.png)[Cerema](https://www.cerema.fr) | ![Technopolis](../images/partners/technopolis.png)[Technopolis](https://www.technopolis-group.com) | ![Libellium](../images/partners/libellium.jpg)[Libellium](https://www.libellium.com) | ![UGent](../images/partners/ugent.png)[UGent](https://www.ugent.be) |
 
 
