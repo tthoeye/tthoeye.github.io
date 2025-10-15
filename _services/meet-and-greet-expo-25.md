@@ -1,6 +1,6 @@
 ---
 title: "Meet & Greet: LDT4SSC Project at Smart City Expo World Congress 2025"
-date: 2025-11-06
+date: 2025-11-05
 weight: 1
 ---
 
