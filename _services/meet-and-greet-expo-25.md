@@ -1,7 +1,7 @@
 ---
 title: "Meet & Greet: LDT4SSC Project at Smart City Expo World Congress 2025"
 date: 2025-10-15
-weight: 1
+weight: 2
 ---
 
 The **LDT4SSC consortium** invites you to a **Meet & Greet** session at the **Smart City Expo World Congress 2025** in Barcelona, Spain.
