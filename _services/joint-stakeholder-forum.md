@@ -9,6 +9,6 @@ Following your input previous sessions and other feedback we received, we will t
 We will start off with a quiz to test our knowledge and awareness, then move on to critical points of the discussion to help prioritise work on a European level. 
 Finally, we will scope how Local Digital Twins relate to data spaces and what we can expect from the open calls for funder Local Digital Twin pilots.
 
-[You can view the meeting agenda here] (https://shorturl.at/6MMBU)
+[You can view the meeting agenda here](https://shorturl.at/6MMBU)
 
-[Register here for the Joint Stakeholder Forum] (https://shorturl.at/Jkze6)
+[Register here for the Joint Stakeholder Forum](https://shorturl.at/Jkze6)
