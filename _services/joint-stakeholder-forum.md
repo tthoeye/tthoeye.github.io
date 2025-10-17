@@ -11,4 +11,4 @@ Finally, we will scope how Local Digital Twins relate to data spaces and what we
 
 You can view the meeting agenda here: [https://shorturl.at/6MMBU](https://shorturl.at/6MMBU)
 
-Register here for the joint forum: [https://shorturl.at/Jkze6)](https://shorturl.at/Jkze6)
+Register here for the Joint Stakeholder Forum: [https://shorturl.at/Jkze6)](https://shorturl.at/Jkze6)
