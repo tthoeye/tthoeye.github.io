@@ -20,7 +20,7 @@ Funding per pilot: Around €1 million (details will be provided in the official
 
 Open call rounds schedule
 * Work Strand 1 (Inter-connection of existing LDTs):
-  * Round 1: November 15th 2025
+  * Round 1: November 14th 2025
 * Work Strand 2 (Creation of LDTs based on common needs):
   * Round 2: February 2026
   * Round 3: May 2026 
