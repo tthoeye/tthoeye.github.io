@@ -28,7 +28,6 @@ Open call rounds schedule
   * Round 4: February 2026
   * Round 5: May 2026 
 
-Subscribe to receive announcements and learn how your organisation can participate. 
 
 
 
