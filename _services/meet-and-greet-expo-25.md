@@ -1,5 +1,5 @@
 ---
-title: "Meet & Greet: LDT4SSC Project at Smart City Expo World Congress 2025"
+title: "Meet & Greet with Open Call Launch: LDT4SSC Project at Smart City Expo World Congress 2025"
 date: 2025-10-15
 weight: 2
 ---
@@ -11,5 +11,7 @@ The **LDT4SSC consortium** invites you to a **Meet & Greet** session at the **Sm
 **Location:** OASC Booth — Hall 2, Booth A65  
 
 This informal session offers an opportunity to learn more about the **Local Digital Twins for Smart Sustainable Cities (LDT4SSC)** project, meet consortium partners and exchange ideas with peers in the smart city community.  
+
+We are also pleased to announce that the first Open Call of the LDT4SSC project will be launched during this Meet & Greet, providing cities and organisations with the opportunity to participate and contribute to the adoption of local digital twins across Europe.
 
 We look forward to meeting you at the OASC booth.
