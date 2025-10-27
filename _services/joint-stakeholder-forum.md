@@ -11,4 +11,4 @@ Finally, we will scope how Local Digital Twins relate to data spaces and what we
 
 [You can view the meeting agenda here](https://shorturl.at/6MMBU)
 
-[Sign up here for the LDT4SSC Stakeholder Forum](https://forms.gle/v17Y7df5DUwpCRZP6)
+[To receive the meeting link, please join the LDT4SSC Stakeholder Forum by signing up here](https://forms.gle/v17Y7df5DUwpCRZP6)
