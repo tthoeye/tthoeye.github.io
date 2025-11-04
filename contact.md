@@ -12,6 +12,6 @@ Feel free to reach out to us via email or follow our updates on LinkedIn and sub
 
 [Email](mailto:info@ldt4ssc.eu)
 
-[LinkedIn](https://www.linkedin.com/company/ldt4ssc-project/)
+<a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank">LinkedIn</a>
 
 [Newsletter](https://marketing.egoi.page/aeve86B1/signup)
