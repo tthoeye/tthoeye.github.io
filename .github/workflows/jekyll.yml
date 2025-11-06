@@ -3,7 +3,7 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   # Trigger on pushes to your main branch (update if your branch name differs)
   push:
-    branches: ["main"]
+    branches: ["master"]
 
   # Allow manual runs from the Actions tab
   workflow_dispatch:
