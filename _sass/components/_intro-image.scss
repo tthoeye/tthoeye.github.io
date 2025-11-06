@@ -3,8 +3,12 @@
   height: auto;
   margin-top: -40px;
 }
+.intro-image-container {
+  position: relative;       /* Makes the container the positioning context */
+  display: inline-block;    /* Keeps it sized to the image */
+}
 .intro-image-title {
-  position: relative;       /* Position relative to the container */
+  position: absolute;       /* Position relative to the container */
   top: 10px;                /* Distance from top edge */
   left: 15px;     
 }
