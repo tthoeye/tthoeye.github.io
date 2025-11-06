@@ -8,8 +8,9 @@ bodyClass: "page-home"
 
   {% if page.intro_image %}
   <div class="row">
-    <div class="col-12">
-    <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+    <div class="image-container col-12">
+      <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      <div class="intro-image-title title">{{ page.title }}</div>
     </div>
   </div>
   {% endif %}
