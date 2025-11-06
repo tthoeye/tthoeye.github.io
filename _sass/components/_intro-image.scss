@@ -1,3 +1,10 @@
+
+.intro {
+  background-image: "./images/intro-bg.jpg";
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
 .intro-image {
   width: 100%;
   height: auto;
@@ -10,11 +17,10 @@
 .intro-image-title {
   position: absolute;       /* Position relative to the container */
   top: -100px;                /* Distance from top edge */
-  left: 15px;     
+  left: 15px;             
 }
 .intro-image-absolute {
   max-width: none;
-
   padding: 50px;
   margin-bottom: 30px;
   @include media-breakpoint-up(sm) {
