@@ -8,6 +8,7 @@
   background-image: url("/images/intro-bg.jpg");
   background-repeat: no-repeat;
   background-position: top left;
+  background-size: auto 250px;
 
   @include media-breakpoint-up(md) {
     padding-top: 140px;
