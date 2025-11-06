@@ -23,7 +23,7 @@ At its heart, the project puts people first. Using ethical and trustworthy AI, L
 <section style="padding:60px 0;">
   <div class="container">
     <h2 style="text-align:center; margin-bottom:40px; font-weight:bold; font-size:36px;">
-      Our 3 Key Goals
+      Our 3 Key Goals:
     </h2>
 
     <div style="display:flex; flex-direction:column; gap:40px; max-width:700px; margin:0 auto;">
