@@ -17,8 +17,7 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Montserrat", sans-serif, -apple-system;
+$font-family-heading: "Montserrat", -apple-system, sans-serif;
 
 // Footer
 $footer-background-color: $primary;
@@ -110,7 +109,7 @@ $sub-footer-text-color: lighten($primary, 10%);
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: $font-family-base;
+  font-family: $font-family-heading;
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;
