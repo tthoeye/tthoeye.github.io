@@ -1,6 +1,5 @@
 ---
 title: "LDT4SSC & DS4SSCC Joint Stakeholder Forum Meeting"
-date: 2025-12-17
 weight: 1
 ---
 The next LDT4SSC & DS4SSCC joint Stakeholder Forum Meeting invites you to its online event on the 29th of October 2025 at 10:00-12:00 CET. 
