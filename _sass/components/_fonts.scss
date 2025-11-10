@@ -5,3 +5,10 @@
 	font-display: swap;
 	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
 }
+/* Define the custom font */
+@font-face {
+  font-family: 'TexGyreHeros';
+  src: local(''), url('../fonts/texgyreheros.gyreheros-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
