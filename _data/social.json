@@ -5,8 +5,13 @@
     "image": "images/social/email.svg"
   },
   {
-    "name": "Github",
+    "name": "Newsletter",
     "link": "https://github.com/oasc",
     "image": "images/social/github.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/ldt4ssc-project/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BwxC%2Ftc9nQ9a4Sc6wOBAHlg%3D%3D",
+    "image": "images/social/linkedin.svg"
   }
 ]
