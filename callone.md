@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Open Call: Interconnecting Local Digital Twins (Work Strand 1)"
+title: "Open Call 1: Interconnecting Local Digital Twins"
 permalink: /call-one/
 ---
 
-# 🏙️ LDT4SSC Open Call: Interconnecting Local Digital Twins (Work Strand 1)
+# 🏙️ LDT4SSC Open Call: Interconnecting Local Digital Twins 
+#### Work Strand 1
 
 ### Funding opportunity for smarter, connected communities across Europe
 
-The **Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)** project, funded by the **Digital Europe Programme (DEP)**, invites applications for its **first Open Call (Work Strand 1)**.
+The **Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)** project, funded by the **Digital Europe Programme (DEP)**, invites applications for its **first Open Call (of Work Strand 1)**.
 
 This call focuses on **interconnecting existing Local Digital Twins (LDTs)** to build a **federated European network** that supports seamless data exchange, shared services, and interoperability across communities.
 
