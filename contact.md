@@ -14,4 +14,4 @@ Feel free to reach out to us via email or follow our updates on LinkedIn and sub
 
 <a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank">LinkedIn</a>
 
-[Newsletter](https://marketing.egoi.page/aeve86B1/signup)
+[Newsletter](https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter)
