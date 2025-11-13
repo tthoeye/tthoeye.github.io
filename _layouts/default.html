@@ -30,6 +30,9 @@
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
+    {% if page.banner %}
+      <div id="banner"><img src="{{ page.banner | relative_url }}" alt="Page Banner" class="page-banner"/></div>
+    {% endif %}
     {{content}}
   </div>
   {% include footer.html %}
