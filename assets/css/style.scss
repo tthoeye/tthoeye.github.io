@@ -106,6 +106,51 @@ $sub-footer-text-color: lighten($primary, 10%);
 @import "pages/page-teams";
 @import "pages/page-service";
 
+// Custom styles for submenu functionality
+.main-menu {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      position: relative;
+
+      &.has-children {
+        &:hover > .submenu {
+          display: block;
+        }
+      }
+
+      .submenu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: $white;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+          a {
+            display: block;
+            padding: 0.5rem 1rem;
+            color: $black;
+            text-decoration: none;
+
+            &:hover {
+              background: $primary;
+              color: $white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 body {
   font-size: 16px;
   line-height: 1.2;
