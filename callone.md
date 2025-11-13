@@ -2,6 +2,7 @@
 layout: page
 title: "Open Call 1: Interconnecting Local Digital Twins"
 permalink: /call-one/
+banner: /images/banner-call-one.jpg
 ---
 
 # 🏙️ LDT4SSC Open Call: Interconnecting Local Digital Twins 
