@@ -52,9 +52,9 @@ All documents and the complete submission guidelines will be available from **14
 
 ## 📬 How to Apply
 
-Applications must be submitted electronically via the **LDT4SSC Open Call Portal**:
+Applications must be submitted via email the **LDT4SSC Open Call Mailbox**:
 
-👉 [**Submit Your Application**](link-to-submission-portal)
+👉 [**Submit Your Application via Email**](mailto:application@ldt4ssc.eu)
 
 Before applying, please ensure:
 - All required documents are completed and signed  
@@ -69,5 +69,5 @@ Are you an expert in **digital twins, data spaces, or urban innovation**?
 We are also seeking **independent evaluators** for the LDT4SSC Calls for Pilots across all work strands.  
 Compensation will be provided.
 
-📄 [**Learn More & Apply as an Evaluator**](link-to-expert-call)
+📄 [**Get in touch to apply as an Evaluator**](mailto:info@ldt4ssc.eu)
 
