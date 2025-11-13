@@ -8,6 +8,10 @@ main:
   - name: "Open Calls"
     url: "/opencalls/"
     weight: 3
+    children:
+      - name: "Call 1: Interconnecting Local Digital Twins"
+        url: "/call-one/"
+        weight: 1
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
     weight: 4
