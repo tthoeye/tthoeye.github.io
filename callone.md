@@ -45,11 +45,11 @@ To apply, please prepare and submit the following documents using the provided t
 1. Check your eligibility
 2. Prepare and complete the following documents using the official templates:
 
--- [**Application Form** – Download Template (.docx)](link-to-application-template)  
--- [**Budget Form** – Download Template (.xlsx)](link-to-budget-template)  
--- [**Consortium Declaration** – Download Template (.pdf)](link-to-consortium-template)  
--- [**Ethics & Data Management Statement** – Download Template (.docx)](link-to-ethics-template)  
-
+-- [**Letter of Commitment** – Download Template (.docx)](/documents/letter_of_commitment.docx)
+-- [**Ownership and Control Declaration** – Download Template (.docx)](/documents/ownership_control_declaration.docx)
+-- [**Financial Form** – Download Template (.xlsx)](/documents/financial_form.xlsx)  
+-- [**Ethics and Data Protection Assessment** – Download Template (.xlsx)](/documents/ethics_and_data_protection_assessment.xlsx)  
+ 
 3. Before submitting, ensure that all required documents are completed and signed, the consortium meets the eligibility criteria, the proposal aligns with the objectives of Work Strand 1.
 4. Submit your application via the LDT4SSC mailbox: 👉 [Submit here](mailto:application@ldt4ssc.eu)
 
