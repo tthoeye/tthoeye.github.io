@@ -9,7 +9,7 @@ main:
     url: "/opencalls/"
     weight: 3
     children:
-      - name: "Call 1: Interconnecting Local Digital Twins"
+      - name: "Open Call 1"
         url: "/call-one/"
         weight: 1
   - name: "Knowledge Hub"

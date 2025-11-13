@@ -109,7 +109,7 @@ $sub-footer-text-color: lighten($primary, 10%);
 // Custom styles for submenu functionality
 .main-menu {
   ul {
-    list-style: none;
+    list-style: none; // Remove bullet points
     padding: 0;
     margin: 0;
 
@@ -117,19 +117,22 @@ $sub-footer-text-color: lighten($primary, 10%);
       position: relative;
 
       &.has-children {
+        .submenu {
+          display: none; // Ensure submenu is hidden by default
+        }
+
         &:hover > .submenu {
-          display: block;
+          display: block; // Show submenu only on hover
         }
       }
 
       .submenu {
-        display: none;
         position: absolute;
         top: 100%;
         left: 0;
         background: $white;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        list-style: none;
+        list-style: none; // Remove bullet points from submenu
         padding: 0;
         margin: 0;
 
