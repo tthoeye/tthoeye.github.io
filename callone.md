@@ -5,10 +5,9 @@ permalink: /call-one/
 banner: /images/banner-call-one.jpg
 ---
 
-# LDT4SSC Open Call 1: Interconnecting Local Digital Twins 
 #### Work Strand 1
 
-### What is it about?
+## What is it about?
 
 The **Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)** project, funded by the **Digital Europe Programme (DEP)**, invites applications for its **first Open Call (of Work Strand 1)**.
 
@@ -42,16 +41,17 @@ We invite organisations that operate existing Local Digital Twin components or w
 
 To apply, please prepare and submit the following documents using the provided templates:
 
-1. Check your eligibility
+1. Read through the 👉 [Pilot Manual](/documents/ldt4ssc_pilot_manual_ws1.pdf)
 2. Prepare and complete the following documents using the official templates:
 
--- [**Letter of Commitment** – Download Template (.docx)](/documents/letter_of_commitment.docx)
--- [**Ownership and Control Declaration** – Download Template (.docx)](/documents/ownership_control_declaration.docx)
--- [**Financial Form** – Download Template (.xlsx)](/documents/financial_form.xlsx)  
--- [**Ethics and Data Protection Assessment** – Download Template (.xlsx)](/documents/ethics_and_data_protection_assessment.xlsx)  
+- [**Application Form** - Download Template (.docx)](/documents/ldt4ssc_application_form_ws1.docx)
+- [**Letter of Commitment** – Download Template (.docx)](/documents/letter_of_commitment.docx)
+- [**Ownership and Control Declaration** – Download Template (.docx)](/documents/ownership_control_declaration.docx)
+- [**Financial Form** – Download Template (.xlsx)](/documents/financial_form.xlsx)  
+- [**Ethics and Data Protection Assessment** – Download Template (.xlsx)](/documents/ethics_and_data_protection_assessment.xlsx)  
  
 3. Before submitting, ensure that all required documents are completed and signed, the consortium meets the eligibility criteria, the proposal aligns with the objectives of Work Strand 1.
-4. Submit your application via the LDT4SSC mailbox: 👉 [Submit here](mailto:application@ldt4ssc.eu)
+4. Submit your application via the LDT4SSC mailbox: 👉 [Submit here](mailto:applications@ldt4ssc.eu)
 
 
 All documents and the complete submission guidelines will be available from **14 November 2025** on this website.
@@ -61,4 +61,4 @@ All documents and the complete submission guidelines will be available from **14
 - Find partners to collaborate with via the Matchmaking Platform, click [here](https://www.b2match.com/e/local-digital-twins-smart-communities)
 - Join the upcoming information session on 25 November 2025 and register [here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration)
 - Join the information session on 3 December 2025, the link will be published soon
-- Subscribe to our newsletter [here](https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter)
+- Subscribe to our newsletter [here](https://marketing.egoi.page/aeve86B1/signup)
