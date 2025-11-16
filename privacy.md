@@ -5,8 +5,6 @@ description: The Local Digital Twins for Smart Communities project (LDT4SSC) sup
 permalink: /privacy/
 ---
 
-Privacy Statement
-
 # 1\. About us
 
 We are a diverse group of organisations united by a common goal: to deploy the Local Digital Twins for Smart and Sustainable Communities.
