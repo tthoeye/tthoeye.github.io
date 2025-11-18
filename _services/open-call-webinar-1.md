@@ -14,4 +14,4 @@ Participants will gain a clear understanding of the **vision, objectives, techni
 
 The agenda will be shared shortly. 
 
-Register [here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration)) for the webinar. 
+Register [here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar. 
