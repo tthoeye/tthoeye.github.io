@@ -1,6 +1,8 @@
 ---
 title: "LDT4SSC Webinar: Open Call – Work Strand 1"
 date: 2025-11-25
+slug: "open-call-webinar-1"
+url: "/services/open-call-webinar-1/"
 weight: 496
 ---
 
