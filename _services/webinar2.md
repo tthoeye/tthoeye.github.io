@@ -11,69 +11,47 @@ This session is open to all stakeholders interested in strengthening the digital
 
 Participants will gain a clear understanding of the **vision, objectives, technical requirements, funding structure and application process** for the open call, as well as how to access support via the **Matchmaking Platform** and **Helpdesk**.
 
-Please find the agenda below:
+<style>
+  .custom-button {
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+  }
 
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Agenda Item</th>
-      <th>Lead</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#f9f9f9;">
-      <td>5 min</td>
-      <td>
-        <b>Welcome & Opening Remarks</b><br>
-        Introduction to LDT4SSC
-      </td>
-      <td>OASC (Karl-Filip Coenegrachts)</td>
-    </tr>
-    <tr>
-      <td>5 min</td>
-      <td>
-        <b>Welcome & Opening Remarks</b><br>
-        Setting the Scene<br>
-        Introduction to Work Strand 1
-      </td>
-      <td>Technopolis Group (Laura Galante, Santiago Donat)</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td>15 min</td>
-      <td>
-        <b>Presentation on the requirements for-, details of-, and opportunities provided by- the Open Call for Work Strand 1</b><br>
-        Funding structure and financial support mechanisms<br>
-        Application process and timeline
-      </td>
-      <td>Technopolis Group (Laura Galante, Elisa Seminaroti)</td>
-    </tr>
-    <tr>
-      <td>10 min</td>
-      <td>
-        <b>Eligibility criteria</b><br>
-        Technical and non-technical requirements
-      </td>
-      <td>Cerema (Laura Riou)</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td>20 min</td>
-      <td>
-        <b>Support to Applicants</b><br>
-        Introduction to the Matchmaking Platform<br>
-        The Helpdesk
-      </td>
-      <td>ENoLL (Michelle González Torres)</td>
-    </tr>
-    <tr>
-      <td>30 min</td>
-      <td>
-        <b>Q&As</b><br>
-        Moderated by ENoLL
-      </td>
-      <td>ENoLL</td>
-    </tr>
-  </tbody>
-</table>
+  .agenda-button {
+    background-color: #1F75D6;
+  }
+
+  .agenda-button:hover {
+    background-color: #175BB5; /* slightly darker blue */
+  }
+
+  .register-button {
+    background-color: #29A329;
+  }
+
+  .register-button:hover {
+    background-color: #238F27; /* slightly darker green */
+  }
+</style>
+
+<div style="display:flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <!-- Agenda Button -->
+  <a href="https://drive.google.com/file/d/1LXwZM6DH5coSCz4vWbrCNyjAGMYccoQK/view?usp=sharing" target="_blank"
+     class="custom-button agenda-button">
+    View Agenda
+  </a>
+
+  <!-- Registration Button -->
+  <a href="https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration" target="_blank"
+     class="custom-button register-button">
+    Register Now
+  </a>
+</div>
+
 
 
