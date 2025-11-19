@@ -25,55 +25,50 @@ Please find the agenda below:
     <tr style="background-color:#f9f9f9;">
       <td>5 MIN</td>
       <td>
-        <b>WELCOME & OPENING REMARKS</b><br>
-        - INTRODUCTION TO LDT4SSC
+        <b style="text-transform: uppercase;">WELCOME & OPENING REMARKS</b><br>
+        <span style="text-transform: uppercase;">INTRODUCTION TO LDT4SSC</span>
       </td>
-      <td><span style="text-transform: uppercase;">OASC</span> (<span style="text-transform: capitalize;">Karl-Filip Coenegrachts</span>)</td>
+      <td><span style="text-transform: uppercase;">OASC</span> (<span style="text-transform: none;">Karl-Filip Coenegrachts</span>)</td>
     </tr>
     <tr>
       <td>5 MIN</td>
       <td>
-        <b>WELCOME & OPENING REMARKS</b><br>
-        - SETTING THE SCENE<br>
-        - INTRODUCTION TO WORK STRAND 1
+        <b style="text-transform: uppercase;">WELCOME & OPENING REMARKS</b><br>
+        <span style="text-transform: uppercase;">SETTING THE SCENE</span><br>
+        <span style="text-transform: uppercase;">INTRODUCTION TO WORK STRAND 1</span>
       </td>
-      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: capitalize;">Laura Galante, Santiago Donat</span>)</td>
+      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: none;">Laura Galante, Santiago Donat</span>)</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td>15 MIN</td>
       <td>
-        <b>PRESENTATION ON THE REQUIREMENTS FOR-, DETAILS OF-, AND OPPORTUNITIES PROVIDED BY- THE OPEN CALL FOR WORK STRAND 1</b><br>
-        - FUNDING STRUCTURE AND FINANCIAL SUPPORT MECHANISMS<br>
-        - APPLICATION PROCESS AND TIMELINE
+        <b style="text-transform: uppercase;">PRESENTATION ON THE REQUIREMENTS FOR-, DETAILS OF-, AND OPPORTUNITIES PROVIDED BY- THE OPEN CALL FOR WORK STRAND 1</b><br>
+        <span style="text-transform: uppercase;">FUNDING STRUCTURE AND FINANCIAL SUPPORT MECHANISMS</span><br>
+        <span style="text-transform: uppercase;">APPLICATION PROCESS AND TIMELINE</span>
       </td>
-      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: capitalize;">Laura Galante, Elisa Seminaroti</span>)</td>
+      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: none;">Laura Galante, Elisa Seminaroti</span>)</td>
     </tr>
     <tr>
       <td>10 MIN</td>
       <td>
-        <b>ELIGIBILITY CRITERIA</b><br>
-        - TECHNICAL AND NON-TECHNICAL REQUIREMENTS
+        <b style="text-transform: uppercase;">ELIGIBILITY CRITERIA</b><br>
+        <span style="text-transform: uppercase;">TECHNICAL AND NON-TECHNICAL REQUIREMENTS</span>
       </td>
-      <td><span style="text-transform: none;">Cerema</span> (<span style="text-transform: capitalize;">Laura Riou</span>)</td>
+      <td><span style="text-transform: none;">Cerema</span> (<span style="text-transform: none;">Laura Riou</span>)</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td>20 MIN</td>
       <td>
-        <b>SUPPORT TO APPLICANTS</b><br>
-        - INTRODUCTION TO THE MATCHMAKING PLATFORM<br>
-        - THE HELPDESK
+        <b style="text-transform: uppercase;">SUPPORT TO APPLICANTS</b><br>
+        <span style="text-transform: uppercase;">INTRODUCTION TO THE MATCHMAKING PLATFORM</span><br>
+        <span style="text-transform: uppercase;">THE HELPDESK</span>
       </td>
       <td><span style="text-transform: uppercase;">ENoLL</span></td>
     </tr>
     <tr>
       <td>30 MIN</td>
       <td>
-        <b>Q&AS</b><br>
-        - MODERATED BY ENoLL
-      </td>
-      <td><span style="text-transform: uppercase;">ENoLL</span></td>
-    </tr>
-  </tbody>
-</table>
+        <b style="text-transform: uppercase;">Q&AS</b
+
 
 [Register here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar
