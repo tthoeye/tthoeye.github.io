@@ -16,60 +16,64 @@ Please find the agenda below:
 <table>
   <thead>
     <tr>
-      <th>TIME</th>
-      <th>AGENDA ITEM</th>
-      <th>LEAD</th>
+      <th>Time</th>
+      <th>Agenda Item</th>
+      <th>Lead</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td>5 MIN</td>
+      <td>5 min</td>
       <td>
-        <b style="text-transform: uppercase;">WELCOME & OPENING REMARKS</b><br>
-        <span style="text-transform: uppercase;">INTRODUCTION TO LDT4SSC</span>
+        <b>Welcome & Opening Remarks</b><br>
+        Introduction to LDT4SSC
       </td>
-      <td><span style="text-transform: uppercase;">OASC</span> (<span style="text-transform: none;">Karl-Filip Coenegrachts</span>)</td>
+      <td>OASC (Karl-Filip Coenegrachts)</td>
     </tr>
     <tr>
-      <td>5 MIN</td>
+      <td>5 min</td>
       <td>
-        <b style="text-transform: uppercase;">WELCOME & OPENING REMARKS</b><br>
-        <span style="text-transform: uppercase;">SETTING THE SCENE</span><br>
-        <span style="text-transform: uppercase;">INTRODUCTION TO WORK STRAND 1</span>
+        <b>Welcome & Opening Remarks</b><br>
+        Setting the Scene<br>
+        Introduction to Work Strand 1
       </td>
-      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: none;">Laura Galante, Santiago Donat</span>)</td>
+      <td>Technopolis Group (Laura Galante, Santiago Donat)</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
-      <td>15 MIN</td>
+      <td>15 min</td>
       <td>
-        <b style="text-transform: uppercase;">PRESENTATION ON THE REQUIREMENTS FOR-, DETAILS OF-, AND OPPORTUNITIES PROVIDED BY- THE OPEN CALL FOR WORK STRAND 1</b><br>
-        <span style="text-transform: uppercase;">FUNDING STRUCTURE AND FINANCIAL SUPPORT MECHANISMS</span><br>
-        <span style="text-transform: uppercase;">APPLICATION PROCESS AND TIMELINE</span>
+        <b>Presentation on the requirements for-, details of-, and opportunities provided by- the Open Call for Work Strand 1</b><br>
+        Funding structure and financial support mechanisms<br>
+        Application process and timeline
       </td>
-      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: none;">Laura Galante, Elisa Seminaroti</span>)</td>
+      <td>Technopolis Group (Laura Galante, Elisa Seminaroti)</td>
     </tr>
     <tr>
-      <td>10 MIN</td>
+      <td>10 min</td>
       <td>
-        <b style="text-transform: uppercase;">ELIGIBILITY CRITERIA</b><br>
-        <span style="text-transform: uppercase;">TECHNICAL AND NON-TECHNICAL REQUIREMENTS</span>
+        <b>Eligibility criteria</b><br>
+        Technical and non-technical requirements
       </td>
-      <td><span style="text-transform: none;">Cerema</span> (<span style="text-transform: none;">Laura Riou</span>)</td>
+      <td>Cerema (Laura Riou)</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
-      <td>20 MIN</td>
+      <td>20 min</td>
       <td>
-        <b style="text-transform: uppercase;">SUPPORT TO APPLICANTS</b><br>
-        <span style="text-transform: uppercase;">INTRODUCTION TO THE MATCHMAKING PLATFORM</span><br>
-        <span style="text-transform: uppercase;">THE HELPDESK</span>
+        <b>Support to Applicants</b><br>
+        Introduction to the Matchmaking Platform<br>
+        The Helpdesk
       </td>
-      <td><span style="text-transform: uppercase;">ENoLL</span></td>
+      <td>ENoLL (Michelle González Torres)</td>
     </tr>
     <tr>
-      <td>30 MIN</td>
+      <td>30 min</td>
       <td>
-        <b style="text-transform: uppercase;">Q&AS</b
+        <b>Q&As</b><br>
+        Moderated by ENoLL
+      </td>
+      <td>ENoLL</td>
+    </tr>
+  </tbody>
+</table>
 
 
-
-[Register here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar
