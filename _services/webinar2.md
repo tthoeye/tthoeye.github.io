@@ -11,4 +11,69 @@ This session is open to all stakeholders interested in strengthening the digital
 
 Participants will gain a clear understanding of the **vision, objectives, technical requirements, funding structure and application process** for the open call, as well as how to access support via the **Matchmaking Platform** and **Helpdesk**.
 
+Please find the agenda below:
+
+<table>
+  <thead>
+    <tr>
+      <th>TIME</th>
+      <th>AGENDA ITEM</th>
+      <th>LEAD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f9f9f9;">
+      <td>5 MIN</td>
+      <td>
+        <b>WELCOME & OPENING REMARKS</b><br>
+        - INTRODUCTION TO LDT4SSC
+      </td>
+      <td><span style="text-transform: uppercase;">OASC</span> (<span style="text-transform: capitalize;">Karl-Filip Coenegrachts</span>)</td>
+    </tr>
+    <tr>
+      <td>5 MIN</td>
+      <td>
+        <b>WELCOME & OPENING REMARKS</b><br>
+        - SETTING THE SCENE<br>
+        - INTRODUCTION TO WORK STRAND 1
+      </td>
+      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: capitalize;">Laura Galante, Santiago Donat</span>)</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td>15 MIN</td>
+      <td>
+        <b>PRESENTATION ON THE REQUIREMENTS FOR-, DETAILS OF-, AND OPPORTUNITIES PROVIDED BY- THE OPEN CALL FOR WORK STRAND 1</b><br>
+        - FUNDING STRUCTURE AND FINANCIAL SUPPORT MECHANISMS<br>
+        - APPLICATION PROCESS AND TIMELINE
+      </td>
+      <td><span style="text-transform: none;">Technopolis Group</span> (<span style="text-transform: capitalize;">Laura Galante, Elisa Seminaroti</span>)</td>
+    </tr>
+    <tr>
+      <td>10 MIN</td>
+      <td>
+        <b>ELIGIBILITY CRITERIA</b><br>
+        - TECHNICAL AND NON-TECHNICAL REQUIREMENTS
+      </td>
+      <td><span style="text-transform: none;">Cerema</span> (<span style="text-transform: capitalize;">Laura Riou</span>)</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td>20 MIN</td>
+      <td>
+        <b>SUPPORT TO APPLICANTS</b><br>
+        - INTRODUCTION TO THE MATCHMAKING PLATFORM<br>
+        - THE HELPDESK
+      </td>
+      <td><span style="text-transform: uppercase;">ENoLL</span></td>
+    </tr>
+    <tr>
+      <td>30 MIN</td>
+      <td>
+        <b>Q&AS</b><br>
+        - MODERATED BY ENoLL
+      </td>
+      <td><span style="text-transform: uppercase;">ENoLL</span></td>
+    </tr>
+  </tbody>
+</table>
+
 [Register here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar
