@@ -11,47 +11,24 @@ This session is open to all stakeholders interested in strengthening the digital
 
 Participants will gain a clear understanding of the **vision, objectives, technical requirements, funding structure and application process** for the open call, as well as how to access support via the **Matchmaking Platform** and **Helpdesk**.
 
-<style>
-  .custom-button {
-    color: white;
-    padding: 12px 24px;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 8px;
-    font-family: Arial, sans-serif;
-    transition: background-color 0.3s ease;
-  }
-
-  .agenda-button {
-    background-color: #1F75D6;
-  }
-
-  .agenda-button:hover {
-    background-color: #175BB5; /* slightly darker blue */
-  }
-
-  .register-button {
-    background-color: #29A329;
-  }
-
-  .register-button:hover {
-    background-color: #238F27; /* slightly darker green */
-  }
-</style>
-
 <div style="display:flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <!-- Agenda Button -->
   <a href="https://drive.google.com/file/d/1LXwZM6DH5coSCz4vWbrCNyjAGMYccoQK/view?usp=sharing" target="_blank"
-     class="custom-button agenda-button">
-    View Agenda
+     style="background-color: #1F75D6; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: Arial, sans-serif;"
+     onmouseover="this.style.backgroundColor='#175BB5';" 
+     onmouseout="this.style.backgroundColor='#1F75D6';">
+    View agenda
   </a>
 
   <!-- Registration Button -->
   <a href="https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration" target="_blank"
-     class="custom-button register-button">
-    Register Now
+     style="background-color: #29A329; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: Arial, sans-serif;"
+     onmouseover="this.style.backgroundColor='#238F27';" 
+     onmouseout="this.style.backgroundColor='#29A329';">
+    Register here
   </a>
 </div>
+
 
 
 
