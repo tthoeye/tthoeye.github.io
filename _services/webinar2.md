@@ -11,6 +11,30 @@ This session is open to all stakeholders interested in strengthening the digital
 
 Participants will gain a clear understanding of the **vision, objectives, technical requirements, funding structure and application process** for the open call, as well as how to access support via the **Matchmaking Platform** and **Helpdesk**.
 
-The agenda will be shared shortly.
+**Agenda**
+
+| Time  | Agenda Item | Lead |
+|-------|-------------|------|
+| 5min | **Welcome & Opening Remarks**  
+- Introduction to LDT4SSC | **OASC**  
+**Karl-Filip Coenegrachts** |
+| 5min | **Welcome & Opening Remarks**  
+- Setting the Scene  
+- Introduction to Work Strand 1 | **Technopolis Group**  
+**Laura Galante**  
+**Santiago Donat** |
+| 15min | Presentation on the requirements for-, details of-, and opportunities provided by the Open Call for Work Strand 1  
+- Funding structure and financial support mechanisms  
+- Application process and timeline | **Technopolis Group**  
+**Laura Galante**  
+**Elisa Seminaroti** |
+| 10min | - Eligibility criteria  
+- Technical and non-technical requirements | **Cerema**  
+**Laura Riou** |
+| 20min | **Support to Applicants**  
+- Introduction to the Matchmaking Platform  
+- The Helpdesk | **ENoLL** |
+| 30min | **Q&As** | **Moderated by ENoLL** |
+
 
 [Register here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar
