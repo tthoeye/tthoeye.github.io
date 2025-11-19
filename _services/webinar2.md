@@ -11,12 +11,4 @@ This session is open to all stakeholders interested in strengthening the digital
 
 Participants will gain a clear understanding of the **vision, objectives, technical requirements, funding structure and application process** for the open call, as well as how to access support via the **Matchmaking Platform** and **Helpdesk**.
 
-Please find the agenda below:
-
-| Time  | Agenda Item | Lead          |
-|:------|---:|:-------------:|
-| 5 min |  **Welcome & Opening Remarks**<br>- Introduction to LDT4SSC                                      | Karl-Filip Coenegrachts, OASC                    |
-| 5 min |  **Welcome & Opening Remarks**<br>- Setting the Scene<br>- Introduction to Work Strand 1         | Laura Galante, Santiago Donat, Technopolis Group |
-
-
 [Register here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration) for the webinar
