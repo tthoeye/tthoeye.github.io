@@ -16,4 +16,4 @@ Experts interested in serving as evaluators for the LDT4SSC Open Calls are invit
 
 More information can be found in the document [Information for Prospective Experts](/documents/ldt4ssc_experts_manual.pdf)
 
-👉 [Express your Interest here]("https://ec.europa.eu/eusurvey/runner/87d34dd5-db87-3db4-2046-2c2a54f7527f")
+👉 [Express your Interest here](https://ec.europa.eu/eusurvey/runner/87d34dd5-db87-3db4-2046-2c2a54f7527f)
