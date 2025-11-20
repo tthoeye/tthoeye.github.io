@@ -61,4 +61,4 @@ All documents and the complete submission guidelines will be available from **14
 - Find partners to collaborate with via the Matchmaking Platform, click [here](https://www.b2match.com/e/local-digital-twins-smart-communities)
 - Join the upcoming information session on 25 November 2025 and register [here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration)
 - Join the information session on 3 December 2025, the link will be published soon
-- Subscribe to our newsletter [here](https://marketing.egoi.page/aeve86B1/signup)
+- Subscribe to our newsletter [here](https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter)
