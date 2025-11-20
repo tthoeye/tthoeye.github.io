@@ -1,7 +1,7 @@
 ---
 title: "Recording and Slides Now Available – LDT4SSC Webinar on Digital Twin Pilots"
 date: 2025-10-10
-weight: 3
+weight: 499
 ---
 The recording and presentation slides from the LDT4SSC webinar “From Ideas to Value – Driving Innovation for Local Digital Twins” are now available.
 

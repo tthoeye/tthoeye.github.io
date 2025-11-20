@@ -18,7 +18,7 @@ main:
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
     weight: 4
-  - name: "News"
+  - name: "News & Events"
     url: "/news/"
     weight: 5
   - name: "Contact"
@@ -38,7 +38,7 @@ footer:
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
     weight: 4
-  - name: "News"
+  - name: "News & Events"
     url: "/news/"
     weight: 5
   - name: "Contact"
