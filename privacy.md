@@ -245,7 +245,7 @@ The European Commission, for the purpose of reviewing project deliverables that 
 
 **Cookies**
 
-Cookies are used by the website to improve the user experience and by analytics tools, which are used to monitor the audience. To read our Cookie Policy, please click on this [link](/documents/LDT4SSC_Cookie Policy.pdf).
+Cookies are used by the website to improve the user experience and by analytics tools, which are used to monitor the audience. To read our Cookie Policy, [please click on this link](/documents/LDT4SSC_Cookie_Policy.pdf).
 
 **Protection of personal information**
 
