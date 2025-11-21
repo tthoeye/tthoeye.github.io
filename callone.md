@@ -41,7 +41,7 @@ We invite organisations that operate existing Local Digital Twin components or w
 
 To apply, please prepare and submit the following documents using the provided templates:
 
-1. Read through the 👉 [Pilot Manual](/documents/ldt4ssc_pilot_manual_ws1.pdf)
+1. Read through the 👉 [Pilot Manual]()
 2. Prepare and complete the following documents using the official templates:
 
 - [**Application Form** - Download Template (.docx)](/documents/ldt4ssc_application_form_ws1.docx)
