@@ -229,7 +229,7 @@ country of residence and/or employment
 professional experience and educational background  
 any additional information voluntarily provided.
 
-**Storage period**. Personal data are stored until the end of the project (30 November 2028), unless a longer retention period is required under EU or national audit obligations..
+**Storage period**. Personal data are stored until the end of the project (30 November 2028), unless a longer retention period is required under EU or national audit obligations.
 
 **Processors**. TGB
 
@@ -245,7 +245,7 @@ The European Commission, for the purpose of reviewing project deliverables that 
 
 **Cookies**
 
-Cookies are used by the website to improve the user experience and by analytics tools, which are used to monitor the audience. To read our Cookie Policy, please click on this link.
+Cookies are used by the website to improve the user experience and by analytics tools, which are used to monitor the audience. To read our Cookie Policy, please click on this [link](/documents/LDT4SSC_Cookie Policy.pdf).
 
 **Protection of personal information**
 
