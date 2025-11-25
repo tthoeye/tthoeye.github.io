@@ -2,15 +2,14 @@
 title: "LDT4SSC & DS4SSCC Joint Stakeholder Forum Meeting, 3 December 2025"
 date: 2025-11-25
 event_date: 2025-12-3
-weight: 496
+weight: 495
 ---
 
 Two key projects on European digital transformation at local and regional level are organising a joint Stakeholder Forum meeting: the Local Digital Twins for Smart Sustainable Communities (LDT4SSC)and the EU Data Space for Smart and Sustainable Cities and Communities (DS4SSCC).
 
 The two initiatives organise Stakeholder Forums to regularly update participants on the progress of their work, highlight relevant events and to receive valuable feedback and questions: Join the next joint meeting to learn more!
 
-*3 December 2025*
-*10:00 – 12:00 CET*
+*3 December 2025 at 10:00 – 12:00 CET*
 
 **LDT4SSC Stakeholder Pitching Time**
 
