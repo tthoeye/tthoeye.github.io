@@ -66,17 +66,3 @@ At its heart, the project puts people first. Using ethical and trustworthy AI, L
   </div>
 </section>
 
-<div style="text-align:center; margin: 40px 0;">
-  <a href="https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration" target="_blank"
-     style="background-color:#28a745; /* green from key goals */
-            color:white;
-            padding: 15px 30px;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: 8px;
-            text-decoration: none;
-            transition: background-color 0.3s;">
-    Register now for the LDT4SSC Open Call – Work Strand 1 Webinar (25 November)
-  </a>
-</div>
-
