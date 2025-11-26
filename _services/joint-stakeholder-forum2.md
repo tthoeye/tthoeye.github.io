@@ -13,7 +13,7 @@ The two initiatives organise Stakeholder Forums to regularly update participants
 
 **LDT4SSC Stakeholder Pitching Time**
 
-In view of the LDT4SSC open call for pilots, the Stakeholder Forum meeting will allow Stakeholders to introduce themselves to the community in a short pitching session: You can now book your 5-minute slot to present yourself by emailing sophie@oascities.org. The slots will be allocated on a first-come-first-served basis. You will be able to share the following points:
+In view of the LDT4SSC open call for pilots, the Stakeholder Forum meeting will allow Stakeholders to introduce themselves to the community in a short pitching session. Stakeholders will be able to share the following points:
 
 - Share your use case, if you have any
 - Present your competencies and history with EU projects
