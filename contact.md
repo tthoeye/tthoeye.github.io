@@ -7,46 +7,49 @@ description: Contact Us
 
 Got a question or want to connect with the LDT4SSC team? Feel free to reach out to us via email or follow our updates on LinkedIn and subsrcibe to our newsletter. 
 
-<p align="left">
+<p align="left" style="display: flex; gap: 12px; flex-wrap: wrap;">
+
+  <!-- Email -->
   <a href="mailto:info@ldt4ssc.eu" target="_blank" style="
     display: inline-block;
     padding: 10px 18px;
-    background-color: #004C97; /* blue */
+    background-color: #1F75D6; /* Tech Blue */
     color: white;
     text-decoration: none;
     border-radius: 6px;
     font-weight: 600;
-    margin-bottom: 10px;
+    white-space: nowrap;
   ">
     Send us an email
   </a>
-</p>
 
-<p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank" style="
     display: inline-block;
     padding: 10px 18px;
-    background-color: #6BC06F; /* green */
+    background-color: #29A329; /* Eco Green */
     color: white;
     text-decoration: none;
     border-radius: 6px;
     font-weight: 600;
-    margin-bottom: 10px;
+    white-space: nowrap;
   ">
     Follow us on LinkedIn
   </a>
-</p>
 
-<p align="left">
+  <!-- Newsletter -->
   <a href="https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter" target="_blank" style="
     display: inline-block;
     padding: 10px 18px;
-    background-color: #F2C94C; /* yellow */
-    color: black; /* better contrast on yellow */
+    background-color: #F5B400; /* Optimistic Yellow */
+    color: black; /* contrast on yellow */
     text-decoration: none;
     border-radius: 6px;
     font-weight: 600;
+    white-space: nowrap;
   ">
     Subscribe to our newsletter
   </a>
+
 </p>
+
