@@ -5,6 +5,38 @@ permalink: /call-one/
 banner: /images/banner-call-one.jpg
 ---
 
+<section style="padding: 20px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 30px;">
+  <h2>Work Strand One – Webinar Materials</h2>
+  <p>
+    Below you can find all materials from the Work Strand One Open Call webinar, 
+    including the slides, the full session recording and an introduction 
+    to the matchmaking platform.
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+
+    <!-- Slides Button (Tech Blue) -->
+    <a href="documents/LDT4SSC_WS1_Webinar.pdf" 
+       style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+       Download the Webinar Slides
+    </a>
+
+    <!-- Webinar Recording Button (Eco Green) -->
+    <a href="https://youtu.be/sP6zUzP-sDQ" 
+       style="background-color: #29A329; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+       Watch the Webinar Recording
+    </a>
+
+    <!-- Matchmaking Platform Intro Button (Community Yellow) -->
+    <a href="https://youtu.be/T1SeHtgg5ew" 
+       style="background-color: #F5B400; color: black; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+       Watch the Matchmaking Platform Introduction
+    </a>
+
+  </div>
+</section>
+
+
 #### Work Strand 1
 
 ## What is it about?
