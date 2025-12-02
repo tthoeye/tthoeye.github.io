@@ -16,7 +16,7 @@ banner: /images/banner-call-one.jpg
   <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
 
     <!-- Slides Button (Tech Blue) -->
-    <a href="(/documents/LDT4SSC_WS1_Webinar.pdf)" 
+    <a href="/documents/LDT4SSC_WS1_Webinar.pdf" 
        style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
        Download the Webinar Slides
     </a>
