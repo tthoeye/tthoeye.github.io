@@ -29,7 +29,7 @@ banner: /images/banner-call-one.jpg
 
     <!-- Matchmaking Platform Intro Button (Community Yellow) -->
     <a href="https://youtu.be/T1SeHtgg5ew" 
-       style="background-color: #F5B400; color: black; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+       style="background-color: #F5B400; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
        Watch the Matchmaking Platform Introduction
     </a>
 
