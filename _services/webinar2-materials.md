@@ -9,20 +9,19 @@ The session introduced the goals, technical requirements and funding structure o
 
 <!-- Slides Button (Tech Blue) -->
 <a href="/documents/LDT4SSC_WS1_Webinar.pdf" 
-   style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+   style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 0;">
    Download the Webinar Slides
 </a>
 
-
 <!-- Webinar Recording Button (Eco Green) -->
 <a href="https://youtu.be/sP6zUzP-sDQ" 
-   style="background-color: #29A329; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+   style="background-color: #29A329; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 0;">
    Watch the Webinar Recording
 </a>
 
-
 <!-- Matchmaking Platform Intro Button (Community Yellow) -->
 <a href="https://youtu.be/T1SeHtgg5ew" 
-   style="background-color: #F5B400; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
+   style="background-color: #F5B400; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 0;">
    Watch the Matchmaking Platform Introduction
 </a>
+
