@@ -7,6 +7,7 @@ Join the **LDT4SSC Matchmaking Session**, designed specifically for organisation
 This session is intended for organisations that **do not yet have a consortium** or who wish to **join an existing proposal**. 
 
 **Date:** 18 December 2025 
+
 **Time:** 11:30 AM – 1:00 PM CET 
 
 During the session, you will be able to: 
