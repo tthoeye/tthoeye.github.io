@@ -10,7 +10,7 @@ It focuses on how advanced digital and communication technologies can contribute
 The LDT4SSC project will be presented at the forum, promoting the WS2 and WS3 Open Calls in the context of ecological transition and territorial LDT use cases.
  
 <!-- Register Button -->
-<a href="[https://www.ocova.eu/en/]"
+<a href="https://www.ocova.eu/en/"
    style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; 
           text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 0;">
    Read more about the event here
