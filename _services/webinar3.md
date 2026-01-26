@@ -5,7 +5,7 @@ weight: 491
 ---
 Join us for an interactive webinar introducing the open call for **Work Strands 2 and 3** and the relaunch of **Work Strand 1** of the Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) initiative. This session is designed for any stakeholder interested in contributing to strengthen the digital capabilities of urban areas and becoming part of a federated European ecosystem of LDT-enabled communities.
 
-12 February 2026 at 10:00-12:00 CET
+**12 February 2026 at 10:00-12:00 CET**
 
 WS2 is dedicated to the creation of new Local Digital Twins designed around shared challenges that affect multiple cities and communities. It will support the co-design and deployment of data-driven services addressing concrete, cross-community needs. Work Strand 3 (WS3) develops advanced AI-based tools and innovative open-source components to enhance LDT capabilities with immersive and predictive services. 
 
