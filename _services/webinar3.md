@@ -30,19 +30,25 @@ Project Stakeholders:
 - NGOs, non-for-profits
 - Other stakeholders
 
-<!-- Register Button -->
-<a href="https://us06web.zoom.us/meeting/register/ke-353rwQrSVFw8oo-D9vA"
-   style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; 
-          text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 10px 10px 0;">
-   Register here
-</a>
+<!-- Button Row -->
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 15px 0;">
 
-<!-- Agenda Button -->
-<a href="documents/Agenda.pdf"
-   style="background-color: #F5B400; color: #4C5562; padding: 12px 20px; border-radius: 6px; 
-          text-decoration: none; font-weight: 600; display: inline-block; margin: 10px 0;">
-   View the agenda here
-</a>
+  <!-- Register Button -->
+  <a href="https://us06web.zoom.us/meeting/register/ke-353rwQrSVFw8oo-D9vA"
+     style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px;
+            text-decoration: none; font-weight: 600; display: inline-block;">
+     Register here
+  </a>
+
+  <!-- Agenda Button -->
+  <a href="https://ldt4ssc.eu/documents/Agenda.pdf"
+     style="background-color: #F5B400; color: #4C5562; padding: 12px 20px; border-radius: 6px;
+            text-decoration: none; font-weight: 600; display: inline-block;">
+     View the agenda here
+  </a>
+
+</div>
+
 
  
 
