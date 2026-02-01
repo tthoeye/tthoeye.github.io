@@ -2,7 +2,6 @@
 layout: page
 title: "Open Call 2: Open"
 permalink: /call-two/
-banner: /images/banner-call-one.jpg
 ---
 
 <div style="width:100vw; margin-left:calc(50% - 50vw); background:#ffffff;">
@@ -29,33 +28,6 @@ banner: /images/banner-call-one.jpg
   <p><strong>Work Strand 3:</strong> Adding advanced AI-based capabilities and open-source components with immersive and predictive services.</p>
 </div>
 
-<!-- WHY APPLY -->
-<h2 style="margin-top:60px; color:#29A329; text-align:center;">Why apply?</h2>
-
-<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; margin-top:30px;">
-
-  <div style="flex:1; min-width:260px; max-width:320px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.05); border-top:6px solid #1F75D6;">
-    <strong>01. Interconnect & Federate</strong><br><br>
-    Move beyond isolated pilots and create interoperable, cross-border Local Digital Twin networks across Europe.
-  </div>
-
-  <div style="flex:1; min-width:260px; max-width:320px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.05); border-top:6px solid #29A329;">
-    <strong>02. Secure Financial Support</strong><br><br>
-    €17 million funding pot enabling high-impact digital transformation without bearing the full financial burden.
-  </div>
-
-  <div style="flex:1; min-width:260px; max-width:320px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.05); border-top:6px solid #F5B400;">
-    <strong>03. Access the EU LDT Toolbox</strong><br><br>
-    Open-source specifications, reference architectures and certified AI tools.
-  </div>
-
-  <div style="flex:1; min-width:260px; max-width:320px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.05); border-top:6px solid #1F75D6;">
-    <strong>04. Deploy Advanced AI Services</strong><br><br>
-    Predictive simulations for climate resilience, smart mobility and policy testing.
-  </div>
-
-</div>
-
 <!-- WHAT YOU GET -->
 <h2 style="margin-top:70px; text-align:center;">What can you get?</h2>
 
@@ -66,38 +38,45 @@ banner: /images/banner-call-one.jpg
   <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Project duration: 12–18 months</div>
 </div>
 
-<!-- IMPORTANT DATES -->
-<h2 style="margin-top:50px; text-align:center;">What to remember?</h2>
-<ul style="max-width:600px; margin:0 auto;">
-  <li>Open Call launch: 2 February 2026</li>
-  <li>Submission deadline: 2 April 2026, 23:59 CEST</li>
-  <li>Expected pilot start: 31 August 2026</li>
-</ul>
+<!-- WHAT TO REMEMBER -->
+<h2 style="margin-top:60px; text-align:center;">What to remember?</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Open Call launch: 2 February 2026</div>
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Submission deadline: 2 April 2026, 23:59 CEST</div>
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Expected pilot start: 31 August 2026</div>
+</div>
 
 <!-- WHO CAN APPLY -->
-<h2 style="margin-top:50px; text-align:center;">Who can apply?</h2>
-<ul style="max-width:600px; margin:0 auto;">
-  <li>Local, regional and national authorities</li>
-  <li>Private organisations such as businesses and technology developers</li>
-  <li>NGOs and not-for-profits</li>
-  <li>Research institutions and academia</li>
-</ul>
+<h2 style="margin-top:60px; text-align:center;">Who can apply?</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Local, regional and national authorities</div>
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Private organisations & technology providers</div>
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">NGOs and not-for-profit organisations</div>
+  <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Research institutions and academia</div>
+</div>
 
 <!-- HOW TO APPLY -->
-<h2 style="margin-top:60px; text-align:center;">How to apply?</h2>
+<h2 style="margin-top:70px; text-align:center;">How to apply?</h2>
 <p style="text-align:center;">Prepare and submit the following documents using the provided templates per work strand.</p>
 
 <!-- WORK STRAND 1 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
 <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
 <p>Ensure all documents are completed and signed and that the proposal aligns with the objectives of Work Strand 1.</p>
+
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
 <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws1.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
 <a href="https://ldt4ssc.eu/documents/application_form_ws1.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership and Control Declaration</a>
+<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection Assessment</a>
+<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection</a>
+</div>
+
+<div style="text-align:center; margin-top:30px;">
+<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
 </div>
 </div>
 
@@ -105,13 +84,18 @@ banner: /images/banner-call-one.jpg
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
 <h3 style="color:#1F75D6;">Work Strand 2: Creating new Local Digital Twins based on common needs</h3>
 <p>Ensure all documents are completed and signed and that the proposal aligns with the objectives of Work Strand 2.</p>
+
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
 <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws2.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
 <a href="https://ldt4ssc.eu/documents/application_form_ws2.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership and Control Declaration</a>
+<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection Assessment</a>
+<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection</a>
+</div>
+
+<div style="text-align:center; margin-top:30px;">
+<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
 </div>
 </div>
 
@@ -119,13 +103,18 @@ banner: /images/banner-call-one.jpg
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
 <h3 style="color:#1F75D6;">Work Strand 3: Adding New Advanced AI-Based Capabilities to the LDTs Toolbox</h3>
 <p>Ensure all documents are completed and signed and that the proposal aligns with the objectives of Work Strand 3.</p>
+
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
 <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws3.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
 <a href="https://ldt4ssc.eu/documents/application_form_ws3.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership and Control Declaration</a>
+<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection</a>
+</div>
+
+<div style="text-align:center; margin-top:30px;">
+<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
 </div>
 </div>
 
@@ -135,17 +124,17 @@ banner: /images/banner-call-one.jpg
 
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:25px;">
 <a href="mailto:info@ldt4ssc.eu" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Email us</a>
-<a href="https://www.b2match.com/e/local-digital-twins-smart-communities" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Find Partners via the Matchmaking Platform</a>
-<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Join the Info Session – 12 Feb 2026</a>
-<a href="https://shorturl.at/BiMc9" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Subscribe to Our Newsletter</a>
+<a href="https://www.b2match.com/e/local-digital-twins-smart-communities" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Matchmaking Platform</a>
+<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Info Session – 12 Feb 2026</a>
+<a href="https://shorturl.at/BiMc9" style="padding:12px 24px; background:#1F75D6; color:white; border-radius:26px; text-decoration:none;">Subscribe to Newsletter</a>
 </div>
 
-<h3 style="margin-top:35px;">Interested to apply as an evaluator?</h3>
+<h3 style="margin-top:45px;">Interested to apply as an evaluator?</h3>
+
+<div style="margin-top:20px;">
 <a href="https://ldt4ssc.eu/call-evaluators/" style="padding:12px 26px; background:#29A329; color:white; border-radius:26px; text-decoration:none;">Open Call for Evaluators</a>
 </div>
+</div>
 
 </div>
 </div>
-
-
-
