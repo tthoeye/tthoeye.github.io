@@ -7,10 +7,6 @@ permalink: /call-two/
 <div style="width:100vw; margin-left:calc(50% - 50vw); background:#ffffff;">
 <div style="max-width:1400px; margin:0 auto; padding:60px 40px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
-<!-- HEADER -->
-<h1 style="color:#1F75D6; font-size:42px; text-align:center;">Open Call 2</h1>
-<p style="text-align:center; font-size:18px;">Status: <strong style="color:#29A329;">Open</strong></p>
-
 <!-- DESCRIPTION -->
 <div style="background:rgba(41,163,41,0.08); padding:40px; border-radius:20px; margin-top:40px;">
 <p>
