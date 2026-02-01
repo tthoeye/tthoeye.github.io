@@ -12,12 +12,12 @@ permalink: /call-two/
 <p style="text-align:center; font-size:18px;">Status: <strong style="color:#29A329;">Open</strong></p>
 
 <!-- DESCRIPTION -->
-<div style="background:rgba(31,117,214,0.08); padding:40px; border-radius:20px; margin-top:40px;">
+<div style="background:rgba(41,163,41,0.08); padding:40px; border-radius:20px; margin-top:40px;">
 <p>
 The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its second Open Call (Work Strand 1, 2 and 3).
 </p>
 
-<h2 style="color:#1F75D6;">What is Open Call 2?</h2>
+<h2 style="color:#29A329;">What is Open Call 2?</h2>
 <p>Open Call 2 invites applications for all three Work Strands.</p>
 <p><strong>Work Strand 1:</strong> Inter-connection of existing LDTs: demonstrates how existing Local Digital Twins can interconnect to form a European-scale network.</p>
 <p><strong>Work Strand 2:</strong> Creation of LDTs based on common needs: creation of new Local Digital Twins designed around shared challenges affecting multiple cities and communities.</p>
@@ -25,7 +25,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 </div>
 
 <!-- WHY APPLY -->
-<h2 style="margin-top:60px; color:#29A329;">Why apply?</h2>
+<h2 style="margin-top:60px; color:#29A329; text-align:center;">Why apply?</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px; justify-content:center;">
 
@@ -60,7 +60,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 </div>
 
 <!-- WHAT YOU GET -->
-<h2 style="margin-top:60px;">What can you get?</h2>
+<h2 style="margin-top:60px; text-align:center;">What can you get?</h2>
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
 <div style="background:#f4f5f7; padding:15px 22px; border-radius:12px;">Up to €1,000,000 per consortium</div>
 <div style="background:#f4f5f7; padding:15px 22px; border-radius:12px;">50% co-funding required</div>
@@ -69,7 +69,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 </div>
 
 <!-- WHAT TO REMEMBER -->
-<h2 style="margin-top:50px;">What to remember?</h2>
+<h2 style="margin-top:50px; text-align:center;">What to remember?</h2>
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Open Call launch: 2 February 2026</div>
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Submission deadline: 2 April 2026, 23:59 CEST</div>
@@ -77,7 +77,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 </div>
 
 <!-- WHO CAN APPLY -->
-<h2 style="margin-top:50px;">Who can apply?</h2>
+<h2 style="margin-top:50px; text-align:center;">Who can apply?</h2>
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Local, regional and national authorities</div>
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:12px;">Private organisations & technology developers</div>
@@ -86,9 +86,10 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 </div>
 
 <!-- HOW TO APPLY -->
-<h2 style="margin-top:60px;">How to apply?</h2>
+<h2 style="margin-top:60px; text-align:center;">How to apply?</h2>
 <p style="text-align:center;">Prepare and submit the following documents using the provided templates per work strand.</p>
 
+<!-- WORK STRANDS 1–3 -->
 <!-- WORK STRAND 1 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
 <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
@@ -140,7 +141,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:25px;">
 <a href="mailto:info@ldt4ssc.eu" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Email us</a>
 <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Find Partners via the Matchmaking Platform</a>
-<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Join the Info Session on 12 Februrary 2026</a>
+<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Join hthe Info Session on 12 February 2026</a>
 <a href="https://shorturl.at/BiMc9" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Subscribe to our Newsletter</a>
 </div>
 
