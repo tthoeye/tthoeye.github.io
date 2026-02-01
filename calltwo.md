@@ -87,48 +87,70 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 
 <!-- WORK STRANDS 1–3 -->
 <!-- WORK STRAND 1 -->
+<!-- WORK STRAND 1 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
-<h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
-<p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 1 objectives.</p>
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws1.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
-<a href="https://ldt4ssc.eu/documents/application_form_ws1.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership & Control Declaration</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection Assessment</a>
-<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
-</div>
+  <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
+  <p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 1 objectives.</p>
+  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
+    <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws1.pdf" 
+       style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Pilot Manual</a>
+    <a href="https://ldt4ssc.eu/documents/application_form_ws1.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Application Form</a>
+    <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Letter of Commitment</a>
+    <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
+    <a href="mailto:applications@ldt4ssc.eu" 
+       style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
+  </div>
 </div>
 
 <!-- WORK STRAND 2 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
-<h3 style="color:#1F75D6;">Work Strand 2: Creating new Local Digital Twins based on common needs</h3>
-<p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 2 objectives.</p>
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws2.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
-<a href="https://ldt4ssc.eu/documents/application_form_ws2.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership & Control Declaration</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection Assessment</a>
-<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
-</div>
+  <h3 style="color:#1F75D6;">Work Strand 2: Creating new Local Digital Twins based on common needs</h3>
+  <p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 2 objectives.</p>
+  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
+    <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws2.pdf" 
+       style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Pilot Manual</a>
+    <a href="https://ldt4ssc.eu/documents/application_form_ws2.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Application Form</a>
+    <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Letter of Commitment</a>
+    <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
+    <a href="mailto:applications@ldt4ssc.eu" 
+       style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
+  </div>
 </div>
 
 <!-- WORK STRAND 3 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px; max-width:1100px; margin-left:auto; margin-right:auto;">
-<h3 style="color:#1F75D6;">Work Strand 3: Adding New Advanced AI-Based Capabilities to the LDTs Toolbox</h3>
-<p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 3 objectives.</p>
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws3.pdf" style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none;">Pilot Manual</a>
-<a href="https://ldt4ssc.eu/documents/application_form_ws3.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership & Control Declaration</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx" style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics & Data Protection Assessment</a>
-<a href="mailto:applications@ldt4ssc.eu" style="padding:14px 30px; background:#F5B400; color:#000; border-radius:30px; text-decoration:none; font-weight:bold;">Submit application</a>
-</div>
+  <h3 style="color:#1F75D6;">Work Strand 3: Adding New Advanced AI-Based Capabilities to the LDTs Toolbox</h3>
+  <p>Before submitting, ensure all documents are completed and signed, eligibility criteria are met, and the proposal aligns with Work Strand 3 objectives.</p>
+  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
+    <a href="https://ldt4ssc.eu/documents/pilotsmanual_ws3.pdf" 
+       style="padding:10px 18px; border-radius:24px; background:#1F75D6; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Pilot Manual</a>
+    <a href="https://ldt4ssc.eu/documents/application_form_ws3.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Application Form</a>
+    <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Letter of Commitment</a>
+    <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
+    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+       style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
+    <a href="mailto:applications@ldt4ssc.eu" 
+       style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
+  </div>
 </div>
 
 <!-- CTA / CONTACT -->
