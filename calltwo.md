@@ -102,7 +102,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
     <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
-    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+    <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
     <a href="mailto:applications@ldt4ssc.eu" 
        style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
@@ -124,7 +124,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
     <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
-    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+    <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
     <a href="mailto:applications@ldt4ssc.eu" 
        style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
@@ -146,7 +146,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ownership Declaration</a>
     <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Financial Form</a>
-    <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" 
+    <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" 
        style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Ethics & Data Protection Assessment</a>
     <a href="mailto:applications@ldt4ssc.eu" 
        style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold; display:inline-block; line-height:normal; font-size:16px; vertical-align:middle;">Submit application</a>
