@@ -1,146 +1,149 @@
 ---
 layout: page
-title: "Open Call 2: Common Needs based Local Digital Twins"
+title: "Open Call 2: Open"
 permalink: /call-two/
 banner: /images/banner-call-one.jpg
 ---
 
-<div style="font-family: Helvetica Neue, Arial, sans-serif; color:#4C5562; max-width:1200px; margin:0 auto; padding:40px;">
+<div style="width:100vw; margin-left:calc(-50vw + 50%); background:#ffffff;">
+<div style="max-width:1600px; margin:0 auto; padding:60px 60px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
-  <!-- HEADER -->
-  <div style="text-align:center; margin-bottom:50px;">
-    <h1 style="color:#1F75D6; font-size:42px; margin-bottom:10px;">Open Calls</h1>
-    <p style="font-size:18px;">Funding opportunities for Local Digital Twins and Smart & Sustainable Communities</p>
-  </div>
+<!-- HEADER -->
+<h1 style="color:#1F75D6; font-size:44px; margin-bottom:10px;">Open Call 2: Open</h1>
 
-  <!-- OPEN CALL STATUS -->
-  <div style="display:flex; gap:30px; flex-wrap:wrap; margin-bottom:60px;">
-    
-    <div style="flex:1; min-width:280px; background:#f2f4f7; padding:30px; border-radius:16px;">
-      <div style="display:inline-block; background:#4C5562; color:white; padding:6px 14px; border-radius:20px; font-size:13px;">
-        Closed
-      </div>
-      <h2 style="margin-top:20px;">Open Call 1</h2>
-      <p>No change to current projects</p>
-    </div>
+<div style="background:rgba(31,117,214,0.08); padding:40px; border-radius:20px; margin-bottom:50px;">
+  <h2>Description</h2>
+  <p>
+    The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP),
+    invites applications for its second Open Call (of Work Strand 1, 2 and 3).
+  </p>
 
-    <div style="flex:1; min-width:280px; background:#ffffff; padding:30px; border-radius:16px; border:2px solid #29A329;">
-      <div style="display:inline-block; background:#29A329; color:white; padding:6px 14px; border-radius:20px; font-size:13px;">
-        Open
-      </div>
-      <h2 style="margin-top:20px;">Open Call 2</h2>
-      <p>Applications open for Work Strands 1, 2 and 3</p>
-      <button style="margin-top:20px; background:#1F75D6; color:white; border:none; padding:12px 26px; border-radius:30px; font-size:16px;">
-        Apply Now
-      </button>
-    </div>
+  <h3>What is Open Call 2?</h3>
+  <p>Open Call 2 invites applications for all three Work Strands.</p>
 
-  </div>
+  <p><strong>Work Strand 1 – Inter-connection of existing LDTs:</strong> demonstrates how existing Local Digital Twins can interconnect to form a European-scale network</p>
+  <p><strong>Work Strand 2 – Creation of LDTs based on common needs:</strong> is dedicated to the creation of new Local Digital Twins designed around shared challenges that affect multiple cities and communities</p>
+  <p><strong>Work Strand 3 – Adding new and advanced AI capacities to the EU LDT Toolbox:</strong> develops advanced AI-based capabilities and innovative open-source components to enhance LDT capabilities with immersive and predictive service</p>
+</div>
 
-  <!-- DESCRIPTION -->
-  <div style="background:rgba(31,117,214,0.08); padding:40px; border-radius:20px; margin-bottom:60px;">
-    <h2 style="color:#1F75D6;">What is Open Call 2?</h2>
-    <p>
-      The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
-      funded by the Digital Europe Programme (DEP), invites applications for its second Open Call
-      (Work Strands 1, 2 and 3).
-    </p>
-  </div>
+<!-- WHY APPLY BOXES -->
+<h2 style="margin-bottom:25px;">Why apply?</h2>
 
-  <!-- WORK STRANDS -->
-  <h2 style="margin-bottom:30px;">Work Strands</h2>
+<div style="display:flex; gap:25px; flex-wrap:wrap; margin-bottom:70px;">
 
-  <div style="display:flex; gap:25px; flex-wrap:wrap; margin-bottom:70px;">
-    
-    <div style="flex:1; min-width:260px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 30px rgba(0,0,0,0.05);">
-      <h3>Work Strand 1</h3>
-      <p>
-        <strong>Inter-connection of existing LDTs</strong>: Demonstrates how existing Local Digital Twins
-        can interconnect to form a European-scale network.
-      </p>
-      <button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:24px;">
-        View Strand 1
-      </button>
-    </div>
+<div style="flex:1; min-width:300px; background:rgba(41,163,41,0.10); padding:30px; border-radius:20px;">
+<h3>01. Interconnect & Federate</h3>
+<p>
+Move beyond isolated pilots. Link your existing Local Digital Twins with other European cities and communities.
+Create a federated, interoperable network enabling cross-border data exchange and multi-city resource optimisation,
+supporting a technologically sovereign Europe.
+</p>
+</div>
 
-    <div style="flex:1; min-width:260px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 30px rgba(0,0,0,0.05);">
-      <h3>Work Strand 2</h3>
-      <p>
-        <strong>Creation of LDTs based on common needs</strong>: Creation of new Local Digital Twins
-        designed around shared challenges affecting multiple cities.
-      </p>
-      <button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:24px;">
-        View Strand 2
-      </button>
-    </div>
+<div style="flex:1; min-width:300px; background:rgba(41,163,41,0.10); padding:30px; border-radius:20px;">
+<h3>02. Secure Financial Support</h3>
+<p>
+De-risk your innovation. Direct financial support helps consortia develop and deploy complex services.
+With a total funding pot of €17 million, local authorities can invest in high-impact digital transformation
+without bearing the full financial burden.
+</p>
+</div>
 
-    <div style="flex:1; min-width:260px; background:#ffffff; padding:30px; border-radius:18px; box-shadow:0 10px 30px rgba(0,0,0,0.05);">
-      <h3>Work Strand 3</h3>
-      <p>
-        <strong>Advanced AI capacities</strong>: Development of innovative open-source AI components
-        with immersive and predictive services.
-      </p>
-      <button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:24px;">
-        View Strand 3
-      </button>
-    </div>
+<div style="flex:1; min-width:300px; background:rgba(41,163,41,0.10); padding:30px; border-radius:20px;">
+<h3>03. Access the EU Toolbox</h3>
+<p>
+Gain access to the EU LDT Toolbox: open-source specifications, reference architectures, and certified AI tools.
+Whether modelling traffic flows or energy grids, the framework ensures standard-based, compliant deployment.
+</p>
+</div>
 
-  </div>
-
-  <!-- WHY APPLY -->
-  <div style="background:rgba(41,163,41,0.08); padding:50px; border-radius:22px; margin-bottom:60px;">
-    <h2 style="color:#29A329;">Why apply?</h2>
-
-    <p><strong>Interconnect & Federate:</strong> Move beyond isolated pilots and create interoperable,
-    cross-border Local Digital Twin networks.</p>
-
-    <p><strong>Secure Financial Support:</strong> With a total funding pot of €17 million, receive direct
-    support to deploy complex services without bearing full financial risk.</p>
-
-    <p><strong>Access the EU LDT Toolbox:</strong> Use certified AI tools, open-source specifications,
-    and reference architectures.</p>
-
-    <p><strong>Deploy Advanced AI Services:</strong> Implement predictive models for climate resilience,
-    mobility and policy testing.</p>
-  </div>
-
-  <!-- WHAT YOU GET -->
-  <h2>What can you get?</h2>
-  <div style="display:flex; gap:20px; flex-wrap:wrap; margin-bottom:50px;">
-    <div style="background:#f4f5f7; padding:20px 26px; border-radius:14px;">Up to €1,000,000 per consortium</div>
-    <div style="background:#f4f5f7; padding:20px 26px; border-radius:14px;">50% co-funding required</div>
-    <div style="background:#f4f5f7; padding:20px 26px; border-radius:14px;">Max €500,000 per third party</div>
-    <div style="background:#f4f5f7; padding:20px 26px; border-radius:14px;">Duration: 12–18 months</div>
-  </div>
-
-  <!-- IMPORTANT DATES -->
-  <h2>What to remember?</h2>
-  <ul>
-    <li>Open Call launch: <strong>2 February 2026</strong></li>
-    <li>Submission deadline: <strong>2 April 2026, 23:59 CEST</strong></li>
-    <li>Expected pilot start: <strong>31 August 2026</strong></li>
-  </ul>
-
-  <!-- CTA -->
-  <div style="background:rgba(245,180,0,0.18); padding:50px; border-radius:24px; text-align:center; margin-top:70px;">
-    <h2>Looking to learn more, ask a question or join a consortium?</h2>
-
-    <div style="margin-top:30px; display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
-      <button style="background:#1F75D6; color:white; border:none; padding:12px 26px; border-radius:28px;">
-        Email us
-      </button>
-      <button style="background:#1F75D6; color:white; border:none; padding:12px 26px; border-radius:28px;">
-        Matchmaking Platform
-      </button>
-      <button style="background:#1F75D6; color:white; border:none; padding:12px 26px; border-radius:28px;">
-        Info Session – 12 February 2026
-      </button>
-      <button style="background:#1F75D6; color:white; border:none; padding:12px 26px; border-radius:28px;">
-        Subscribe to Newsletter
-      </button>
-    </div>
-  </div>
+<div style="flex:1; min-width:300px; background:rgba(41,163,41,0.10); padding:30px; border-radius:20px;">
+<h3>04. Deploy Advanced AI Services</h3>
+<p>
+Turn data into predictive power. Implement advanced AI models for climate resilience, smart mobility,
+and policy simulation — test interventions virtually before physical investment.
+</p>
+</div>
 
 </div>
+
+<!-- INFO GRID -->
+<div style="display:flex; gap:40px; flex-wrap:wrap; margin-bottom:70px;">
+
+<div style="flex:1; min-width:320px;">
+<h2>What can you get?</h2>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Up to €1,000,000 per consortium</div>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">50% co-funding required</div>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Maximum €500,000 per third party across all strands</div>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Project duration: 12–18 months</div>
+</div>
+
+<div style="flex:1; min-width:320px;">
+<h2>What to remember?</h2>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Open Call launch: 2 February 2026</div>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Submission deadline: 2 April 2026, 23:59 CEST</div>
+<div style="background:#f4f5f7; padding:15px; border-radius:10px; margin:8px 0;">Expected pilot start: 31 August 2026</div>
+</div>
+
+<div style="flex:1; min-width:320px;">
+<h2>Who can apply?</h2>
+<p>Local, regional and national authorities</p>
+<p>Private organisations such as businesses and technology developers</p>
+<p>NGOs, not-for-profits</p>
+<p>Research institutions and academia</p>
+</div>
+
+</div>
+
+<!-- HOW TO APPLY -->
+<h2>How to apply?</h2>
+<p>To apply, please prepare and submit the following documents using the provided templates per work strand:</p>
+
+<!-- WORK STRAND 1 BOX -->
+<div style="background:#ffffff; border:2px solid #1F75D6; padding:40px; border-radius:22px; margin:40px 0;">
+<h2>Work Strand 1: Interconnecting Existing Local Digital Twins</h2>
+
+<p><strong>Before submitting:</strong> ensure all required documents are completed and signed, the consortium meets eligibility criteria, and the proposal aligns with Work Strand 1 objectives.</p>
+
+<div style="display:flex; gap:15px; flex-wrap:wrap;">
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Pilot Manual</button>
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Application Form</button>
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Letter of Commitment</button>
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Ownership Declaration</button>
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Financial Form</button>
+<button style="background:#1F75D6; color:white; border:none; padding:10px 22px; border-radius:22px;">Ethics & Data Protection</button>
+<button style="background:#29A329; color:white; border:none; padding:12px 26px; border-radius:26px;">Submit Application</button>
+</div>
+</div>
+
+<!-- DUPLICATE SAME STRUCTURE FOR WS2 & WS3 -->
+<!-- You can copy this block and change title text -->
+
+<!-- FINAL CTA -->
+<div style="background:rgba(245,180,0,0.18); padding:60px; border-radius:28px; text-align:center; margin-top:80px;">
+
+<h2>Looking to learn more, ask a question or join a consortium?</h2>
+
+<div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center; margin-top:30px;">
+<button style="background:#1F75D6; color:white; border:none; padding:14px 28px; border-radius:30px;">Email us at info@ldt4ssc.eu</button>
+<button style="background:#1F75D6; color:white; border:none; padding:14px 28px; border-radius:30px;">Matchmaking Platform</button>
+<button style="background:#1F75D6; color:white; border:none; padding:14px 28px; border-radius:30px;">Info Session – 12 February 2026</button>
+<button style="background:#1F75D6; color:white; border:none; padding:14px 28px; border-radius:30px;">Subscribe to Newsletter</button>
+</div>
+
+<hr style="margin:50px 0; border:none; border-top:2px solid rgba(0,0,0,0.1);">
+
+<h2>Interested to apply as an evaluator?</h2>
+<p>LDT4SSC is accepting external evaluators through an Open Call for Evaluators.</p>
+
+<button style="background:#4C5562; color:white; border:none; padding:14px 28px; border-radius:30px;">
+Open Call for Evaluators
+</button>
+
+</div>
+
+</div>
+</div>
+
 
 
