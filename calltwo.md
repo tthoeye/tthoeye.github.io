@@ -141,7 +141,7 @@ The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project,
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:25px;">
 <a href="mailto:info@ldt4ssc.eu" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Email us</a>
 <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Find Partners via the Matchmaking Platform</a>
-<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Join hthe Info Session on 12 February 2026</a>
+<a href="https://ldt4ssc.eu/services/webinar3/" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Join the Info Session on 12 February 2026</a>
 <a href="https://shorturl.at/BiMc9" style="padding:12px 24px; border-radius:26px; background:#1F75D6; color:white; text-decoration:none;">Subscribe to our Newsletter</a>
 </div>
 
