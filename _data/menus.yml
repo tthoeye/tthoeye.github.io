@@ -9,12 +9,15 @@ main:
     url: "/opencalls/"
     weight: 3
     children:
-      - name: "Open Call 1: Interconnecting Local Digital Twins"
+      - name: "Open Call 1: Closed"
         url: "/call-one/"
         weight: 1
+      - name: "Open Call 2 – Work Strands 1, 2 and 3: Open"
+        url: "/call-two/"
+        weight: 2
       - name: "Open Call for Evaluators"
         url: "/call-evaluators/"
-        weight: 2
+        weight: 3
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
     weight: 4
