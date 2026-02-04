@@ -6,9 +6,9 @@ banner: /images/banner-call-one.jpg
 ---
 
 <section style="padding: 20px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 30px;">
-  <h2>Work Strand One – Webinar Materials</h2>
+  <h2>Open Call 1 One – Webinar Materials</h2>
   <p>
-    Below you can find all materials from the Work Strand One Open Call webinar, 
+    Below you can find all materials from the Open Call One webinar, 
     including the slides, the full session recording and an introduction 
     to the matchmaking platform.
   </p>
@@ -37,64 +37,123 @@ banner: /images/banner-call-one.jpg
 </section>
 
 
-#### Work Strand 1
+### Open Call 1: Closed
 
-## What is it about?
+<div style="width:100vw; margin-left:calc(50% - 50vw); background:#ffffff;">
+  <div style="max-width:1400px; margin:0 auto; padding:60px 20px; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
-The **Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)** project, funded by the **Digital Europe Programme (DEP)**, invites applications for its **first Open Call (of Work Strand 1)**.
+    <!-- HEADER -->
+    <h1 style="color:#1F75D6; font-size:42px; text-align:center;">Open Call 1</h1>
+    <p style="text-align:center; font-size:18px;">
+      Status: <strong style="color:#D9534F;">Closed</strong>
+    </p>
 
-It supports pilots that demonstrate how **existing Local Digital Twins** can interconnect to form a European-scale network. Selected pilots will implement shared frameworks and services that promote interoperability and cross-domain collaboration.
+    <!-- DESCRIPTION -->
+    <div style="background:rgba(217,83,79,0.12); padding:40px; border-radius:24px; margin-top:40px;">
+      <h2 style="color:#D9534F;">What is it about?</h2>
+      <p>
+        The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its first Open Call (of Work Strand 1).
+      </p>
+      <p>
+        It supports pilots that demonstrate how existing Local Digital Twins can interconnect to form a European-scale network. Selected pilots will implement shared frameworks and services that promote interoperability and cross-domain collaboration.
+      </p>
+    </div>
 
+    <!-- WHAT YOU GET -->
+    <h2 style="margin-top:60px; text-align:center;">What can you get?</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Up to €1,000,000 per consortium</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">50% co-funding required</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Maximum €500,000 per third party across all strands</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Project duration: 12–18 months</div>
+    </div>
 
-## What can you get?
+    <!-- IMPORTANT DATES -->
+    <h2 style="margin-top:60px; text-align:center;">What to remember?</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Open Call launch: 14 November 2025</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Submission deadline: 15 January 2026, 23:59 CET</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Expected pilot start: 14 May 2026</div>
+    </div>
 
-- Up to **€1,000,000 per consortium**  
-- **50% co-funding required**  
-- Maximum **€500,000 per third party** across all strands  
-- Project duration: **12–18 months**
+    <!-- WHO CAN APPLY -->
+    <h2 style="margin-top:60px; text-align:center;">Who can apply?</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Local, regional and national authorities</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Private organisations such as businesses and technology developers</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">NGOs, not-for-profits</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Research institutions and academia</div>
+    </div>
 
-## What to remember?
-- **Open Call launch:** 14 November 2025  
-- **Submission deadline:** 15 January 2026, 23:59 CET  
-- **Expected pilot start:** 14 May 2026  
+    <!-- WORK STRAND 1 -->
+    <h2 style="margin-top:70px; text-align:center;">How to apply?</h2>
+    <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
+      <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
+      <p>To apply, please prepare and submit the following documents using the provided templates:</p>
+      <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
+        <!-- Pilot Manual (green, available) -->
+        <a href="https://ldt4ssc.eu/documents/Call_for_Pilots_Manual_WS1.pdf"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; font-weight:normal;">
+          Read through the Pilot Manual
+        </a>
 
-## Who can apply?
+        <a href="https://ldt4ssc.eu/documents/ldt4ssc_application_form_ws1.docx"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; font-weight:normal;">Application form – Download template</a>
 
-We invite organisations that operate existing Local Digital Twin components or wish to scale them through shared and interoperable frameworks:
-- Local, regional and national authorities
-- Private organisations such as businesses and technology developers
-- NGOs, not-for-profits
-- Research institutions and academia
+        <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Letter of commitment – Download template</a>
 
+        <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Ownership and control declaration – Download template</a>
 
+        <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Financial form – Download template</a>
 
-## How to apply?
+        <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx"
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Ethics and data protection assessment – Download template</a>
 
-To apply, please prepare and submit the following documents using the provided templates:
+        <!-- Submit Application -->
+        <a href="mailto:applications@ldt4ssc.eu"
+           style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:normal;">
+          Submit your application
+        </a>
+      </div>
+      <p style="margin-top:20px; font-size:14px; color:#4C5562;">All documents and complete submission guidelines will be available from 14 November 2025 on this website.</p>
+    </div>
 
-1. Read through the 👉 [Pilot Manual](/documents/Call_for_Pilots_Manual_WS1.pdf)
-2. Prepare and complete the following documents using the official templates:
+    <!-- CONTACT / INFORMATION SECTION -->
+    <div style="background:#E6F0FA; padding:40px; border-radius:22px; margin-top:60px; text-align:center; color:#1F75D6;">
+      <h3 style="color:#1F75D6; margin-bottom:30px;">Looking to learn more, ask a question or join a consortium?</h3>
 
-- [**Application Form** - Download Template (.docx)](/documents/ldt4ssc_application_form_ws1.docx)
-- [**Letter of Commitment** – Download Template (.docx)](/documents/letter_of_commitment.docx)
-- [**Ownership and Control Declaration** – Download Template (.docx)](/documents/ownership_control_declaration.docx)
-- [**Financial Form** – Download Template (.xlsx)](/documents/financial_form.xlsx)  
-- [**Ethics and Data Protection Assessment** – Download Template (.xlsx)](/documents/ethics_and_data_protection_assessment.xlsx)  
- 
-3. Before submitting, ensure that all required documents are completed and signed, the consortium meets the eligibility criteria, the proposal aligns with the objectives of Work Strand 1.
-4. Submit your application via the LDT4SSC mailbox: 👉 [Submit here](mailto:applications@ldt4ssc.eu)
+      <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+        <a href="mailto:info@ldt4ssc.eu"
+           style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
+          Email us
+        </a>
 
+        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
+           style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
+          Find partners via the Matchmaking Platform
+        </a>
 
-All documents and the complete submission guidelines will be available from **14 November 2025** on this website.
+        <a href="https://shorturl.at/pzMGK"
+           style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
+          Subscribe to our newsletter here
+        </a>
+      </div>
+    </div>
 
-## Looking to learn more, ask a question or join a consortium? 
-- Email us at info@ldt4ssc.eu
-- Find partners to collaborate with via the Matchmaking Platform, click [here](https://www.b2match.com/e/local-digital-twins-smart-communities)
-- Join the upcoming information session on 25 November 2025 and register [here](https://us06web.zoom.us/meeting/register/K_McBpIrQva4onmEa_k5sw#/registration)
-- Join the information session on 3 December 2025, the link will be published soon
-- Subscribe to our newsletter [here](https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter)
+    <!-- EVALUATOR SECTION AS BUTTON -->
+    <div style="background:#D0E4FA; padding:40px; border-radius:22px; margin-top:40px; text-align:center;">
+      <h3 style="color:#1F75D6; margin-bottom:20px;">Interested to apply as an evaluator?</h3>
+      
+      <a href="https://ldt4ssc.eu/call-evaluators/"
+         style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-size:16px; display:inline-block; font-weight:normal;">
+        LDT4SSC Open Call for Evaluators – Learn More
+      </a>
+    </div>
 
-## Interested to apply as an evaluator?
+  </div>
+</div>
 
-LDT4SSC is accepting external evaluators through an Open Call for Evaluators. To learn more, click [here](/call-evaluators/)
