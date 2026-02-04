@@ -18,15 +18,18 @@ main:
       - name: "Open Call for Evaluators"
         url: "/call-evaluators/"
         weight: 3
+  - name: "Matchmaking Platform"
+    url: "https://www.b2match.com/e/local-digital-twins-smart-communities"
+    weight: 4
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
-    weight: 4
+    weight: 5
   - name: "News & Events"
     url: "/news/"
-    weight: 5
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Home"
@@ -38,12 +41,15 @@ footer:
   - name: "Open Calls"
     url: "/opencalls/"
     weight: 3
+  - name: "Matchmaking Platform"
+    url: "https://www.b2match.com/e/local-digital-twins-smart-communities"
+    weight: 4
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
-    weight: 4
+    weight: 5
   - name: "News & Events"
     url: "/news/"
-    weight: 5
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
