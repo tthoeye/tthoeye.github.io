@@ -9,10 +9,10 @@ main:
     url: "/opencalls/"
     weight: 3
     children:
-      - name: "First Round of Open Calls: Closed"
+      - name: "1st Round of Open Calls: Closed"
         url: "/call-one/"
         weight: 1
-      - name: "Second Round of Open Calls: Open"
+      - name: "2nd Round of Open Calls: Open"
         url: "/call-two/"
         weight: 2
       - name: "Open Call for Evaluators"
