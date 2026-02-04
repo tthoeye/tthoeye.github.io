@@ -19,8 +19,8 @@ show_call_box: true
       LDT4SSC – Local Digital Twins for Smart and Sustainable Communities
     </h1>
 
-    <!-- INTRO TEXT -->
-    <div style="max-width:900px; margin:0 auto 70px auto; font-size:18px; line-height:1.7; text-align:left;">
+    <!-- INTRO TEXT ALIGNED TO PAGE GRID -->
+    <div style="font-size:18px; line-height:1.7; margin-bottom:50px; text-align:left;">
       <p>
         LDT4SSC is driving the future of smart living by creating connected digital twins for cities and communities across Europe.
         These digital twins act as virtual mirrors of real places, helping us understand, plan and improve the world around us.
@@ -42,7 +42,7 @@ show_call_box: true
       </p>
     </div>
 
-    <!-- DIVIDER -->
+    <!-- BLUE DIVIDER -->
     <div style="height:4px; background:#1F75D6; margin:50px auto; max-width:600px;"></div>
 
     <!-- KEY GOALS TITLE -->
@@ -88,10 +88,10 @@ show_call_box: true
 
     </div>
 
-    <!-- DIVIDER -->
+    <!-- GREEN DIVIDER -->
     <div style="height:4px; background:#29A329; margin:50px auto; max-width:600px;"></div>
 
-    <!-- BUTTONS -->
+    <!-- CTA BUTTONS -->
     <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-bottom:30px;">
       <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
          style="padding:14px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-size:16px; font-weight:normal; display:inline-block;">
@@ -105,7 +105,7 @@ show_call_box: true
 
       <a href="https://forms.gle/v17Y7df5DUwpCRZP6"
          style="padding:14px 28px; border-radius:30px; background:#29A329; color:white; text-decoration:none; font-size:16px; font-weight:normal; display:inline-block;">
-        Join the Stakeholder Forum 
+        Join the Stakeholder Forum
       </a>
     </div>
 
