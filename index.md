@@ -7,7 +7,6 @@ banner_link: /call-two/
 intro_image: /images/illustrations/playing.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 <div style="background:#ffffff; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
