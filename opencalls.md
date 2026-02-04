@@ -125,10 +125,16 @@ banner: /images/banner-call-two.jpg
       </div>
 
       <div style="flex:1; min-width:260px; background:rgba(245,180,0,0.15); padding:26px; border-radius:18px;">
-        <strong style=
+        <strong style="color:#B58500;">Funding per pilot</strong><br>
+        Around €1 million (details in official call documents)
+      </div>
 
+    </div>
 
+    <!-- DIVIDER -->
+    <hr style="margin:70px 0; border:none; border-top:1px solid #d9dde3;">
 
+    </div>
 
-
-
+  </div>
+</div>
