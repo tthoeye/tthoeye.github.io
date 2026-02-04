@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Open Call 1: Closed"
 permalink: /call-one/
 banner: /images/banner-call-one.jpg
 ---
