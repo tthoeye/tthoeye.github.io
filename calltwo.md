@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Open Call 2: Open"
 permalink: /call-two/
 banner: /images/banner-call-two.jpg
 ---
@@ -10,7 +9,7 @@ banner: /images/banner-call-two.jpg
 <div style="max-width:1400px; margin:0 auto; padding:60px 40px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
 <!-- HEADER -->
-<h1 style="color:#1F75D6; font-size:42px; text-align:center;">Open Call 2</h1>
+<h1 style="color:#1F75D6; font-size:42px; text-align:center;">Second Round of Open Calls</h1>
 <p style="text-align:center; font-size:18px;">
 Status: <strong style="color:#29A329;">Open</strong>
 </p>
