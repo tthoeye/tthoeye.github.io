@@ -38,7 +38,7 @@ Got a question or want to connect with the LDT4SSC team? Feel free to reach out 
   </a>
 
   <!-- Newsletter -->
-  <a href="https://mailchi.mp/88e0df86fcca/ldt4ssc-newsletter" target="_blank" style="
+  <a href="https://shorturl.at/pzMGK" target="_blank" style="
     display: inline-block;
     padding: 10px 18px;
     background-color: #F5B400; /* Optimistic Yellow */
