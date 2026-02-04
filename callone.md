@@ -133,8 +133,8 @@ banner: /images/banner-call-one.jpg
 
       <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
         <a href="mailto:info@ldt4ssc.eu" style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none;">Email us</a>
-        <a href="https://www.b2match.com" style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none;">Matchmaking Platform</a>
-        <a href="https://shorturl.at/pzMGK" style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none;">Subscribe to newsletter</a>
+        <a href="https://www.b2match.com" style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none;">Join the matchmaking platform to find project partners</a>
+        <a href="https://shorturl.at/pzMGK" style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none;">Subscribe to our newsletter</a>
       </div>
     </div>
 
