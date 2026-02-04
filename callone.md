@@ -5,41 +5,39 @@ permalink: /call-one/
 banner: /images/banner-call-one.jpg
 ---
 
-<section style="padding: 20px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 30px;">
-  <h2>Open Call 1 One – Webinar Materials</h2>
-  <p>
-    Below you can find all materials from the Open Call One webinar, 
-    including the slides, the full session recording and an introduction 
-    to the matchmaking platform.
-  </p>
+<!-- WEBINAR MATERIALS -->
+<div style="max-width:1400px; margin:0 auto; padding:0 20px;">
+  <section style="padding:20px; border:1px solid #ddd; border-radius:8px; margin-bottom:30px;">
+    <h2>Open Call 1 – Webinar Materials</h2>
+    <p>
+      Below you can find all materials from the Open Call One webinar,
+      including the slides, the full session recording and an introduction
+      to the matchmaking platform.
+    </p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+    <div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:20px;">
 
-    <!-- Slides Button (Tech Blue) -->
-    <a href="/documents/LDT4SSC_WS1_Webinar.pdf" 
-       style="background-color: #1F75D6; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
-       Download the Webinar Slides
-    </a>
+      <a href="/documents/LDT4SSC_WS1_Webinar.pdf"
+         style="background:#1F75D6; color:white; padding:12px 20px; border-radius:6px; text-decoration:none;">
+        Download the Webinar Slides
+      </a>
 
-    <!-- Webinar Recording Button (Eco Green) -->
-    <a href="https://youtu.be/sP6zUzP-sDQ" 
-       style="background-color: #29A329; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
-       Watch the Webinar Recording
-    </a>
+      <a href="https://youtu.be/sP6zUzP-sDQ"
+         style="background:#29A329; color:white; padding:12px 20px; border-radius:6px; text-decoration:none;">
+        Watch the Webinar Recording
+      </a>
 
-    <!-- Matchmaking Platform Intro Button (Community Yellow) -->
-    <a href="https://youtu.be/T1SeHtgg5ew" 
-       style="background-color: #F5B400; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: 600;">
-       Watch the Matchmaking Platform Introduction
-    </a>
+      <a href="https://youtu.be/T1SeHtgg5ew"
+         style="background:#F5B400; color:white; padding:12px 20px; border-radius:6px; text-decoration:none;">
+        Watch the Matchmaking Platform Introduction
+      </a>
 
-  </div>
-</section>
+    </div>
+  </section>
+</div>
 
-
-### Open Call 1: Closed
-
-<div style="width:100vw; margin-left:calc(50% - 50vw); background:#ffffff;">
+<!-- OPEN CALL 1 -->
+<div style="background:#ffffff;">
   <div style="max-width:1400px; margin:0 auto; padding:60px 20px; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
     <!-- HEADER -->
@@ -52,10 +50,13 @@ banner: /images/banner-call-one.jpg
     <div style="background:rgba(217,83,79,0.12); padding:40px; border-radius:24px; margin-top:40px;">
       <h2 style="color:#D9534F;">What is it about?</h2>
       <p>
-        The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its first Open Call (of Work Strand 1).
+        The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)
+        project, funded by the Digital Europe Programme (DEP), invites applications
+        for its first Open Call (Work Strand 1).
       </p>
       <p>
-        It supports pilots that demonstrate how existing Local Digital Twins can interconnect to form a European-scale network. Selected pilots will implement shared frameworks and services that promote interoperability and cross-domain collaboration.
+        It supports pilots that demonstrate how existing Local Digital Twins can
+        interconnect to form a European-scale network.
       </p>
     </div>
 
@@ -64,96 +65,87 @@ banner: /images/banner-call-one.jpg
     <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
       <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Up to €1,000,000 per consortium</div>
       <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">50% co-funding required</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Maximum €500,000 per third party across all strands</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Project duration: 12–18 months</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Max €500,000 per third party</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Duration: 12–18 months</div>
     </div>
 
     <!-- IMPORTANT DATES -->
     <h2 style="margin-top:60px; text-align:center;">What to remember?</h2>
     <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Open Call launch: 14 November 2025</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Submission deadline: 15 January 2026, 23:59 CET</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Expected pilot start: 14 May 2026</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Launch: 14 November 2025</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Deadline: 15 January 2026, 23:59 CET</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Pilot start: 14 May 2026</div>
     </div>
 
     <!-- WHO CAN APPLY -->
     <h2 style="margin-top:60px; text-align:center;">Who can apply?</h2>
     <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Local, regional and national authorities</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Private organisations such as businesses and technology developers</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">NGOs, not-for-profits</div>
-      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Research institutions and academia</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Local, regional & national authorities</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Private organisations & SMEs</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">NGOs & not-for-profits</div>
+      <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Research & academia</div>
     </div>
 
-    <!-- WORK STRAND 1 -->
+    <!-- HOW TO APPLY -->
     <h2 style="margin-top:70px; text-align:center;">How to apply?</h2>
+
     <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
-      <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
-      <p>To apply, please prepare and submit the following documents using the provided templates:</p>
+      <h3 style="color:#1F75D6;">Work Strand 1</h3>
+
       <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-        <!-- Pilot Manual (green, available) -->
         <a href="https://ldt4ssc.eu/documents/Call_for_Pilots_Manual_WS1.pdf"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; font-weight:normal;">
-          Read through the Pilot Manual
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+          Pilot Manual
         </a>
 
         <a href="https://ldt4ssc.eu/documents/ldt4ssc_application_form_ws1.docx"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block; font-weight:normal;">Application form – Download template</a>
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+          Application Form
+        </a>
 
         <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Letter of commitment – Download template</a>
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+          Letter of Commitment
+        </a>
 
         <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Ownership and control declaration – Download template</a>
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+          Ownership Declaration
+        </a>
 
         <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Financial form – Download template</a>
+           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+          Financial Form
+        </a>
 
-        <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx"
-           style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; font-weight:normal;">Ethics and data protection assessment – Download template</a>
-
-        <!-- Submit Application -->
         <a href="mailto:applications@ldt4ssc.eu"
-           style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:normal;">
-          Submit your application
-        </a>
-      </div>
-      <p style="margin-top:20px; font-size:14px; color:#4C5562;">All documents and complete submission guidelines will be available from 14 November 2025 on this website.</p>
-    </div>
-
-    <!-- CONTACT / INFORMATION SECTION -->
-    <div style="background:#E6F0FA; padding:40px; border-radius:22px; margin-top:60px; text-align:center; color:#1F75D6;">
-      <h3 style="color:#1F75D6; margin-bottom:30px;">Looking to learn more, ask a question or join a consortium?</h3>
-
-      <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-        <a href="mailto:info@ldt4ssc.eu"
-           style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
-          Email us
+           style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none;">
+          Submit application
         </a>
 
-        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
-           style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
-          Find partners via the Matchmaking Platform
-        </a>
-
-        <a href="https://shorturl.at/pzMGK"
-           style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; min-width:250px; display:inline-block; font-weight:normal;">
-          Subscribe to our newsletter here
-        </a>
       </div>
     </div>
 
-    <!-- EVALUATOR SECTION AS BUTTON -->
+    <!-- CONTACT -->
+    <div style="background:#E6F0FA; padding:40px; border-radius:22px; margin-top:60px; text-align:center;">
+      <h3 style="color:#1F75D6;">Looking to learn more, ask a question or join a consortium?</h3>
+
+      <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:20px;">
+        <a href="mailto:info@ldt4ssc.eu" style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none;">Email us</a>
+        <a href="https://www.b2match.com" style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none;">Matchmaking Platform</a>
+        <a href="https://shorturl.at/pzMGK" style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none;">Subscribe to newsletter</a>
+      </div>
+    </div>
+
+    <!-- EVALUATORS -->
     <div style="background:#D0E4FA; padding:40px; border-radius:22px; margin-top:40px; text-align:center;">
-      <h3 style="color:#1F75D6; margin-bottom:20px;">Interested to apply as an evaluator?</h3>
-      
+      <h3 style="color:#1F75D6;">Interested to apply as an evaluator?</h3>
       <a href="https://ldt4ssc.eu/call-evaluators/"
-         style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-size:16px; display:inline-block; font-weight:normal;">
-        LDT4SSC Open Call for Evaluators – Learn More
+         style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; display:inline-block; margin-top:20px;">
+        Open Call for Evaluators
       </a>
     </div>
 
   </div>
 </div>
-
