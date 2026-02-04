@@ -5,7 +5,7 @@ permalink: /call-two/
 banner: /images/banner-call-two.jpg
 ---
 
-<div style="width:100vw; margin-left:calc(50% - 50vw); background:#ffffff;">
+
 <div style="max-width:1400px; margin:0 auto; padding:60px 40px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
 <!-- HEADER -->
@@ -176,5 +176,4 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 </div>
 </div>
 
-</div>
 </div>
