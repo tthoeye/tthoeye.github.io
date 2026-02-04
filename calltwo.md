@@ -96,15 +96,15 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws1.pdf"
+<a href="https://ldt4ssc.eu/documents/cpmws1.pdf"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
 <span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
+<a href="https://ldt4ssc.eu/documents/locws1.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
 
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"
+<a href="https://ldt4ssc.eu/documents/ocd1.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
@@ -125,15 +125,18 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws2.pdf"
+<a href="https://ldt4ssc.eu/documents/cpmws2.pdf"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
 <span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
+<a href="https://ldt4ssc.eu/documents/locws2.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
 
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"
+<a href="https://ldt4ssc.eu/documents/loiws2.docx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Intent</a>
+
+<a href="https://ldt4ssc.eu/documents/ocd2.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
@@ -154,15 +157,15 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws3.pdf"
+<a href="https://ldt4ssc.eu/documents/cpmws3.pdf"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
 <span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
-<a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
+<a href="https://ldt4ssc.eu/documents/locws3.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
 
-<a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"
+<a href="https://ldt4ssc.eu/documents/ocd3.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
 
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
