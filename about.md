@@ -46,7 +46,7 @@ LDT4SSC brings together a diverse and experienced group of partners from across 
 
 | [![image info](../images/partners/oasc.png)](https://oascities.org) | [![image info](../images/partners/list.png)](https://www.list.lu) | [![image info](../images/partners/fiware.png)](https://www.fiware.org) | [![image info](../images/partners/kereval.png)](https://www.kereval.com) | [![image info](../images/partners/taltech.png)](https://taltech.ee) |
  
-[![image info](../images/partners/enoll.svg)](https://enoll.org) | [![image info](../images/partners/cerema.png)](https://www.cerema.fr) | [![image info](../images/partners/technopolis.png)](https://technopolis-group.com/) | [![image info](../images/partners/libellium.jpg)](https://www.libelium.com/) | [![image info](../images/partners/ugent.png)](https://www.ugent.be) |
+[![image info](../images/partners/enoll.svg)](https://enoll.org) | [![image info](../images/partners/ceremanewlogo.png)](https://www.cerema.fr) | [![image info](../images/partners/technopolis.png)](https://technopolis-group.com/) | [![image info](../images/partners/libellium.jpg)](https://www.libelium.com/) | [![image info](../images/partners/ugent.png)](https://www.ugent.be) |
 
 
 The project officially started in June 2025 and will run until December 2028. The first open call for pilot projects is scheduled to launch in month 5, inviting multi-stakeholder consortia to propose impactful, real-world use cases that advance the development and deployment of Local Digital Twins across Europe.
