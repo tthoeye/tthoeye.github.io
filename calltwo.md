@@ -184,25 +184,25 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 
     <!-- Email Button -->
     <a href="mailto:info@ldt4ssc.eu"
-       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; min-width:250px; display:inline-block;">
       Email us
     </a>
 
     <!-- Matchmaking Platform Button -->
     <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
-       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; min-width:250px; display:inline-block;">
       Find partners via the Matchmaking Platform
     </a>
 
     <!-- Information Session Button -->
     <a href="https://ldt4ssc.eu/services/webinar3/"
-       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; min-width:250px; display:inline-block;">
       Join the information session on 12 February 2026
     </a>
 
     <!-- Newsletter Button -->
     <a href="https://shorturl.at/pzMGK"
-       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; min-width:250px; display:inline-block;">
       Subscribe to our newsletter 
     </a>
 
@@ -214,7 +214,7 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
   <h3 style="color:#1F75D6; margin-bottom:20px;">Interested to apply as an evaluator?</h3>
   
   <a href="https://ldt4ssc.eu/call-evaluators/"
-     style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; font-size:16px; display:inline-block;">
+     style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; font-size:16px; display:inline-block;">
     LDT4SSC Open Call for Evaluators – Learn More</a>
 
 </div>
