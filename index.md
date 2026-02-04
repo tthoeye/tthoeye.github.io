@@ -9,36 +9,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
-# Local Digital Twins for Smart and Sustainable Communities
-
-<div style="background:#ffffff; font-family:Arial, Helvetica, sans-serif; color:#4C5562; position:relative;">
-
-  <!-- STICKY CTA BUTTONS -->
-  <div style="position:fixed; bottom:20px; left:50%; transform:translateX(-50%); display:flex; gap:15px; z-index:999;">
-    <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
-       style="padding:12px 24px; border-radius:32px; background:#1F75D6; color:white; text-decoration:none; font-size:14px; font-weight:normal;
-              transition: all 0.3s ease; box-shadow:0 0 0 rgba(0,0,0,0);"
-       onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(31,117,214,0.4)'; this.style.backgroundColor='#337EDC';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.backgroundColor='#1F75D6';">
-      Find Partners via the Matchmaking Platform
-    </a>
-
-    <a href="https://shorturl.at/pzMGK"
-       style="padding:12px 24px; border-radius:32px; background:#F5B400; color:#000; text-decoration:none; font-size:14px; font-weight:normal;
-              transition: all 0.3s ease; box-shadow:0 0 0 rgba(0,0,0,0);"
-       onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(245,180,0,0.4)'; this.style.backgroundColor='#FFC107';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.backgroundColor='#F5B400';">
-      Subscribe to Our Newsletter
-    </a>
-
-    <a href="https://forms.gle/v17Y7df5DUwpCRZP6"
-       style="padding:12px 24px; border-radius:32px; background:#29A329; color:white; text-decoration:none; font-size:14px; font-weight:normal;
-              transition: all 0.3s ease; box-shadow:0 0 0 rgba(0,0,0,0);"
-       onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(41,163,41,0.4)'; this.style.backgroundColor='#40B240';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.backgroundColor='#29A329';">
-      Join the Stakeholder Forum
-    </a>
-  </div>
+<div style="background:#ffffff; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
   <!-- MAIN CONTAINER -->
   <div style="max-width:1200px; margin:0 auto; padding:80px 20px;">
@@ -71,8 +42,8 @@ show_call_box: true
       </p>
     </div>
 
-    <!-- SOLID DIVIDER -->
-    <div style="height:3px; background:#1F75D6; margin:50px auto; max-width:600px;"></div>
+    <!-- DIVIDER -->
+    <div style="height:4px; background:#1F75D6; margin:50px auto; max-width:600px;"></div>
 
     <!-- KEY GOALS TITLE -->
     <h2 style="text-align:center; color:#1F75D6; margin-bottom:50px;">
@@ -80,9 +51,9 @@ show_call_box: true
     </h2>
 
     <!-- INTERACTIVE GOALS -->
-    <div style="display:flex; flex-wrap:wrap; gap:30px;">
+    <div style="display:flex; flex-wrap:wrap; gap:30px; justify-content:center;">
 
-      <div style="flex:1; min-width:260px; padding:30px; border-radius:22px; background:rgba(31,117,214,0.08);
+      <div style="flex:1; min-width:280px; max-width:350px; padding:30px; border-radius:22px; background:rgba(31,117,214,0.08);
                   transition: all 0.3s ease; cursor:pointer;"
            onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 25px rgba(31,117,214,0.3)'; this.style.background='rgba(31,117,214,0.15)';"
            onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.background='rgba(31,117,214,0.08)';">
@@ -93,7 +64,7 @@ show_call_box: true
         </p>
       </div>
 
-      <div style="flex:1; min-width:260px; padding:30px; border-radius:22px; background:rgba(41,163,41,0.10);
+      <div style="flex:1; min-width:280px; max-width:350px; padding:30px; border-radius:22px; background:rgba(41,163,41,0.10);
                   transition: all 0.3s ease; cursor:pointer;"
            onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 25px rgba(41,163,41,0.3)'; this.style.background='rgba(41,163,41,0.18)';"
            onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.background='rgba(41,163,41,0.10)';">
@@ -104,7 +75,7 @@ show_call_box: true
         </p>
       </div>
 
-      <div style="flex:1; min-width:260px; padding:30px; border-radius:22px; background:rgba(245,180,0,0.18);
+      <div style="flex:1; min-width:280px; max-width:350px; padding:30px; border-radius:22px; background:rgba(245,180,0,0.18);
                   transition: all 0.3s ease; cursor:pointer;"
            onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 12px 25px rgba(245,180,0,0.3)'; this.style.background='rgba(245,180,0,0.25)';"
            onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.background='rgba(245,180,0,0.18)';">
@@ -117,8 +88,29 @@ show_call_box: true
 
     </div>
 
-    <!-- SOLID DIVIDER -->
-    <div style="height:3px; background:#29A329; margin:50px auto; max-width:600px;"></div>
+    <!-- DIVIDER -->
+    <div style="height:4px; background:#29A329; margin:50px auto; max-width:600px;"></div>
+
+    <!-- BUTTONS -->
+    <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-bottom:30px;">
+      <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
+         style="padding:14px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-size:16px; font-weight:normal; display:inline-block;">
+        Find Partners via the Matchmaking Platform
+      </a>
+
+      <a href="https://shorturl.at/pzMGK"
+         style="padding:14px 28px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-size:16px; font-weight:normal; display:inline-block;">
+        Subscribe to our Newsletter
+      </a>
+
+      <a href="https://forms.gle/v17Y7df5DUwpCRZP6"
+         style="padding:14px 28px; border-radius:30px; background:#29A329; color:white; text-decoration:none; font-size:16px; font-weight:normal; display:inline-block;">
+        Join the Stakeholder Forum 
+      </a>
+    </div>
+
+    <!-- YELLOW DIVIDER BELOW BUTTONS -->
+    <div style="height:4px; background:#F5B400; margin:50px auto 80px auto; max-width:600px;"></div>
 
   </div>
 </div>
