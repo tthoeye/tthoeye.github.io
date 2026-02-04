@@ -176,4 +176,45 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 </div>
 </div>
 
+<!-- CONTACT / INFORMATION SECTION -->
+<div style="background:#E6F0FA; padding:40px; border-radius:22px; margin-top:60px; text-align:center; color:#1F75D6;">
+  <h3 style="color:#1F75D6; margin-bottom:30px;">Looking to learn more, ask a question or join a consortium?</h3>
+
+  <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+
+    <!-- Email Button -->
+    <a href="mailto:info@ldt4ssc.eu"
+       style="padding:14px 24px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+      Email us
+    </a>
+
+    <!-- Matchmaking Platform Button -->
+    <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
+       style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+      Find partners via the Matchmaking Platform
+    </a>
+
+    <!-- Information Session Button -->
+    <a href="https://ldt4ssc.eu/services/webinar3/"
+       style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+      Join the information session on 12 February 2026
+    </a>
+
+    <!-- Newsletter Button -->
+    <a href="https://shorturl.at/pzMGK"
+       style="padding:14px 24px; border-radius:30px; background:#4C89E0; color:white; text-decoration:none; font-weight:bold; min-width:250px; display:inline-block;">
+      Subscribe to our newsletter 
+    </a>
+
+  </div>
+</div>
+
+<!-- EVALUATOR SECTION -->
+<div style="background:#D0E4FA; padding:40px; border-radius:22px; margin-top:40px; text-align:center; color:#1F75D6;">
+  <h3 style="color:#1F75D6; margin-bottom:20px;">Interested to apply as an evaluator?</h3>
+  <p style="font-size:16px; line-height:1.6; max-width:800px; margin:0 auto 20px;">
+    LDT4SSC is accepting external evaluators through an Open Call for Evaluators. To learn more, <a href="https://ldt4ssc.eu/call-evaluators/" style="color:#1F75D6; text-decoration:underline;">click here</a>.
+  </p>
+</div>
+
 </div>
