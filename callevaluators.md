@@ -2,7 +2,7 @@
 layout: page
 title: "Open Call 1: Evaluators"
 permalink: /call-evaluators/
-banner: /images/banner-call-one.jpg
+banner: /images/banner-call-two.jpg
 ---
 
 The **Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)** project, funded by the **Digital Europe Programme (DEP)**, invites expressions of interest for its **Open Call for Evaluators**.
