@@ -92,14 +92,14 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
 <!-- WORK STRAND 1 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
 <h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
-<p>Ensure all documents are completed, signed, eligibility criteria met, and alignment with Work Strand 1 objectives.</p>
+<p>Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 1 objectives.</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Pilot Manual – available soon</span>
+<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws1.pdf"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
-<a href="https://ldt4ssc.eu/documents/application_form_ws1.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Application Form</a>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
@@ -121,14 +121,14 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 <!-- WORK STRAND 2 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
 <h3 style="color:#1F75D6;">Work Strand 2: Creating new Local Digital Twins based on common needs</h3>
-<p>Ensure all documents are completed, signed, eligibility criteria met, and alignment with Work Strand 2 objectives.</p>
+<p>Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 2 objectives.</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Pilot Manual – available soon</span>
+<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws2.pdf"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
-<a href="https://ldt4ssc.eu/documents/application_form_ws2.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
@@ -150,14 +150,14 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 <!-- WORK STRAND 3 -->
 <div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
 <h3 style="color:#1F75D6;">Work Strand 3: Adding New Advanced AI-Based Capabilities to the LDTs Toolbox</h3>
-<p>Ensure all documents are completed, signed, eligibility criteria met, and alignment with Work Strand 3 objectives.</p>
+<p>Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 3 objectives.</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Pilot Manual – available soon</span>
+<a href="https://ldt4ssc.eu/documents/pilotsmanual_ws3.pdf"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
 
-<a href="https://ldt4ssc.eu/documents/application_form_ws3.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Application Form</a>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
 
 <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
