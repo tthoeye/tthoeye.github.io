@@ -5,6 +5,7 @@ permalink: /call-two/
 banner: /images/banner-call-two.jpg
 ---
 
+<div style="width: 100%">
 
 <div style="max-width:1400px; margin:0 auto; padding:60px 40px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
@@ -217,4 +218,5 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
      style="padding:16px 28px; border-radius:30px; background:#1F75D6; color:white; text-decoration:none; font-weight:normal; font-size:16px; display:inline-block;">
     LDT4SSC Open Call for Evaluators – Learn More</a>
 
+</div>
 </div>
