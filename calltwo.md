@@ -97,9 +97,10 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
 <a href="https://ldt4ssc.eu/documents/cpmws1.pdf"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Pilot Manual</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
+<a href="https://ldt4ssc.eu/documents/afws1.docx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Application Form</a>
 
 <a href="https://ldt4ssc.eu/documents/locws1.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
@@ -110,7 +111,7 @@ style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; t
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics & Data Protection – available soon</span>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
 
 <a href="mailto:applications@ldt4ssc.eu"
 style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
@@ -126,9 +127,10 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
 <a href="https://ldt4ssc.eu/documents/cpmws2.pdf"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Pilot Manual</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
+<a href="https://ldt4ssc.eu/documents/afws2.docx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Application Form</a>
 
 <a href="https://ldt4ssc.eu/documents/locws2.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
@@ -142,7 +144,7 @@ style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; t
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics & Data Protection – available soon</span>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
 
 <a href="mailto:applications@ldt4ssc.eu"
 style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
@@ -158,9 +160,10 @@ style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; te
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
 <a href="https://ldt4ssc.eu/documents/cpmws3.pdf"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;"> Pilot Manual</a>
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Pilot Manual</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Application Form – coming soon</span>
+<a href="https://ldt4ssc.eu/documents/afws3.docx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Application Form</a>
 
 <a href="https://ldt4ssc.eu/documents/locws3.docx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
@@ -171,7 +174,7 @@ style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; t
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics & Data Protection – available soon</span>
+<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
 
 <a href="mailto:applications@ldt4ssc.eu"
 style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
