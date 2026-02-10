@@ -90,33 +90,62 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
 <!-- WORK STRAND BLOCK TEMPLATE -->
 
 <!-- WORK STRAND 1 -->
-<div style="background:#f6f8fb; padding:40px; border-radius:22px; margin-top:40px;">
-<h3 style="color:#1F75D6;">Work Strand 1: Interconnecting Existing Local Digital Twins</h3>
-<p>Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 1 objectives.</p>
+<div style="background:#f6f8fb; border-radius:22px; margin-top:40px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.05);">
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
+  <!-- Header Image -->
+  <img src="/images/bannerws1.jpg"
+       alt="Work Strand 1 – Interconnecting Local Digital Twins"
+       style="width:100%; height:220px; object-fit:cover; display:block;">
 
-<a href="https://ldt4ssc.eu/documents/cpmws1.pdf"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Pilot Manual</a>
+  <!-- Content -->
+  <div style="padding:40px;">
 
-<a href="https://ldt4ssc.eu/documents/afws1.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">Application Form</a>
+    <h3 style="color:#1F75D6; margin-top:0;">
+      Work Strand 1: Interconnecting Existing Local Digital Twins
+    </h3>
 
-<a href="https://ldt4ssc.eu/documents/locws1.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Letter of Commitment</a>
+    <p>
+      Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 1 objectives.
+    </p>
 
-<a href="https://ldt4ssc.eu/documents/ocd1.docx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ownership Declaration</a>
+    <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:20px;">
 
-<a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
-style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
+      <a href="https://ldt4ssc.eu/documents/cpmws1.pdf"
+         style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">
+         Pilot Manual
+      </a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
+      <a href="https://ldt4ssc.eu/documents/afws1.docx"
+         style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none; display:inline-block;">
+         Application Form
+      </a>
 
-<a href="mailto:applications@ldt4ssc.eu"
-style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
+      <a href="https://ldt4ssc.eu/documents/locws1.docx"
+         style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+         Letter of Commitment
+      </a>
 
-</div>
+      <a href="https://ldt4ssc.eu/documents/ocd1.docx"
+         style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+         Ownership Declaration
+      </a>
+
+      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
+         style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">
+         Financial Form
+      </a>
+
+      <span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">
+        Ethics and Data Protection – available soon
+      </span>
+
+      <a href="mailto:applications@ldt4ssc.eu"
+         style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">
+         Submit application
+      </a>
+
+    </div>
+  </div>
 </div>
 
 <!-- WORK STRAND 2 -->
