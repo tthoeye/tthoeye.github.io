@@ -95,7 +95,7 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
   <!-- Header Image -->
   <img src="/documents/bannerws1.jpg"
        alt="Work Strand 1 – Interconnecting Local Digital Twins"
-       style="width:100%; height:220px; object-fit:cover; display:block;">
+       style="width:100%; height:auto; display:block;">
 
   <!-- Content -->
   <div style="padding:40px;">
