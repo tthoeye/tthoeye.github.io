@@ -41,7 +41,7 @@ Project Stakeholders:
   </a>
 
   <!-- Agenda Button -->
-  <a href="https://ldt4ssc.eu/documents/Agenda.pdf"
+  <a href="https://ldt4ssc.eu/documents/webinar3agenda.pdf"
      style="background-color: #F5B400; color: #4C5562; padding: 12px 20px; border-radius: 6px;
             text-decoration: none; font-weight: 600; display: inline-block;">
      View the agenda here
