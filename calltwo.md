@@ -130,9 +130,8 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
          Financial Form
       </a>
 
-      <span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">
-        Ethics and Data Protection – available soon
-      </span>
+      <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics and Data Protection Self-Assessment</a> 
 
       <a href="mailto:applications@ldt4ssc.eu"
          style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">
@@ -168,7 +167,8 @@ style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; t
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
+<a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics and Data Protection Self-Assessment</a>
 
 <a href="mailto:applications@ldt4ssc.eu"
 style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
@@ -198,7 +198,8 @@ style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; t
 <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"
 style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Financial Form</a>
 
-<span style="padding:10px 18px; border-radius:24px; background:#4C5562; color:white;">Ethics and Data Protection – available soon</span>
+<a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx"
+style="padding:10px 18px; border-radius:24px; background:#29A329; color:white; text-decoration:none;">Ethics and Data Protection Self-Assessment</a>
 
 <a href="mailto:applications@ldt4ssc.eu"
 style="padding:14px 30px; border-radius:30px; background:#F5B400; color:#000; text-decoration:none; font-weight:bold;">Submit application</a>
