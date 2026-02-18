@@ -2,7 +2,7 @@
 title: "Open Call 2 – Info Session Materials Now Available"
 date: 2026-02-18
 weight: 490
---
+---
 
 <section style="padding: 80px 20px; background-color: #ffffff; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
   <div style="max-width: 900px; margin: 0 auto;">
