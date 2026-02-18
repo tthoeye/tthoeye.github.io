@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Call 1: Evaluators"
+title: "Open Call 2: Evaluators"
 permalink: /call-evaluators/
 banner: /images/banner-call-two.jpg
 ---
@@ -13,7 +13,7 @@ Applications will be matched with the most relevant experts from the pool of eva
 
 Experts interested in serving as evaluators for the LDT4SSC Open Calls are invited to apply through the EOI Form. 
 
-**The deadline to submit an expression of interest will be on the 15th of December at 23:59 CET**
+**The deadline to submit an expression of interest will be on the 27th of February at 23:59 CET**
 
 More information for interested candidates can be found in the document [Information for Prospective Experts](/documents/ldt4ssc_experts_manual.pdf)
 
