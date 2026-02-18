@@ -84,7 +84,7 @@ banner: /images/banner-call-two.jpg
           • Work Strand 3 – Adding new and advanced AI services to the EU LDT Toolbox
         </p>
         <p style="margin:6px 0;">
-          <strong>Launch date:</strong> 2 May 2026
+          <strong>Launch date:</strong> 13 May 2026
         </p>
         <span style="color:#8a8f99;">More information coming soon</span>
       </div>
