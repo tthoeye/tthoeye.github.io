@@ -8,6 +8,31 @@ banner: /images/banner-call-two.jpg
 
 <div style="max-width:1400px; margin:0 auto; padding:60px 40px; font-family:Helvetica Neue, Arial, sans-serif; color:#4C5562;">
 
+<!-- WEBINAR MATERIALS -->
+<div style="max-width:1400px; margin:0 auto; padding:0 20px;">
+  <section style="padding:20px; border:1px solid #ddd; border-radius:8px; margin-bottom:30px;">
+    <h2>Open Call 2 – Info Session Materials</h2>
+    <p>
+      Below you can find all materials from the Open Call 2 Info Session,
+      including the slides and the full recording. 
+    </p>
+
+    <div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:20px;">
+
+      <a href="/documents/infosession2.pdf"
+         style="background:#1F75D6; color:white; padding:12px 20px; border-radius:6px; text-decoration:none;">
+        Download the Slides
+      </a>
+
+      <a href="https://youtu.be/Ou3HtJf_R68?si=rM8vHhfYG4UjQrTG"
+         style="background:#29A329; color:white; padding:12px 20px; border-radius:6px; text-decoration:none;">
+        Watch the Webinar Recording
+      </a>
+
+    </div>
+  </section>
+</div>
+
 <!-- HEADER -->
 <h1 style="color:#1F75D6; font-size:42px; text-align:center;">Second Round of Open Calls</h1>
 <p style="text-align:center; font-size:18px;">
