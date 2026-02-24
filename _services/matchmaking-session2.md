@@ -3,9 +3,6 @@ title: "LDT4SSC Matchmaking Event 2026 – Building Strong Consortia for the Sec
 date: 2026-02-24
 weight: 489
 ---
-
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -13,21 +10,19 @@ weight: 489
   <title>LDT4SSC Matchmaking Event 2026</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; color: #4C5562; line-height: 1.6; }
-    .container { max-width: 900px; margin: 0 auto; padding: 20px; }
-    .hero { background: #1F75D6; color: white; padding: 30px; border-radius: 10px; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+    .hero { background: #1F75D6; color: white; padding: 30px; border-radius: 6px; }
     .hero h1 { margin: 0; }
-    .btn { display: inline-block; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; }
+    .btn { display: inline-block; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; }
     .btn-green { background: #29A329; color: white; }
-    .btn-yellow { background: #F5B400; color: #4C5562; }
     .center { text-align: center; }
     .divider { border-top: 2px solid #1F75D6; margin: 30px 0; }
-    .box { background: rgba(245,180,0,0.15); padding: 20px; border-radius: 10px; }
-    .highlight { border-left: 5px solid #29A329; padding: 15px; background: rgba(41,163,41,0.1); border-radius: 6px; }
+    .box { background: #F5B4001A; padding: 20px; border-radius: 6px; }
+    .highlight { border-left: 4px solid #29A329; padding: 15px; background: #29A32914; border-radius: 4px; }
     table { width: 100%; border-collapse: collapse; }
     th { background: #1F75D6; color: white; padding: 10px; text-align: left; }
     td { padding: 10px; }
-    tr:nth-child(even) { background: rgba(245,180,0,0.15); }
-    .footer { background: #4C5562; color: white; padding: 20px; border-radius: 10px; text-align: center; }
+    tr:nth-child(even) { background: #F5B4001A; }
   </style>
 </head>
 <body>
@@ -95,14 +90,11 @@ accelerating the development of interoperable, scalable and AI-enabled Local Dig
     <tr><td>12:15 – 12:30</td><td>Wrap-up & Next Steps</td></tr>
   </table>
 
-  <br>
-
-  <div class="footer">
-    <h3>Apply Now!</h3>
-    <a href="https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA" class="btn btn-yellow">Register</a>
-  </div>
-
 </div>
 
 </body>
 </html>
+
+
+    
+
