@@ -4,7 +4,6 @@ date: 2026-02-24
 weight: 489
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -154,17 +153,6 @@ weight: 489
 
     <p>A dedicated pitch template will be provided to registered participants interested in presenting, ensuring clarity, consistency and efficient use of time during the session.</p>
   </div>
-
-  <div class="ldt-divider"></div>
-
-  <h2 class="ldt-section-title">Registration form</h2>
-
-  <p>To register for the Matchmaking Event, please use the following form:</p>
-
-  <p><a href="https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA">https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA</a></p>
-
-  <h3>Deadline to register</h3>
-  <p>Registration close on 03/03/2026</p>
 
   <div class="ldt-divider"></div>
 
