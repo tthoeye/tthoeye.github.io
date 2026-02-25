@@ -116,6 +116,8 @@ weight: 489
 
   <a href="https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA" class="ldt-button">Register Now</a>
 
+  Registration closes on 3 February 2026. 
+
   <div class="ldt-divider"></div>
 
   <h2 class="ldt-section-title">Concept</h2>
