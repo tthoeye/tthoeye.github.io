@@ -155,7 +155,7 @@ weight: 489
   <h2 class="ldt-section-title">Pitch your Pilot Project Proposal</h2>
 
   <div class="ldt-highlight">
-    <p>During the Matchmaking Event, you will have the opportunity to deliver a short pitch (max. 3 minutes) focused on your **pilot proposal**.
+    <p>During the Matchmaking Event, you will have the opportunity to deliver a short pitch (max. 3 minutes) focused on your pilot proposal.
       Use this moment to clearly present:
       <li>The core idea of your pilot project</li>
       <li>The specific partners or expertise you are looking for</li>
