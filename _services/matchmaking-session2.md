@@ -152,12 +152,18 @@ weight: 489
 
   <div class="ldt-divider"></div>
 
-  <h2 class="ldt-section-title">Pitch Opportunity</h2>
+  <h2 class="ldt-section-title">Pitch your Pilot Project Proposal</h2>
 
   <div class="ldt-highlight">
-    <p>If you wish, you will also have the chance to give a short pitch introducing your organisation and outlining what you are seeking or offering within the framework of Open Call 2.</p>
+    <p>During the Matchmaking Event, you will have the opportunity to deliver a short pitch (max. 3 minutes) focused on your **pilot proposal**.
+      Use this moment to clearly present:
+      <li>The core idea of your pilot project</li>
+      <li>The specific partners or expertise you are looking for</li>
+      <li>The concrete role they would play in your consortium</li>
 
-    <p>A dedicated pitch template will be provided to registered participants interested in presenting, ensuring clarity, consistency and efficient use of time during the session.</p>
+    This is a practical, solution-oriented pitching session designed to accelerate consortium building and help you find the right match.
+    A dedicated pitch template will be shared with registered participants who wish to present, ensuring clarity, consistency and an efficient session for everyone involved.
+      </p>
   </div>
 
   <div class="ldt-divider"></div>
