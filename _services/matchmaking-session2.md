@@ -114,10 +114,14 @@ weight: 489
   <div class="ldt-subtitle">Building Strong Consortia for the Second Round of Open Calls</div>
   <div class="ldt-meta">Online – 5 March 2026 | 10:30–12:30 CET</div>
 
-  <a href="https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA" class="ldt-button">Register Now</a>
-
-  
-  Registration closes on 3 February 2026. 
+<div style="display: flex; align-items: flex-end; gap: 12px;">
+  <a href="https://us06web.zoom.us/meeting/register/TdoJYXSdSx6QatRX69I6NA" class="ldt-button">
+    Register Now
+  </a>
+  <div style="font-size: 0.9em; line-height: 1.2;">
+    Registration closes on 3 March 2026.
+  </div>
+</div>
 
   <div class="ldt-divider"></div>
 
