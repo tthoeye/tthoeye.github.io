@@ -158,19 +158,29 @@ C) Consult the News and Events section for updates and information sessions</p>
   </details>
 
   <!-- Dropdown 6: kuu -->
-  <details>
-    <summary>Consortium Building</summary>
-    <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for kuu?</p>
-      <p><strong>A1:</strong> Answer to question 1 under kuu.</p>
-      <hr>
-      <p><strong>Q2:</strong> Question 2 for kuu?</p>
-      <p><strong>A2:</strong> Answer to question 2 under kuu.</p>
-      <hr>
-      <p><strong>Q3:</strong> Question 3 for kuu?</p>
-      <p><strong>A3:</strong> Answer to question 3 under kuu.</p>
-    </div>
-  </details>
+<details>
+  <summary>Consortium Building</summary>
+  <div class="faq-content">
+    <p><strong>Q1:</strong> How can organisations find partners or join a consortium?</p>
+    <p><strong>A1:</strong> The recommended way to connect with potential partners is through the LDT4SSC Matchmaking Platform, which is specifically designed to support consortium building for the Open Calls. Through the platform, organisations can:</p>
+    <ul>
+      <li>Create a profile describing their expertise, interests and role</li>
+      <li>Publish a project idea or consortium proposal</li>
+      <li>Search for and contact cities, SMEs, research organisations and other stakeholders</li>
+      <li>Initiate meetings and consortium discussions directly with potential partners</li>
+    </ul>
+    <p>The Matchmaking Platform is <a href="https://www.b2match.com/e/local-digital-digital-twins-smart-communities" target="_blank">available here.</a></p>
+    <p>A short tutorial on how to use the platform is also <a href="https://youtu.be/T1SeHtgg5ew?si=jdSJ6Boz8ibA9Cl5" target="_blank">available on YouTube.</a></p>
+
+    <hr>
+    <p><strong>Q2:</strong> Can a consortium be formed after submitting an application?</p>
+    <p><strong>A2:</strong> No. Applications must be submitted by a fully formed consortium. Consortia are expected to implement their pilots independently and cannot merge or partner with other consortia after submission.</p>
+
+    <hr>
+    <p><strong>Q3:</strong> Can third parties apply as leads to the consortium?</p>
+    <p><strong>A3:</strong> While there is a preference for a public authority to act as lead, third parties can also do so.</p>
+  </div>
+</details>
 
   <!-- Dropdown 7: sei -->
   <details>
