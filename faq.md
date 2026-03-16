@@ -10,7 +10,6 @@ intro_image_hide_on_mobile: true
 
 Find answers to the most common questions about the LDT4SSC project, the Knowledge Hub, and how to get in touch with the team.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -19,9 +18,9 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f0f2f5;
+      background-color: #f0f2f5; /* Neutral light background */
       margin: 20px;
-      color: #4C5562; /* Anchor Grey */
+      color: #4C5562; /* Anchor Grey text */
     }
 
     .accordion-container {
@@ -51,7 +50,8 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.4s ease, padding 0.3s ease;
-      background-color: #F5B400; /* Community Yellow */
+      background-color: #ffffff; /* White background for content */
+      border: 1px solid #29A329; /* Eco Green border accent */
       border-radius: 0 0 8px 8px;
       margin-bottom: 10px;
       padding: 0 20px;
@@ -69,7 +69,7 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
     .accordion-content hr {
       border: none;
       height: 1px;
-      background-color: #29A329; /* Eco Green */
+      background-color: #29A329; /* Eco Green divider */
       margin: 10px 0;
     }
 
@@ -87,21 +87,28 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
 
   <div class="accordion-container">
 
-    <!-- Accordion Block Template -->
+    <!-- Example Accordion Block -->
     <div class="accordion">
-      <div class="accordion-title">1 <span class="arrow">▶</span></div>
+      <div class="accordion-title">Calls, Timelines & Information Availability
+ <span class="arrow">▶</span></div>
       <div class="accordion-content">
-        <p><strong>Q1:</strong> What is question one for title 1?</p>
-        <p><strong>A1:</strong> Answer to question one under title 1.</p>
+        <p><strong>Q1:</strong> Where can I find official information on call timelines, requirements and eligibility??</p>
+        <p><strong>A1:</strong> All official and up-to-date information is provided in the Call for Pilots Manual, available on the LDT4SSC website. This document outlines eligibility criteria, consortium requirements, scope and evaluation procedures.</p>
         <hr>
-        <p><strong>Q2:</strong> What is question two for title 1?</p>
-        <p><strong>A2:</strong> Answer to question two under title 1.</p>
+        <p><strong>Q2:</strong> When will more details on upcoming calls be published?</p>
+        <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.
+Applicants are encouraged to:
+- Regularly check the LDT4SSC website
+- Follow project communication channels
+- Consult the News and Events section for updates and information sessions
+</p>
         <hr>
         <p><strong>Q3:</strong> What is question three for title 1?</p>
         <p><strong>A3:</strong> Answer to question three under title 1.</p>
       </div>
     </div>
 
+    <!-- Repeat blocks for titles 2–7 -->
     <div class="accordion">
       <div class="accordion-title">2 <span class="arrow">▶</span></div>
       <div class="accordion-content">
@@ -196,7 +203,7 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
         const content = title.nextElementSibling;
         const arrow = title.querySelector('.arrow');
 
-        // Close all other accordions
+        // Close other accordions
         document.querySelectorAll('.accordion-content').forEach(c => {
           if (c !== content) {
             c.style.maxHeight = null;
