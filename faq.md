@@ -34,12 +34,15 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
 
   <h3>Useful Documents & Links</h3>
   <ul class="resources">
-    <li><a href="https://ldt4ssc.eu/open-calls/">LDT4SSC Open Calls pages</a></li>
-    <li><a href="https://ldt4ssc.eu/call-for-pilots-manual.pdf">Call for Pilots Manual</a></li>
-    <li><a href="https://ldt4ssc.eu/application-forms/">Application forms and templates per Work Strand</a></li>
-    <li><a href="https://ldt4ssc.eu/matchmaking-platform/">Matchmaking Platform</a></li>
+    <li><a href="https://ldt4ssc.eu/opencalls/">LDT4SSC Open Calls pages</a></li>
+    <li><a href="https://ldt4ssc.eu/call-two/">Call for Pilots Manual</a></li>
+    <li><a href="https://ldt4ssc.eu/call-two/">Application forms and templates per Work Strand</a></li>
+    <li><a href="https://www.b2match.com/e/local-digital-twins-smart-communities">Matchmaking Platform</a></li>
     <li><a href="https://ldt4ssc.eu/news/">News & Events page</a></li>
   </ul>
+
+  <p>All documents and links are available on the official <a href="https://ldt4ssc.eu/">LDT4SSC website</a>.</p>
+  
 </div>
 
 <!-- FAQ Section -->
@@ -75,7 +78,7 @@ C) Consult the News and Events section for updates and information sessions</p>
       <p><strong>A1:</strong> A Local (or Urban) Digital Twin is a digital representation of physical assets, systems or processes within a defined local context (e.g. city, district, building, port or airport). It uses historical, near real-time or real-time data to enable visualisation, analysis, simulation and decision-making. For additional information please refer to the <a href="https://knowledgehub.ldt4ssc.eu/resources_content/tech_resources/#what-is-a-local-digital-twin" target="_blank">Knowledge Hub</a>.</p>
       <hr>
       <p><strong>Q2:</strong> What tools are available to support Digital Twin development?</p>
-      <p><strong>A2:</strong> Available tools include the EU Local Digital Twin Toolbox, the SIMPL middleware, and a range of open-source components referenced in the Call documentation and collected in the Resources for Pilots section on the project's Knowledge Hub.</p>
+      <p><strong>A2:</strong> Available tools include the EU Local Digital Twin Toolbox, the SIMPL middleware, and a range of open-source components referenced in the Call documentation and collected in the Resources for Pilots section on the project's <a href="https://knowledgehub.ldt4ssc.eu/resources_content/tech_resources/#what-is-a-local-digital-twin" target="_blank">Knowledge Hub</a>.</p>
       <hr>
       <p><strong>Q3:</strong> How can existing Local Digital Twins (LDTs) be further developed? (WS1 & WS3)</p>
       <p><strong>A3:</strong> Pilots are expected to expand existing LDTs by interconnecting to other LDTs, developing and further improving open-source components, proposing new services that improve decision-making, resilience and sustainability.</p>
@@ -83,13 +86,13 @@ C) Consult the News and Events section for updates and information sessions</p>
       <p><strong>Q4:</strong> How is interoperability between cities ensured?</p>
       <p><strong>A4:</strong> Pilots must adopt open specifications and standards (e.g. DCAT, ODRL) and use the SIMPL framework to ensure interoperable and cost-effective architectures across cities.
         
-Minimal Interoperability Mechanisms Plus (MIMs) provides a common set of standard specifications that enable minimal but sufficient level of interoperability for data, systems and services specifically across cities and communities in Europe. These specifications are based on open standards and best practices, ensuring that different digital twins and urban platforms can communicate and share data effectively, regardless of the technology stack used by individual cities.
+</p><a href="https://mims.oascities.org/" target="_blank">Minimal Interoperability Mechanisms Plus (MIMs)</a> provides a common set of standard specifications that enable minimal but sufficient level of interoperability for data, systems and services specifically across cities and communities in Europe. These specifications are based on open standards and best practices, ensuring that different digital twins and urban platforms can communicate and share data effectively, regardless of the technology stack used by individual cities.</p>
 
-Cities can also rely on the European Interoperability Framework (EIF) which gives specific guidance on how to set up interoperable digital public services.  The EIF distinguishes four layers to interoperability: Legal, Organisational, Semantic, and Technical. These should all be addressed to ensure interoperability between cities.
+</p>Cities can also rely on the European Interoperability Framework (EIF) which gives specific guidance on how to set up interoperable digital public services.  The EIF distinguishes four layers to interoperability: Legal, Organisational, Semantic, and Technical. These should all be addressed to ensure interoperability between cities.</p>
 
-Building on the EIF and MIMs Plus, the Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC) offers definitions, principles, recommendations and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.
+</p>Building on the EIF and MIMs Plus, the Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC) offers definitions, principles, recommendations and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.</p>
 
-The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.
+</p>The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.</p>
 </p>
     </div>
   </details>
