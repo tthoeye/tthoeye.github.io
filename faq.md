@@ -83,14 +83,15 @@ C) Consult the News and Events section for updates and information sessions</p>
       <p><strong>Q3:</strong> How can existing Local Digital Twins (LDTs) be further developed? (WS1 & WS3)</p>
       <p><strong>A3:</strong> Pilots are expected to expand existing LDTs by interconnecting to other LDTs, developing and further improving open-source components, proposing new services that improve decision-making, resilience and sustainability.</p>
       <hr>
-      <p><strong>Q4:</strong> How is interoperability between cities ensured?</p>
-      <p><strong>A4:</strong> Pilots must adopt open specifications and standards (e.g. DCAT, ODRL) and use the SIMPL framework to ensure interoperable and cost-effective architectures across cities.
-        
-</p><a href="https://mims.oascities.org/" target="_blank">Minimal Interoperability Mechanisms Plus (MIMs)</a> provides a common set of standard specifications that enable minimal but sufficient level of interoperability for data, systems and services specifically across cities and communities in Europe. These specifications are based on open standards and best practices, ensuring that different digital twins and urban platforms can communicate and share data effectively, regardless of the technology stack used by individual cities.</p>
+<p><strong>Q4:</strong> How is interoperability between cities ensured?</p>
 
-</p>Cities can also rely on the <a href="https://interoperable-europe.ec.europa.eu/collection/iopeu-monitoring/european-interoperability-framework" target="_blank">European Interoperability Framework (EIF)</a> which gives specific guidance on how to set up interoperable digital public services.  The EIF distinguishes four layers to interoperability: Legal, Organisational, Semantic, and Technical. These should all be addressed to ensure interoperability between cities.</p>
+<p><strong>A4:</strong> Pilots must adopt open specifications and standards (e.g. DCAT, ODRL) and use the SIMPL framework to ensure interoperable and cost-effective architectures across cities.</p>
 
-</p>Building on the EIF and MIMs Plus, the <a href="https://digital-strategy.ec.europa.eu/en/news/proposal-european-interoperability-framework-smart-cities-and-communities-eif4scc" target="_blank">Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC)</a>  offers definitions, principles, recommendations and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.</p>
+<p><a href="https://mims.oascities.org/" target="_blank">Minimal Interoperability Mechanisms Plus (MIMs)</a> provides a common set of standard specifications that enable a minimal but sufficient level of interoperability for data, systems, and services specifically across cities and communities in Europe. These specifications are based on open standards and best practices, ensuring that different digital twins and urban platforms can communicate and share data effectively, regardless of the technology stack used by individual cities.</p>
+
+<p>Cities can also rely on the <a href="https://interoperable-europe.ec.europa.eu/collection/iopeu-monitoring/european-interoperability-framework" target="_blank">European Interoperability Framework (EIF)</a>, which gives specific guidance on how to set up interoperable digital public services. The EIF distinguishes four layers to interoperability: Legal, Organisational, Semantic, and Technical. These should all be addressed to ensure interoperability between cities.</p>
+
+<p>Building on the EIF and MIMs Plus, the <a href="https://digital-strategy.ec.europa.eu/en/news/proposal-european-interoperability-framework-smart-cities-and-communities-eif4scc" target="_blank">Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC)</a> offers definitions, principles, recommendations, and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.</p>
 
 </p>The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.</p>
 </p>
@@ -169,6 +170,7 @@ C) Consult the News and Events section for updates and information sessions</p>
       <li>Search for and contact cities, SMEs, research organisations and other stakeholders</li>
       <li>Initiate meetings and consortium discussions directly with potential partners</li>
     </ul>
+    
     <p>The Matchmaking Platform is <a href="https://www.b2match.com/e/local-digital-digital-twins-smart-communities" target="_blank">available here.</a></p>
     <p>A short tutorial on how to use the platform is also <a href="https://youtu.be/T1SeHtgg5ew?si=jdSJ6Boz8ibA9Cl5" target="_blank">available on YouTube.</a></p>
 
