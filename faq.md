@@ -42,7 +42,6 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
   </ul>
 
   <p>All documents and links are available on the official <a href="https://ldt4ssc.eu/">LDT4SSC website</a>.</p>
-  
 </div>
 
 <!-- FAQ Section -->
@@ -94,7 +93,6 @@ C) Consult the News and Events section for updates and information sessions</p>
 <p>Building on the EIF and MIMs Plus, the <a href="https://digital-strategy.ec.europa.eu/en/news/proposal-european-interoperability-framework-smart-cities-and-communities-eif4scc" target="_blank">Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC)</a> offers definitions, principles, recommendations, and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.</p>
 
 </p>The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.</p>
-</p>
     </div>
   </details>
 
