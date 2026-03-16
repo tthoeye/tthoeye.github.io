@@ -47,25 +47,32 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
 
   <!-- Dropdown 1: yy -->
   <details>
-    <summary>yy</summary>
+    <summary>Calls, Timelines & Information Availability</summary>
     <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for yy?</p>
-      <p><strong>A1:</strong> Answer to question 1 under yy.</p>
+      <p><strong>Q1:</strong> Where can I find official information on call timelines, requirements and eligibility?</p>
+      <p><strong>A1:</strong> All official and up-to-date information is provided in the Call for Pilots Manual, available on the LDT4SSC website. This document outlines eligibility criteria, consortium requirements, scope and evaluation procedures.</p>
       <hr>
-      <p><strong>Q2:</strong> Question 2 for yy?</p>
-      <p><strong>A2:</strong> Answer to question 2 under yy.</p>
+      <p><strong>Q2:</strong> When will more details on upcoming calls be published?</p>
+      <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.
+Applicants are encouraged to:
+A) Regularly check the LDT4SSC website
+B) Follow project communication channels
+C) Consult the News and Events section for updates and information sessions</p>
       <hr>
-      <p><strong>Q3:</strong> Question 3 for yy?</p>
-      <p><strong>A3:</strong> Answer to question 3 under yy.</p>
+      <p><strong>Q3:</strong> Can information about submitted or selected applications be shared?</p>
+      <p><strong>A3:</strong> No. Information about submitted applications or evaluation outcomes cannot be disclosed before the formal evaluation process is completed.</p>
+       <hr>
+      <p><strong>Q4:</strong> How many Open Calls are planned in LDT4SSC?</p>
+      <p><strong>A4:</strong> There are five Open Calls planned within the LDT4SSC project. An overview is available on the official LDT4SSC website.</p>
     </div>
   </details>
 
   <!-- Dropdown 2: kaa -->
   <details>
-    <summary>kaa</summary>
+    <summary>Local Digital Twins: Concepts, Tools and Standards</summary>
     <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for kaa?</p>
-      <p><strong>A1:</strong> Answer to question 1 under kaa.</p>
+      <p><strong>Q1:</strong> What is a Local Digital Twin?</p>
+      <p><strong>A1:</strong> A Local (or Urban) Digital Twin is a digital representation of physical assets, systems or processes within a defined local context (e.g. city, district, building, port or airport). It uses historical, near real-time or real-time data to enable visualisation, analysis, simulation and decision-making. For additional information please refer to the [Knowledge Hub](https://knowledgehub.ldt4ssc.eu/resources_content/tech_resources/).</p>
       <hr>
       <p><strong>Q2:</strong> Question 2 for kaa?</p>
       <p><strong>A2:</strong> Answer to question 2 under kaa.</p>
