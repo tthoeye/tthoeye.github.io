@@ -95,7 +95,7 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
 
 <p>Building on the EIF and MIMs Plus, the <a href="https://digital-strategy.ec.europa.eu/en/news/proposal-european-interoperability-framework-smart-cities-and-communities-eif4scc" target="_blank">Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC)</a> offers definitions, principles, recommendations, and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.</p>
 
-The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.
+<p>The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.</p>
     </div>
   </details>
 
@@ -307,34 +307,126 @@ body, body * {
   font-family: Arial, Helvetica, sans-serif !important;
 }
 
+/* Full-width sections */
 .full-width-section {
   width: 100%;
   padding: 40px 20px;
   box-sizing: border-box;
 }
 
-.ldt4ssc-intro h2 { color: #1F75D6; font-size: 32px; margin-bottom: 20px; }
-.ldt4ssc-intro h3 { color: #29A329; font-size: 24px; margin-top: 30px; margin-bottom: 15px; }
-.ldt4ssc-intro p { color: #4C5562; line-height: 1.7; margin-bottom: 18px; }
+/* Intro headings and paragraphs */
+.ldt4ssc-intro h2 {
+  color: #1F75D6;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.ldt4ssc-intro h3 {
+  color: #29A329;
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.ldt4ssc-intro p {
+  color: #4C5562;
+  line-height: 1.7;
+  margin-bottom: 18px;
+}
 
-.work-strands { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 30px; }
-.ws-card { flex: 1 1 30%; min-width: 250px; background: #fff; border-left: 5px solid #F5B400; padding: 20px; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.08); }
-.ws-card h4 { margin-top: 0; color: #1F75D6; margin-bottom: 10px; }
+/* Work strands cards */
+.work-strands {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.ws-card {
+  flex: 1 1 30%;
+  min-width: 250px;
+  background: #fff;
+  border-left: 5px solid #F5B400;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+}
+.ws-card h4 {
+  margin-top: 0;
+  color: #1F75D6;
+  margin-bottom: 10px;
+}
 
-.resources li { margin-bottom: 10px; }
-.resources a { color: #1F75D6; text-decoration: none; font-weight: 500; }
-.resources a:hover { text-decoration: underline; }
+/* Resources links */
+.resources li {
+  margin-bottom: 10px;
+}
+.resources a {
+  color: #1F75D6;
+  text-decoration: none;
+  font-weight: 500;
+}
+.resources a:hover {
+  text-decoration: underline;
+}
 
-.faq-accordion details { border: 1px solid #29A329; border-radius: 8px; margin-bottom: 16px; background: #fff; padding: 0; width: 100%; }
-.faq-accordion summary { padding: 16px 20px; font-weight: bold; cursor: pointer; background-color: #1F75D6; color: #fff; border-radius: 8px; list-style: none; }
-.faq-accordion summary::-webkit-details-marker { display: none; }
-.faq-accordion summary::after { content: ' ▶'; float: right; transition: transform 0.3s ease; }
-.faq-accordion details[open] summary::after { transform: rotate(90deg); }
-.faq-content { padding: 14px 20px 20px; color: #4C5562; line-height: 1.6; }
-.faq-content hr { border: none; height: 1px; background: #29A329; margin: 10px 0; }
+/* FAQ Accordion */
+.faq-accordion details {
+  border: 1px solid #29A329;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  background: #fff;
+  padding: 0;
+  width: 100%;
+}
+.faq-accordion summary {
+  padding: 16px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #1F75D6;
+  color: #fff;
+  border-radius: 8px;
+  list-style: none;
+}
+.faq-accordion summary::-webkit-details-marker {
+  display: none;
+}
+.faq-accordion summary::after {
+  content: ' ▶';
+  float: right;
+  transition: transform 0.3s ease;
+}
+.faq-accordion details[open] summary::after {
+  transform: rotate(90deg);
+}
+.faq-content {
+  padding: 14px 20px 20px;
+  color: #4C5562;
+  line-height: 1.6;
+}
+.faq-content hr {
+  border: none;
+  height: 1px;
+  background: #29A329;
+  margin: 10px 0;
+}
 
+/* Lists styling inside FAQ */
+.faq-content ul,
+.faq-content ol {
+  margin-bottom: 1em;      /* Space after list before next paragraph */
+  padding-left: 20px;       /* Indentation */
+}
+.faq-content ul li,
+.faq-content ol li {
+  margin-bottom: 0.5em;     /* Space between items */
+}
+
+/* Responsive adjustments */
 @media (max-width: 900px) {
-  .work-strands { flex-direction: column; }
-  .ws-card { flex: 1 1 100%; }
+  .work-strands {
+    flex-direction: column;
+  }
+  .ws-card {
+    flex: 1 1 100%;
+  }
 }
 </style>
