@@ -302,6 +302,11 @@ The LDT4SSC project will provide materials and specific training to awarded pilo
 
 <!-- Page-specific CSS -->
 <style>
+/* Force all page text to Arial */
+body, body * {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
 .full-width-section {
   width: 100%;
   padding: 40px 20px;
