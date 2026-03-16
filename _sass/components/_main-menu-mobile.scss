@@ -61,6 +61,27 @@
           opacity: 0.8;
         }
       }
+
+      &.has-children {
+        .submenu {
+          margin-top: 8px;
+        }
+      }
+    }
+
+    .submenu {
+      font-size: 18px;
+      margin: 0;
+
+      li {
+        padding: 6px 0;
+        opacity: 1;
+        animation: none;
+      }
+
+      a {
+        color: rgba(255, 255, 255, 0.82);
+      }
     }
   }
 }

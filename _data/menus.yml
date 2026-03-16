@@ -24,6 +24,13 @@ main:
   - name: "Knowledge Hub"
     url: "https://knowledgehub.ldt4ssc.eu/"
     weight: 5
+    children:
+      - name: "Knowledge Hub"
+        url: "https://knowledgehub.ldt4ssc.eu/"
+        weight: 1
+      - name: "FAQ"
+        url: "/faq/"
+        weight: 2
   - name: "News & Events"
     url: "/news/"
     weight: 6
