@@ -72,64 +72,91 @@ C) Consult the News and Events section for updates and information sessions</p>
     <summary>Local Digital Twins: Concepts, Tools and Standards</summary>
     <div class="faq-content">
       <p><strong>Q1:</strong> What is a Local Digital Twin?</p>
-      <p><strong>A1:</strong> A Local (or Urban) Digital Twin is a digital representation of physical assets, systems or processes within a defined local context (e.g. city, district, building, port or airport). It uses historical, near real-time or real-time data to enable visualisation, analysis, simulation and decision-making. For additional information please refer to the [Knowledge Hub](https://knowledgehub.ldt4ssc.eu/resources_content/tech_resources/).</p>
+      <p><strong>A1:</strong> A Local (or Urban) Digital Twin is a digital representation of physical assets, systems or processes within a defined local context (e.g. city, district, building, port or airport). It uses historical, near real-time or real-time data to enable visualisation, analysis, simulation and decision-making. For additional information please refer to the <a href="https://knowledgehub.ldt4ssc.eu/resources_content/tech_resources/#what-is-a-local-digital-twin" target="_blank">Knowledge Hub</a>.</p>
       <hr>
-      <p><strong>Q2:</strong> Question 2 for kaa?</p>
-      <p><strong>A2:</strong> Answer to question 2 under kaa.</p>
+      <p><strong>Q2:</strong> What tools are available to support Digital Twin development?</p>
+      <p><strong>A2:</strong> Available tools include the EU Local Digital Twin Toolbox, the SIMPL middleware, and a range of open-source components referenced in the Call documentation and collected in the Resources for Pilots section on the project's Knowledge Hub.</p>
       <hr>
-      <p><strong>Q3:</strong> Question 3 for kaa?</p>
-      <p><strong>A3:</strong> Answer to question 3 under kaa.</p>
+      <p><strong>Q3:</strong> How can existing Local Digital Twins (LDTs) be further developed? (WS1 & WS3)</p>
+      <p><strong>A3:</strong> Pilots are expected to expand existing LDTs by interconnecting to other LDTs, developing and further improving open-source components, proposing new services that improve decision-making, resilience and sustainability.</p>
+      <hr>
+      <p><strong>Q4:</strong> How is interoperability between cities ensured?</p>
+      <p><strong>A4:</strong> Pilots must adopt open specifications and standards (e.g. DCAT, ODRL) and use the SIMPL framework to ensure interoperable and cost-effective architectures across cities.
+        
+Minimal Interoperability Mechanisms Plus (MIMs) provides a common set of standard specifications that enable minimal but sufficient level of interoperability for data, systems and services specifically across cities and communities in Europe. These specifications are based on open standards and best practices, ensuring that different digital twins and urban platforms can communicate and share data effectively, regardless of the technology stack used by individual cities.
+
+Cities can also rely on the European Interoperability Framework (EIF) which gives specific guidance on how to set up interoperable digital public services.  The EIF distinguishes four layers to interoperability: Legal, Organisational, Semantic, and Technical. These should all be addressed to ensure interoperability between cities.
+
+Building on the EIF and MIMs Plus, the Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC) offers definitions, principles, recommendations and practical use cases to guide cities in delivering cross-border, cross-domain services to the public.
+
+The LDT4SSC project will provide materials and specific training to awarded pilots, guiding them in implementing these frameworks and mechanisms.
+</p>
     </div>
   </details>
 
   <!-- Dropdown 3: koo -->
   <details>
-    <summary>koo</summary>
+    <summary>Eligibility Rules for Applying to the Open Calls</summary>
     <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for koo?</p>
-      <p><strong>A1:</strong> Answer to question 1 under koo.</p>
+      <p><strong>Q1:</strong> Is participation in one Work Strand mandatory to apply for another?</p>
+      <p><strong>A1:</strong> No. Applicants may choose to apply to one or more Work Strands, depending on their objectives and capacity. Participation in a specific Work Strand is not a prerequisite for applying to another.</p>
       <hr>
-      <p><strong>Q2:</strong> Question 2 for koo?</p>
-      <p><strong>A2:</strong> Answer to question 2 under koo.</p>
+      <p><strong>Q2:</strong> Is membership in the LDT CitiVERSE EDIC required to apply?</p>
+      <p><strong>A2:</strong> No. Participation in the LDT4SSC Calls for Pilots is not linked to membership in the LDT CitiVERSE EDIC. Being a member does not provide any advantage, nor is it required for eligibility.</p>
       <hr>
-      <p><strong>Q3:</strong> Question 3 for koo?</p>
-      <p><strong>A3:</strong> Answer to question 3 under koo.</p>
+      <p><strong>Q3:</strong> Am I eligible if my organisation is based outside the Digital Europe Programme (DEP)?</p>
+      <p><strong>A3:</strong> No. Only organisations based in eligible DEP countries can receive funding and participate in pilot consortia. Organisations based in non-DEP countries are not eligible.</p>
+      <hr>
+      <p><strong>Q4:</strong> Can an agency working for a city (e.g. mobility agency, waste management agency), participate in these calls? </p>
+      <p><strong>A4:</strong> Yes, any partner regardless of the legal status can participate in a consortium, as long as the requirement of having two LRAs represented in the consortium is met. If your agency is considered a public sector agency owned by the municipality, and you are officially representing the city government, there is no issue for you to be considered one of the needed public sector partners in a consortium.</p>
+      <hr>
+      <p><strong>Q5:</strong> Can a city with an existing LDT participate in WS2?</p>
+      <p><strong>A5:</strong> If you already have an LDT in place, it can serve as a basis to develop new cases in the LDT, by complying with the technical and non-technical requirements of the call and in collaboration with at least one other city or community.</p>
     </div>
   </details>
 
   <!-- Dropdown 4: nee -->
   <details>
-    <summary>nee</summary>
+    <summary>Timeframes & Maturity</summary>
     <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for nee?</p>
-      <p><strong>A1:</strong> Answer to question 1 under nee.</p>
+      <p><strong>Q1:</strong> What is the expected duration of pilot projects?</p>
+      <p><strong>A1:</strong> Pilots are expected to last between 12 and 18 months</p>
       <hr>
-      <p><strong>Q2:</strong> Question 2 for nee?</p>
-      <p><strong>A2:</strong> Answer to question 2 under nee.</p>
+      <p><strong>Q2:</strong> How can municipalities assess their readiness to apply?</p>
+      <p><strong>A2:</strong> Municipalities can use the LORDIMAS framework to assess their digital maturity and readiness for participating in different Work Strands. Completing this assessment is recommended for applying but not mandatory. Applicants can find recommendations on the level of maturity to have upon application and to be achieved by the end of the piloting at the LORDIMAS assessment in the CfP Manual.</p>
       <hr>
-      <p><strong>Q3:</strong> Question 3 for nee?</p>
-      <p><strong>A3:</strong> Answer to question 3 under nee.</p>
+      <p><strong>Q3:</strong> What if the timeline of a call does not fit our readiness?</p>
+      <p><strong>A3:</strong> No deadline extensions are provided. However, the LDT4SSC project includes five Open Calls, offering multiple opportunities to apply over time.</p>
     </div>
   </details>
 
   <!-- Dropdown 5: vii -->
   <details>
-    <summary>vii</summary>
+    <summary>Funding & Budget</summary>
     <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for vii?</p>
-      <p><strong>A1:</strong> Answer to question 1 under vii.</p>
+      <p><strong>Q1:</strong> What if the funding model is not suitable for our organisation?</p>
+      <p><strong>A1:</strong> If an organisation cannot meet the 50% co-funding requirement, it is not eligible to participate under the LDT4SSC Calls for Pilots.</p>
       <hr>
-      <p><strong>Q2:</strong> Question 2 for vii?</p>
-      <p><strong>A2:</strong> Answer to question 2 under vii.</p>
+      <p><strong>Q2:</strong> How should the 50% co-funding requirement be allocated within the consortium?</p>
+      <p><strong>A2:</strong> The consortium must demonstrate that it collectively meets the 50% co-funding requirement. How individual partners contribute to this total is not a determining factor, as long as the consortium as a whole complies.</p>
       <hr>
-      <p><strong>Q3:</strong> Question 3 for vii?</p>
-      <p><strong>A3:</strong> Answer to question 3 under vii.</p>
+      <p><strong>Q3:</strong> How much funding can a consortium receive?</p>
+      <p><strong>A3:</strong> Each consortium may receive up to €1,000,000, with a maximum of €500,000 per third party, subject to the specific conditions of each Work Strand.</p>
+      <hr>
+      <p><strong>Q4:</strong> Can pilots demonstrate financial eligibility through in-kind contributions as well as monetary support? </p>
+      <p><strong>A4:</strong> No, financial eligibility can only be demonstrated through monetary support only. </p>
+      <hr>
+      <p><strong>Q5:</strong> How many projects will be funded in each Work Strand?</p>
+      <p><strong>A5:</strong> LDT4SSC will fund as many projects as there is budget to do so.</p>
+      <hr>
+      <p><strong>Q6:</strong> Can a city / public entity partially cover the eligible costs with ERDF (European Regional Development Fund)?</p>
+      <p><strong>A6:</strong> Synergy grants might be used as co-funding, but in case you plan to do so, please let us know as soon as possible because this will need to be checked with the European Commission’s internal financial services</p>
     </div>
   </details>
 
   <!-- Dropdown 6: kuu -->
   <details>
-    <summary>kuu</summary>
+    <summary>Consortium Building</summary>
     <div class="faq-content">
       <p><strong>Q1:</strong> Question 1 for kuu?</p>
       <p><strong>A1:</strong> Answer to question 1 under kuu.</p>
@@ -144,7 +171,7 @@ C) Consult the News and Events section for updates and information sessions</p>
 
   <!-- Dropdown 7: sei -->
   <details>
-    <summary>sei</summary>
+    <summary>Pilots & Evaluation</summary>
     <div class="faq-content">
       <p><strong>Q1:</strong> Question 1 for sei?</p>
       <p><strong>A1:</strong> Answer to question 1 under sei.</p>
