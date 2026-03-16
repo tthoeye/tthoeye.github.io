@@ -55,11 +55,14 @@ Find answers to the most common questions about the LDT4SSC project, the Knowled
       <p><strong>A1:</strong> All official and up-to-date information is provided in the Call for Pilots Manual, available on the LDT4SSC website. This document outlines eligibility criteria, consortium requirements, scope and evaluation procedures.</p>
       <hr>
       <p><strong>Q2:</strong> When will more details on upcoming calls be published?</p>
-      <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.
-Applicants are encouraged to:
-A) Regularly check the LDT4SSC website
-B) Follow project communication channels
-C) Consult the News and Events section for updates and information sessions</p>
+      <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.</p>
+
+<p>Applicants are encouraged to:</p>
+<ul>
+  <li>Regularly check the LDT4SSC website</li>
+  <li>Follow project communication channels</li>
+  <li>Consult the News and Events section for updates and information sessions</li>
+</ul>
       <hr>
       <p><strong>Q3:</strong> Can information about submitted or selected applications be shared?</p>
       <p><strong>A3:</strong> No. Information about submitted applications or evaluation outcomes cannot be disclosed before the formal evaluation process is completed.</p>
@@ -182,20 +185,119 @@ C) Consult the News and Events section for updates and information sessions</p>
   </div>
 </details>
 
-  <!-- Dropdown 7: sei -->
-  <details>
-    <summary>Pilots & Evaluation</summary>
-    <div class="faq-content">
-      <p><strong>Q1:</strong> Question 1 for sei?</p>
-      <p><strong>A1:</strong> Answer to question 1 under sei.</p>
-      <hr>
-      <p><strong>Q2:</strong> Question 2 for sei?</p>
-      <p><strong>A2:</strong> Answer to question 2 under sei.</p>
-      <hr>
-      <p><strong>Q3:</strong> Question 3 for sei?</p>
-      <p><strong>A3:</strong> Answer to question 3 under sei.</p>
-    </div>
-  </details>
+ <!-- Dropdown 7: sei -->
+<!-- Dropdown 7: sei -->
+<details>
+  <summary>sei</summary>
+  <div class="faq-content">
+
+    <hr>
+    <p><strong>Q1:</strong> How will pilot proposals be evaluated?</p>
+    <p><strong>A1:</strong> Applications undergo evaluation as follows:</p>
+    <ul>
+      <li>A pre-screening (eligibility check) - pass/fail assessment</li>
+      <li>Full evaluation by the Evaluation Committee and Ethical Board</li>
+      <li>Validation by the Steering Committee</li>
+    </ul>
+    <p>Only proposals that pass the eligibility check proceed to the full evaluation.</p>
+
+    <hr>
+    <p><strong>Q2:</strong> What is checked during the eligibility screening?</p>
+    <p><strong>A2:</strong> The eligibility check verifies that:</p>
+    <ul>
+      <li>All required documents were submitted on time and in the correct format (pdf & excel)</li>
+      <li>The proposal does not deviate from the official template and comply with the page limits</li>
+      <li>All required questions are completed</li>
+      <li>The consortium composition meets the eligibility rules</li>
+      <li>The 50% co-funding requirement is met</li>
+      <li>The funding limits are respected</li>
+      <li>The minimum technical and non-technical requirements are respected</li>
+    </ul>
+
+    <hr>
+    <p><strong>Q3:</strong> What criteria are used to evaluate proposals?</p>
+    <p><strong>A3:</strong> Proposals are evaluated based on excellence, impact, and quality & efficiency of implementation as follows:</p>
+
+    <ul>
+      <li><strong>Excellence:</strong>
+        <ul>
+          <li>Clarity of objectives</li>
+          <li>Alignment with EU priorities</li>
+          <li>Quality of use cases</li>
+          <li>Technical and functional architecture</li>
+          <li>Robust data governance and ethics approach</li>
+          <li>Sound methodology</li>
+        </ul>
+      </li>
+      <li><strong>Impact:</strong>
+        <ul>
+          <li>Measurable socio-economic and environmental benefits</li>
+          <li>Replicability across EU communities</li>
+          <li>Contribution to the EU LDTY ecosystem</li>
+          <li>Stakeholder engagement</li>
+          <li>Sustainability and scaling strategy</li>
+        </ul>
+      </li>
+      <li><strong>Quality & Efficiency of implementation:</strong>
+        <ul>
+          <li>Consortium expertise</li>
+          <li>Work plan realism</li>
+          <li>Resource allocation</li>
+          <li>Risk management</li>
+          <li>Technical maturity</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p>Each criterion has a minimum and maximum score defined in the evaluation grid (the minimum is 6 and the maximum is 10. Proposals must reach the minimum threshold in each category. Evaluations are carried out by an Evaluation Committee composed of internal and external experts. More information can be found in the CfP Manual.</p>
+
+    <hr>
+    <p><strong>Q4:</strong> What are the use-case eligibility criterion for each Work Strand?</p>
+    <p><strong>A4:</strong></p>
+    <ul>
+      <li>For Work Strand 1, pilots must include:
+        <ul>
+          <li>At least two cross-sectoral use cases</li>
+          <li>Each use case must feature one shared service which must integrate datasets from at least two different sectors or provide data services spanning at least two sectors within a single use case</li>
+        </ul>
+      </li>
+      <li>For Work Strand 2, pilots must include:
+        <ul>
+          <li>At least one cross-sectoral, innovative and citizen-focus use case</li>
+          <li>Each use case must feature two services and must address a shared local challenge and common need</li>
+        </ul>
+      </li>
+      <li>For Work Strand 3, pilots must include:
+        <ul>
+          <li>At least one cross-sectoral, innovative and citizen-focused use case</li>
+          <li>Each use case must feature two services and must address a shared local challenge</li>
+        </ul>
+      </li>
+    </ul>
+
+    <hr>
+    <p><strong>Q5:</strong> What are the technical eligibility criteria?</p>
+    <p><strong>A5:</strong></p>
+    <ul>
+      <li>For Work Strand 1, pilots must include:
+        <ul>
+          <li>The interconnection of two digitally mature existing LDTs. ‘Digitally mature’ means having an existing LDT (can be supported by a data space) with at least descriptive-level capabilities (see explanation in section 6.2 of <a href="https://www.etsi.org/deliver/etsi_gr/CIM/001_099/017/01.01.01_60/gr_CIM017v010101p.pdf" target="_blank">https://www.etsi.org/deliver/etsi_gr/CIM/001_099/017/01.01.01_60/gr_CIM017v010101p.pdf</a>) and dynamic data integration</li>
+        </ul>
+      </li>
+      <li>For Work Strands 2 and 3, pilots must include:
+        <ul>
+          <li>The development of a new common LDT</li>
+          <li>At least two instance (one per public authority)</li>
+          <li>Advanced simulation capability (predictive, prospective or prescriptive)</li>
+          <li>While eligibility requirements are the same for WS2 and WS3, WS2 focuses on developing new LDT capacities based on shared needs, whereas WS3 concerns advanced or AI-enabled services building on LDT frameworks.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p>Please refer to the applicable <a href="https://ldt4ssc.eu/documents/cpmws1.pdf" target="_blank">WS1</a>, <a href="https://ldt4ssc.eu/documents/cpmws2.pdf" target="_blank">WS2</a> and <a href="https://ldt4ssc.eu/documents/cpmws3.pdf" target="_blank">WS3</a> Call for Pilots Manuals for further information on eligibility criteria, requirements and recommendations.</p>
+
+  </div>
+</details>
 
 </div>
 
