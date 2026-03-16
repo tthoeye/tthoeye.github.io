@@ -10,223 +10,170 @@ intro_image_hide_on_mobile: true
 
 Find answers to the most common questions about the LDT4SSC project, the Knowledge Hub, and how to get in touch with the team.
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Accordion FAQ</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f2f5; /* Neutral light background */
-      margin: 20px;
-      color: #4C5562; /* Anchor Grey text */
-    }
+<section class="ldt4ssc-intro">
+  <div class="container">
+    <h2>About the LDT4SSC Project</h2>
+    <p><strong>Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)</strong> is a European project supporting cities, regions and public authorities in the development, interconnection and enhancement of Local Digital Twins (LDTs). The project builds a federated, interoperable and reusable European ecosystem of LDTs, aligned with common standards, data spaces and the SIMPL framework. Funding and technical support are provided via Open Calls for Pilots.</p>
 
-    .accordion-container {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-
-    .accordion-title {
-      background-color: #1F75D6; /* Tech Blue */
-      color: white;
-      padding: 15px 20px;
-      margin-bottom: 5px;
-      cursor: pointer;
-      border-radius: 8px;
-      font-weight: bold;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      transition: background-color 0.3s;
-    }
-
-    .accordion-title:hover {
-      background-color: #1562a3;
-    }
-
-    .accordion-content {
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.4s ease, padding 0.3s ease;
-      background-color: #ffffff; /* White background for content */
-      border: 1px solid #29A329; /* Eco Green border accent */
-      border-radius: 0 0 8px 8px;
-      margin-bottom: 10px;
-      padding: 0 20px;
-      color: #4C5562;
-    }
-
-    .accordion-content.open {
-      padding: 15px 20px;
-    }
-
-    .accordion-content p {
-      margin: 10px 0;
-    }
-
-    .accordion-content hr {
-      border: none;
-      height: 1px;
-      background-color: #29A329; /* Eco Green divider */
-      margin: 10px 0;
-    }
-
-    .arrow {
-      transition: transform 0.3s;
-      font-weight: bold;
-    }
-
-    .arrow.open {
-      transform: rotate(90deg);
-    }
-  </style>
-</head>
-<body>
-
-  <div class="accordion-container">
-
-    <!-- Example Accordion Block -->
-    <div class="accordion">
-      <div class="accordion-title">Calls, Timelines & Information Availability
- <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Where can I find official information on call timelines, requirements and eligibility??</p>
-        <p><strong>A1:</strong> All official and up-to-date information is provided in the Call for Pilots Manual, available on the LDT4SSC website. This document outlines eligibility criteria, consortium requirements, scope and evaluation procedures.</p>
-        <hr>
-        <p><strong>Q2:</strong> When will more details on upcoming calls be published?</p>
-        <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.
-Applicants are encouraged to:
-- Regularly check the LDT4SSC website
-- Follow project communication channels
-- Consult the News and Events section for updates and information sessions
-</p>
-        <hr>
-        <p><strong>Q3:</strong> What is question three for title 1?</p>
-        <p><strong>A3:</strong> Answer to question three under title 1.</p>
+    <h3>LDT4SSC Work Strands</h3>
+    <div class="work-strands">
+      <div class="ws-card">
+        <h4>WS1 – Interconnecting Existing Local Digital Twins</h4>
+        <p>Connects operational LDTs for cross-border data exchange, shared services and interoperability.</p>
+      </div>
+      <div class="ws-card">
+        <h4>WS2 – Creating New Local Digital Twins Based on Common Needs</h4>
+        <p>Co-design and deploy new LDTs addressing shared urban challenges.</p>
+      </div>
+      <div class="ws-card">
+        <h4>WS3 – Adding Advanced AI-Based Capabilities to LDTs</h4>
+        <p>Develops advanced AI-driven predictive and immersive services on LDTs.</p>
       </div>
     </div>
 
-    <!-- Repeat blocks for titles 2–7 -->
-    <div class="accordion">
-      <div class="accordion-title">2 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 2?</p>
-        <p><strong>A1:</strong> Answer here for title 2.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 2?</p>
-        <p><strong>A2:</strong> Answer here for title 2.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 2?</p>
-        <p><strong>A3:</strong> Answer here for title 2.</p>
-      </div>
-    </div>
-
-    <div class="accordion">
-      <div class="accordion-title">3 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 3?</p>
-        <p><strong>A1:</strong> Answer here for title 3.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 3?</p>
-        <p><strong>A2:</strong> Answer here for title 3.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 3?</p>
-        <p><strong>A3:</strong> Answer here for title 3.</p>
-      </div>
-    </div>
-
-    <div class="accordion">
-      <div class="accordion-title">4 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 4?</p>
-        <p><strong>A1:</strong> Answer here for title 4.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 4?</p>
-        <p><strong>A2:</strong> Answer here for title 4.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 4?</p>
-        <p><strong>A3:</strong> Answer here for title 4.</p>
-      </div>
-    </div>
-
-    <div class="accordion">
-      <div class="accordion-title">5 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 5?</p>
-        <p><strong>A1:</strong> Answer here for title 5.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 5?</p>
-        <p><strong>A2:</strong> Answer here for title 5.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 5?</p>
-        <p><strong>A3:</strong> Answer here for title 5.</p>
-      </div>
-    </div>
-
-    <div class="accordion">
-      <div class="accordion-title">6 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 6?</p>
-        <p><strong>A1:</strong> Answer here for title 6.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 6?</p>
-        <p><strong>A2:</strong> Answer here for title 6.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 6?</p>
-        <p><strong>A3:</strong> Answer here for title 6.</p>
-      </div>
-    </div>
-
-    <div class="accordion">
-      <div class="accordion-title">7 <span class="arrow">▶</span></div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> Question one for title 7?</p>
-        <p><strong>A1:</strong> Answer here for title 7.</p>
-        <hr>
-        <p><strong>Q2:</strong> Question two for title 7?</p>
-        <p><strong>A2:</strong> Answer here for title 7.</p>
-        <hr>
-        <p><strong>Q3:</strong> Question three for title 7?</p>
-        <p><strong>A3:</strong> Answer here for title 7.</p>
-      </div>
-    </div>
-
+    <h3>Useful Documents & Links</h3>
+    <ul class="resources">
+      <li><a href="https://ldt4ssc.eu/open-calls/">LDT4SSC Open Calls pages</a></li>
+      <li><a href="https://ldt4ssc.eu/call-for-pilots-manual.pdf">Call for Pilots Manual</a></li>
+      <li><a href="https://ldt4ssc.eu/application-forms/">Application forms and templates per Work Strand</a></li>
+      <li><a href="https://ldt4ssc.eu/matchmaking-platform/">Matchmaking Platform</a></li>
+      <li><a href="https://ldt4ssc.eu/news/">News & Events page</a></li>
+    </ul>
   </div>
+</section>
 
-  <script>
-    const accordions = document.querySelectorAll('.accordion-title');
+<section class="faq-accordion container">
+  <!-- Example FAQ 1 -->
+  <details>
+    <summary>Calls, Timelines & Information Availability</summary>
+    <div class="faq-content">
+      <p><strong>Q1:</strong> Where can I find official information on call timelines, requirements and eligibility?</p>
+      <p><strong>A1:</strong> All official and up-to-date information is provided in the Call for Pilots Manual, available on the LDT4SSC website. This document outlines eligibility criteria, consortium requirements, scope and evaluation procedures.</p>
+      <hr>
+      <p><strong>Q2:</strong> When will more details on upcoming calls be published?</p>
+      <p><strong>A2:</strong> Further details on upcoming calls, particularly for Work Strands 2 and 3, will be published closer to their launch dates, as indicated in the Call for Pilots Manual. Both WS2 and WS3 will feature two Open Call windows each, offering multiple opportunities to apply.
+Applicants are encouraged to:
+A) Regularly check the LDT4SSC website
+B) Follow project communication channels
+C) Consult the News and Events section for updates and information sessions
+.</p>
+      <hr>
+      <p><strong>Q3:</strong> Can information about submitted or selected applications be shared?</p>
+      <p><strong>A3:</strong> No. Information about submitted applications or evaluation outcomes cannot be disclosed before the formal evaluation process is completed.</p>
+      <hr>
+      <p><strong>Q4:</strong> How many Open Calls are planned in LDT4SSC?</p>
+      <p><strong>A4:</strong> There are five Open Calls planned within the LDT4SSC project. An overview is available on the official LDT4SSC website.</p>
+    
+    </div>
+  </details>
 
-    accordions.forEach(title => {
-      title.addEventListener('click', () => {
-        const content = title.nextElementSibling;
-        const arrow = title.querySelector('.arrow');
+  <!-- Repeat details blocks for 2–7 -->
+</section>
 
-        // Close other accordions
-        document.querySelectorAll('.accordion-content').forEach(c => {
-          if (c !== content) {
-            c.style.maxHeight = null;
-            c.classList.remove('open');
-          }
-        });
-        document.querySelectorAll('.arrow').forEach(a => {
-          if (a !== arrow) a.classList.remove('open');
-        });
+<style>
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
-        // Toggle current accordion
-        if (content.style.maxHeight) {
-          content.style.maxHeight = null;
-          content.classList.remove('open');
-          arrow.classList.remove('open');
-        } else {
-          content.style.maxHeight = content.scrollHeight + "px";
-          content.classList.add('open');
-          arrow.classList.add('open');
-        }
-      });
-    });
-  </script>
+.ldt4ssc-intro h2 {
+  color: #1F75D6;
+  font-size: 28px;
+  margin-bottom: 15px;
+}
 
-</body>
-</html>
+.ldt4ssc-intro h3 {
+  color: #29A329;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+
+.ldt4ssc-intro p {
+  color: #4C5562;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.work-strands {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.ws-card {
+  flex: 1 1 250px;
+  background: #ffffff;
+  border-left: 5px solid #F5B400;
+  padding: 15px 20px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.ws-card h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #1F75D6;
+}
+
+.resources li {
+  margin-bottom: 8px;
+}
+
+.resources a {
+  color: #1F75D6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.resources a:hover {
+  text-decoration: underline;
+}
+
+/* FAQ Accordion Styles */
+.faq-accordion details {
+  border: 1px solid #29A329;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  background: #fff;
+  padding: 0;
+}
+
+.faq-accordion summary {
+  padding: 14px 18px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #1F75D6;
+  color: #fff;
+  border-radius: 6px;
+  list-style: none;
+}
+
+.faq-accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-accordion summary::after {
+  content: ' ▶';
+  float: right;
+  transition: transform 0.3s ease;
+}
+
+.faq-accordion details[open] summary::after {
+  transform: rotate(90deg);
+}
+
+.faq-content {
+  padding: 10px 18px 18px;
+  color: #4C5562;
+  line-height: 1.5;
+}
+
+.faq-content hr {
+  border: none;
+  height: 1px;
+  background: #29A329;
+  margin: 8px 0;
+}
+</style>
