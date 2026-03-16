@@ -6,7 +6,7 @@ bodyClass: "page-faq"
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-8 col-lg-7">
+      <div class="col-12"> <!-- full width now -->
         {{ content }}
       </div>
     </div>
@@ -15,7 +15,7 @@ bodyClass: "page-faq"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    <div class="col-12 col-md-10">
+    <div class="col-12"> <!-- full width now -->
       {% assign faq_items = site.faq | sort: 'weight' %}
       {% if faq_items.size > 0 %}
         {% for item in faq_items %}
