@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 ---
 <div style="background:#ffffff; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
-  <div style="max-width:1200px; margin:0 auto; padding:60px 20px;">
+  <div style="max-width:1400px; margin:0 auto; padding:60px 20px;">
 
     <!-- MAIN TITLE -->
     <h1 style="text-align:center; color:#1F75D6; font-size:46px; margin-bottom:40px;">
