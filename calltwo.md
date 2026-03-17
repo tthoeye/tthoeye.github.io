@@ -94,7 +94,7 @@ Simulate future scenarios in areas like climate resilience and smart mobility be
 <h2 style="margin-top:60px; text-align:center;">What to remember?</h2>
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Launch: 2 February 2026</div>
-<div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Deadline: 2 April 2026 (23:59 CEST)</div>
+<div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Deadline: 15 April 2026 (23:59 CEST)</div>
 <div style="background:#f4f5f7; padding:16px 24px; border-radius:14px;">Pilot start: 31 August 2026</div>
 </div>
 
