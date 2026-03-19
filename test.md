@@ -1,3 +1,12 @@
+---
+title: Test
+layout: page
+description: Test
+permalink: "/test/"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
