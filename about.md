@@ -2,7 +2,12 @@
 title: About
 layout: fullwidth
 description: About the Project
+intro_image: "images/illustrations/reading.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
+bodyClass: page-about
 ---
+
 
 <style>
 /* ── Break out of container for full-width ── */
