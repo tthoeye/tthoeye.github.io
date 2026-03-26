@@ -5,16 +5,16 @@ description: About the Project
 ---
 
 <style>
-/* ── Break out of col-md-8 and stretch full row width ── */
+/* ── Break out of container for full-width ── */
 .oc2-escape {
   position: relative;
   left: 50%;
   margin-left: -50vw;
   width: 100vw;
-  z-index: 0;
+  z-index: 0; /* ensures dropdowns appear above */
 }
 
-/* ── All styles scoped to .oc2 ── */
+/* ── Scoped styles for .oc2 ── */
 .oc2 {
   font-family: Arial, Helvetica, sans-serif;
   color: #4C5562;
@@ -28,17 +28,13 @@ description: About the Project
 .oc2 a { text-decoration: none; color: inherit; }
 .oc2 p { margin: 0; }
 
-/* CSS variables — brand palette */
+/* ── Brand palette ── */
 .oc2 {
   --blue: #1F75D6;
-  --blue-mid: #5497DC;
-  --blue-pale: #C8DFF5;
   --blue-tint: #EBF4FD;
   --green: #29A329;
-  --green-pale: #C8E8C8;
   --green-tint: #EDF7E8;
   --yellow: #F5B400;
-  --yellow-pale: #F5D980;
   --yellow-tint: #FEF7DC;
   --grey: #4C5562;
   --grey-mid: #7A8494;
@@ -49,8 +45,8 @@ description: About the Project
 
 /* ── HERO ── */
 .oc2 .hero {
-  background: linear-gradient(135deg, var(--blue-tint), #ffffff);
-  border: 1.5px solid var(--blue-pale);
+  background: linear-gradient(135deg, var(--green-tint), var(--yellow-tint));
+  border: 1.5px solid var(--green);
   border-radius: 14px;
   padding: 48px;
   margin-bottom: 48px;
@@ -63,7 +59,7 @@ description: About the Project
   line-height: 1.1;
   margin-bottom: 16px;
 }
-.oc2 .hero h1 .accent { color: var(--blue); }
+.oc2 .hero h1 .accent { color: var(--green); }
 .oc2 .hero-sub {
   font-size: 15px;
   color: var(--grey-mid);
@@ -72,13 +68,13 @@ description: About the Project
   max-width: 720px;
 }
 
-/* ── SECTION LABELS ── */
+/* ── Section labels ── */
 .oc2 .sec-label {
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.13em;
   text-transform: uppercase;
-  color: var(--blue);
+  color: var(--green);
   display: flex;
   align-items: center;
   gap: 10px;
@@ -88,7 +84,7 @@ description: About the Project
   content: '';
   display: block;
   width: 22px; height: 2px;
-  background: var(--blue);
+  background: var(--green);
   border-radius: 2px;
   flex-shrink: 0;
 }
@@ -108,8 +104,8 @@ description: About the Project
 
 /* ── BLOCKS ── */
 .oc2 .block { border-radius: 14px; padding: 40px; margin-bottom: 48px; z-index: 1; }
-.oc2 .block-grey { background: var(--grey-tint); border: 1.5px solid var(--grey-pale); }
-.oc2 .block-blue { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); }
+.oc2 .block-green { background: var(--green-tint); border: 1.5px solid var(--green); }
+.oc2 .block-yellow { background: var(--yellow-tint); border: 1.5px solid var(--yellow); }
 
 /* ── PARTNERS GRID ── */
 .oc2 .partners {
@@ -118,6 +114,7 @@ description: About the Project
   gap: 22px;
   margin-top: 32px;
   margin-bottom: 60px;
+  z-index: 1;
 }
 .oc2 .partner {
   display: flex;
@@ -130,8 +127,8 @@ description: About the Project
   transition: .2s;
 }
 .oc2 .partner:hover {
-  border-color: var(--blue-mid);
-  box-shadow: 0 6px 18px rgba(31,117,214,0.08);
+  border-color: var(--green);
+  box-shadow: 0 6px 18px rgba(41,163,41,0.08);
 }
 .oc2 .partner img { max-width: 100%; max-height: 42px; filter: none; opacity: 1; }
 
@@ -162,7 +159,7 @@ description: About the Project
     LDT4SSC — short for Local Digital Twins for Smart Sustainable Cities — helps cities meet these challenges by sharing powerful digital tools called Local Digital Twins. Think of them as digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make smarter, faster decisions — for example, predicting traffic, planning green spaces or improving waste collection.
   </p>
 
-  <div class="block block-blue">
+  <div class="block block-green">
     <h3>Linking digital twins across Europe</h3>
     <p>We connect the tools cities already use — like traffic monitors, energy trackers or environmental sensors — into a shared European network. This makes it easier to collaborate, reuse solutions and give smaller communities access to cutting-edge technology.</p>
     <h3>Testing smart solutions in the real world</h3>
@@ -172,7 +169,7 @@ description: About the Project
   </div>
 
   <!-- IMPACT -->
-  <div class="block block-grey">
+  <div class="block block-yellow">
     <div class="sec-label">Impact for Europe</div>
     <p class="sec-sub">
       Europe’s digital transformation is often slowed down by high costs, complex rules and scattered expertise. LDT4SSC helps break down these barriers by:
@@ -192,7 +189,7 @@ description: About the Project
   <div class="sec-label">Our Partners</div>
   <h2 class="sec-title">Consortium</h2>
   <p class="sec-sub">
-    LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe. This collaboration is made possible with the support of the European Union as the funding authority.
+    LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe.
   </p>
 
   <div class="partners">
@@ -201,7 +198,6 @@ description: About the Project
     <a class="partner" href="https://www.fiware.org" target="_blank"><img src="../images/partners/fiware.png"></a>
     <a class="partner" href="https://www.kereval.com" target="_blank"><img src="../images/partners/kereval.png"></a>
     <a class="partner" href="https://taltech.ee" target="_blank"><img src="../images/partners/taltech.png"></a>
-
     <a class="partner" href="https://enoll.org" target="_blank"><img src="../images/partners/enoll.svg"></a>
     <a class="partner" href="https://www.cerema.fr" target="_blank"><img src="../images/partners/newceremalogo.png"></a>
     <a class="partner" href="https://technopolis-group.com" target="_blank"><img src="../images/partners/technopolis.png"></a>
