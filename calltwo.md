@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullwidth
 permalink: /call-two/
 banner: /images/banner-call-two.jpg
 ---
