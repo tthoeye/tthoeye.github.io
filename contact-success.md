@@ -6,6 +6,6 @@ permalink: /contact-success/
 ---
 # Message sent
 
-Thanks for contacting the LDT4SSC team. Your message has been forwarded to [info@ldt4ssc.eu](mailto:info@ldt4ssc.eu).
+Thanks for contacting the LDT4SSC team. Your message has been forwarded to our email inbox for review.
 
 [Back to the contact page](/contact/)
