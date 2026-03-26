@@ -5,19 +5,12 @@ description: Contact Us
 ---
 
 <style>
-/* ── Fix dropdown stacking ── */
+/* ── Break out of col-md-8 and stretch full row width ── */
 .oc2-escape {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  z-index: 1;  /* sit behind menu */
-}
-header, .nav, .navbar, .menu {
-  position: relative;
-  z-index: 1000; /* dropdown appears on top */
+  position: static;  /* fix dropdown being hidden under hero */
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /* ── All styles scoped to .oc2 ── */
