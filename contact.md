@@ -5,11 +5,7 @@ description: Contact Us
 ---
 
 <style>
-/* ── FIX DROPDOWN MENU OVERLAP ── */
-header, .nav, .navbar, .menu {
-  position: relative;
-  z-index: 9999;
-}
+/* ── Fix dropdown stacking ── */
 .oc2-escape {
   position: relative;
   left: 50%;
@@ -17,7 +13,11 @@ header, .nav, .navbar, .menu {
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  overflow: visible; /* allow dropdowns to show */
+  z-index: 1;  /* sit behind menu */
+}
+header, .nav, .navbar, .menu {
+  position: relative;
+  z-index: 1000; /* dropdown appears on top */
 }
 
 /* ── All styles scoped to .oc2 ── */
