@@ -5,194 +5,209 @@ description: About the Project
 ---
 
 <style>
-/* ── Break out of container ── */
+/* ── Break out of col-md-8 and stretch full row width ── */
 .oc2-escape {
   position: relative;
   left: 50%;
   margin-left: -50vw;
   width: 100vw;
+  z-index: 0;
 }
 
-/* ── Page styling ── */
+/* ── All styles scoped to .oc2 ── */
 .oc2 {
   font-family: Arial, Helvetica, sans-serif;
   color: #4C5562;
+  font-size: 15px;
+  line-height: 1.6;
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 32px;
-  overflow: visible; /* allow dropdowns to show */
 }
+.oc2 *, .oc2 *::before, .oc2 *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.oc2 a { text-decoration: none; color: inherit; }
+.oc2 p { margin: 0; }
 
-/* palette */
+/* CSS variables — brand palette */
 .oc2 {
   --blue: #1F75D6;
+  --blue-mid: #5497DC;
+  --blue-pale: #C8DFF5;
+  --blue-tint: #EBF4FD;
   --green: #29A329;
+  --green-pale: #C8E8C8;
+  --green-tint: #EDF7E8;
   --yellow: #F5B400;
+  --yellow-pale: #F5D980;
+  --yellow-tint: #FEF7DC;
   --grey: #4C5562;
   --grey-mid: #7A8494;
   --grey-pale: #D8DCE3;
   --grey-tint: #F2F3F5;
-  --blue-tint: rgba(31,117,214,0.1);
-  --green-tint: rgba(41,163,41,0.1);
-  --yellow-tint: rgba(245,180,0,0.15);
+  --ink: #4C5562;
 }
 
-/* HERO */
-.hero {
+/* ── HERO ── */
+.oc2 .hero {
   background: linear-gradient(135deg, var(--blue-tint), #ffffff);
+  border: 1.5px solid var(--blue-pale);
   border-radius: 14px;
-  padding: 52px;
+  padding: 48px;
   margin-bottom: 48px;
-  position: relative;
   z-index: 1;
 }
-.hero h1 { font-size: clamp(28px,3vw,44px); font-weight:700; }
-.hero .accent { color: var(--blue); }
-.hero p { margin-top:12px; font-size:16px; line-height:1.7; }
+.oc2 .hero h1 {
+  font-size: clamp(26px, 3vw, 44px);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+.oc2 .hero h1 .accent { color: var(--blue); }
+.oc2 .hero-sub {
+  font-size: 15px;
+  color: var(--grey-mid);
+  line-height: 1.7;
+  margin-bottom: 28px;
+  max-width: 720px;
+}
 
-/* SECTION TITLES */
-.sec-label { font-size:11px; text-transform:uppercase; letter-spacing:.12em; color:var(--blue); margin-bottom:8px; }
-.sec-title { font-size:clamp(22px,2.5vw,32px); font-weight:700; margin-bottom:10px; }
-.sec-sub { color: var(--grey-mid); margin-bottom:28px; line-height:1.7; }
+/* ── SECTION LABELS ── */
+.oc2 .sec-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--blue);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.oc2 .sec-label::before {
+  content: '';
+  display: block;
+  width: 22px; height: 2px;
+  background: var(--blue);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.oc2 .sec-title {
+  font-size: clamp(22px, 2.8vw, 34px);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.15;
+  margin-bottom: 10px;
+}
+.oc2 .sec-sub {
+  font-size: 15px;
+  color: var(--grey-mid);
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
 
-/* GRID CARDS WITH COLORS */
-.grid {
+/* ── BLOCKS ── */
+.oc2 .block { border-radius: 14px; padding: 40px; margin-bottom: 48px; z-index: 1; }
+.oc2 .block-grey { background: var(--grey-tint); border: 1.5px solid var(--grey-pale); }
+.oc2 .block-blue { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); }
+
+/* ── PARTNERS GRID ── */
+.oc2 .partners {
   display: grid;
-  grid-template-columns: repeat(3,1fr);
-  gap: 20px;
-  margin-bottom: 40px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 22px;
+  margin-top: 32px;
+  margin-bottom: 60px;
 }
-.card {
-  border-radius:14px;
-  padding:28px;
-  transition:.2s;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
-  color:#4C5562;
+.oc2 .partner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--grey-pale);
+  transition: .2s;
 }
-.card:hover { transform:translateY(-4px); box-shadow:0 8px 24px rgba(0,0,0,0.08); }
-.icon { font-size:28px; margin-bottom:12px; }
-.card h3 { font-size:17px; margin-bottom:8px; font-weight:700; }
-.card p { font-size:14px; line-height:1.7; color:var(--grey-mid); }
+.oc2 .partner:hover {
+  border-color: var(--blue-mid);
+  box-shadow: 0 6px 18px rgba(31,117,214,0.08);
+}
+.oc2 .partner img { max-width: 100%; max-height: 42px; filter: none; opacity: 1; }
 
-/* Card color accents */
-.card:nth-child(1) { background: var(--blue-tint); }
-.card:nth-child(2) { background: var(--green-tint); }
-.card:nth-child(3) { background: var(--yellow-tint); }
-
-/* IMPACT BLOCK */
-.block { border-radius:14px; padding:36px; margin-bottom:50px; }
-.block-grey { background: var(--grey-tint); border:1px solid var(--grey-pale); }
-
-/* PARTNERS */
-.partners {
-  display:grid;
-  grid-template-columns: repeat(5,1fr);
-  gap:22px;
-  margin-bottom:50px;
+/* ── RESPONSIVE ── */
+@media(max-width: 900px){
+  .oc2 .partners { grid-template-columns: repeat(2,1fr); }
+  .oc2 .hero { padding: 28px; }
+  .oc2 .block { padding: 28px; }
 }
-.partner {
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  padding:16px;
-  border-radius:10px;
-  background:#fff;
-  border:1px solid var(--grey-pale);
-  transition:.2s;
-}
-.partner:hover { border-color: var(--blue); box-shadow:0 6px 18px rgba(31,117,214,0.08); }
-.partner img { max-width:100%; max-height:42px; filter:none; opacity:1; }
-
-/* responsive */
-@media(max-width:900px){
-  .grid { grid-template-columns:1fr; }
-  .partners { grid-template-columns: repeat(2,1fr); }
-  .hero { padding:28px; }
-}
-
-/* ── DROP-DOWN FIX ── */
-.navbar, .dropdown-menu {
-  position: relative;
-  z-index: 9999 !important; /* ensure above hero/cards */
-}
-.dropdown-menu { background-color: #ffffff !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
-.dropdown-item { color: #4C5562 !important; }
-.dropdown-item:hover { background-color: var(--blue-tint) !important; color: var(--blue) !important; }
 </style>
 
 <div class="oc2-escape">
 <div class="oc2">
 
-<!-- HERO -->
-<div class="hero">
-  <div class="sec-label">About</div>
-  <h1>Building Europe’s <span class="accent">Digital Twin Ecosystem</span></h1>
-  <p>
-    LDT4SSC enables cities and communities across Europe to use data and Artificial Intelligence to make better decisions — improving sustainability, resilience and quality of life.
+  <!-- HERO -->
+  <div class="hero">
+    <div class="sec-label">About</div>
+    <h1>Our Work in <span class="accent">Smart Sustainable Cities</span></h1>
+    <p class="hero-sub">
+      Across Europe, cities and communities face similar challenges: how to use energy more efficiently, reduce pollution, improve public services and adapt to climate change.
+    </p>
+  </div>
+
+  <!-- WHAT WE DO -->
+  <div class="sec-label">Our Work</div>
+  <h2 class="sec-title">LDT4SSC Project</h2>
+  <p class="sec-sub">
+    LDT4SSC — short for Local Digital Twins for Smart Sustainable Cities — helps cities meet these challenges by sharing powerful digital tools called Local Digital Twins. Think of them as digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make smarter, faster decisions — for example, predicting traffic, planning green spaces or improving waste collection.
   </p>
-</div>
 
-<!-- WHAT WE DO -->
-<div class="sec-label">Our work</div>
-<h2 class="sec-title">From data to smarter cities</h2>
-<p class="sec-sub">
-Across Europe, cities and communities face similar challenges: how to use energy more efficiently, reduce pollution, improve public services and adapt to climate change.
-
-LDT4SSC — short for Local Digital Twins for Smart Sustainable Cities — helps cities meet these challenges by sharing powerful digital tools called Local Digital Twins. Think of them as digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make smarter, faster decisions — for example, predicting traffic, planning green spaces or improving waste collection.
-</p>
-
-<div class="grid">
-  <div class="card">
-    <div class="icon">🔗</div>
-    <h3>Linking digital twins</h3>
+  <div class="block block-blue">
+    <h3>Linking digital twins across Europe</h3>
     <p>We connect the tools cities already use — like traffic monitors, energy trackers or environmental sensors — into a shared European network. This makes it easier to collaborate, reuse solutions and give smaller communities access to cutting-edge technology.</p>
-  </div>
-  <div class="card">
-    <div class="icon">🧪</div>
-    <h3>Testing solutions</h3>
+    <h3>Testing smart solutions in the real world</h3>
     <p>Through pilot projects, we support local teams to develop and test AI-driven services. These real-life pilots improve everyday life by making public services faster, decision-making smarter and cities more sustainable.</p>
-  </div>
-  <div class="card">
-    <div class="icon">🤖</div>
-    <h3>AI innovation</h3>
+    <h3>Expanding Europe’s toolbox with AI innovation</h3>
     <p>We are enriching the EU’s Local Digital Twin Toolbox with new AI-powered tools — from prediction models to self-organising systems — so cities can respond to challenges more quickly and effectively.</p>
   </div>
-</div>
 
-<!-- IMPACT -->
-<div class="block block-grey">
-  <div class="sec-label">Impact</div>
-  <h2 class="sec-title">Supporting Europe’s digital transformation</h2>
+  <!-- IMPACT -->
+  <div class="block block-grey">
+    <div class="sec-label">Impact for Europe</div>
+    <p class="sec-sub">
+      Europe’s digital transformation is often slowed down by high costs, complex rules and scattered expertise. LDT4SSC helps break down these barriers by:
+    </p>
+    <ul style="padding-left:18px; line-height:1.8;">
+      <li>Bringing cities together to share solutions</li>
+      <li>Supporting open, ethical, people-centred technology</li>
+      <li>Creating fair digital markets with open standards</li>
+      <li>Working with the European Digital Infrastructure Consortium (EDIC) to build strong, connected systems across borders</li>
+    </ul>
+    <p style="margin-top:20px;">
+      This project is funded by the Digital Europe Programme and directly supports the EU’s vision of a digital, green and inclusive society.
+    </p>
+  </div>
+
+  <!-- PARTNERS -->
+  <div class="sec-label">Our Partners</div>
+  <h2 class="sec-title">Consortium</h2>
   <p class="sec-sub">
-Europe’s digital transformation is often slowed down by high costs, complex rules and scattered expertise. LDT4SSC helps break down these barriers by:
+    LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe. This collaboration is made possible with the support of the European Union as the funding authority.
   </p>
-  <ul style="padding-left:18px; line-height:1.8;">
-    <li>Bringing cities together to share solutions</li>
-    <li>Supporting open, ethical, people-centred technology</li>
-    <li>Creating fair digital markets with open standards</li>
-    <li>Working with the European Digital Infrastructure Consortium (EDIC) to build strong, connected systems across borders</li>
-  </ul>
-</div>
 
-<!-- PARTNERS -->
-<div class="sec-label">Consortium</div>
-<h2 class="sec-title">A pan-European partnership</h2>
-<p class="sec-sub">
-LDT4SSC brings together a diverse and experienced group of partners from across Europe. The consortium includes public research institutes, universities, non-profits, local authorities and open-source technology providers, all working together to advance interoperable Local Digital Twins and AI-driven services across Europe.
-</p>
+  <div class="partners">
+    <a class="partner" href="https://oascities.org" target="_blank"><img src="../images/partners/oasc.png"></a>
+    <a class="partner" href="https://www.list.lu" target="_blank"><img src="../images/partners/list.png"></a>
+    <a class="partner" href="https://www.fiware.org" target="_blank"><img src="../images/partners/fiware.png"></a>
+    <a class="partner" href="https://www.kereval.com" target="_blank"><img src="../images/partners/kereval.png"></a>
+    <a class="partner" href="https://taltech.ee" target="_blank"><img src="../images/partners/taltech.png"></a>
 
-<div class="partners">
-  <a class="partner" href="https://oascities.org" target="_blank"><img src="../images/partners/oasc.png"></a>
-  <a class="partner" href="https://www.list.lu" target="_blank"><img src="../images/partners/list.png"></a>
-  <a class="partner" href="https://www.fiware.org" target="_blank"><img src="../images/partners/fiware.png"></a>
-  <a class="partner" href="https://www.kereval.com" target="_blank"><img src="../images/partners/kereval.png"></a>
-  <a class="partner" href="https://taltech.ee" target="_blank"><img src="../images/partners/taltech.png"></a>
-  <a class="partner" href="https://enoll.org" target="_blank"><img src="../images/partners/enoll.svg"></a>
-  <a class="partner" href="https://www.cerema.fr" target="_blank"><img src="../images/partners/newceremalogo.png"></a>
-  <a class="partner" href="https://technopolis-group.com" target="_blank"><img src="../images/partners/technopolis.png"></a>
-  <a class="partner" href="https://www.libelium.com" target="_blank"><img src="../images/partners/libellium.jpg"></a>
-  <a class="partner" href="https://www.ugent.be" target="_blank"><img src="../images/partners/ugent.png"></a>
-</div>
+    <a class="partner" href="https://enoll.org" target="_blank"><img src="../images/partners/enoll.svg"></a>
+    <a class="partner" href="https://www.cerema.fr" target="_blank"><img src="../images/partners/newceremalogo.png"></a>
+    <a class="partner" href="https://technopolis-group.com" target="_blank"><img src="../images/partners/technopolis.png"></a>
+    <a class="partner" href="https://www.libelium.com" target="_blank"><img src="../images/partners/libellium.jpg"></a>
+    <a class="partner" href="https://www.ugent.be" target="_blank"><img src="../images/partners/ugent.png"></a>
+  </div>
 
 </div>
 </div>
