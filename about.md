@@ -5,12 +5,14 @@ description: About the Project
 ---
 
 <style>
-/* ── Full-width wrapper ── */
+/* ── Full-width wrapper without hiding dropdowns ── */
 .oc2-escape {
-  position: static;  /* allows dropdown menus to display */
+  position: relative;  /* allows dropdowns to show */
   width: 100%;
   margin-left: 0;
   margin-right: 0;
+  z-index: 1;
+  overflow: visible;   /* critical to prevent drop-down from being cut */
 }
 
 /* ── Base styles ── */
@@ -27,7 +29,8 @@ description: About the Project
 /* ── Palette ── */
 .oc2 {
   --blue:#1F75D6; --blue-mid:#5497DC; --blue-pale:#C8DFF5; --blue-tint:#EBF4FD;
-  --green:#29A329; --yellow:#F5B400;
+  --green:#29A329; --green-pale:#C8E8C8; --green-tint:#EDF7E8;
+  --yellow:#F5B400; --yellow-pale:#F5D980; --yellow-tint:#FEF7DC;
   --grey:#4C5562; --grey-mid:#7A8494; --grey-pale:#D8DCE3; --grey-tint:#F2F3F5;
 }
 
@@ -39,7 +42,6 @@ description: About the Project
   padding: 52px;
   margin-bottom: 48px;
   position: relative;
-  overflow: hidden;
 }
 .hero h1 {
   font-size: clamp(28px,3vw,44px);
@@ -49,7 +51,7 @@ description: About the Project
 .hero .accent { color: var(--blue); }
 .hero p { max-width: 720px; margin-top: 12px; color: var(--grey-mid); }
 
-/* subtle background pattern in hero */
+/* subtle background pattern */
 .hero::after {
   content:'';
   position:absolute;
@@ -94,17 +96,18 @@ description: About the Project
   margin-bottom: 32px;
 }
 .card {
-  background:#fff;
-  border:1px solid var(--grey-pale);
+  background:#ffffff;
   border-radius:12px;
   padding:28px;
   transition:.2s;
   position: relative;
+  border-left: 6px solid var(--blue-tint);
 }
+.card:nth-child(2) { border-left-color: var(--green-tint); }
+.card:nth-child(3) { border-left-color: var(--yellow-tint); }
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 24px rgba(0,0,0,0.05);
-  border-color: var(--blue-pale);
 }
 .icon {
   font-size: 22px;
@@ -118,6 +121,7 @@ description: About the Project
   border-radius:14px;
   padding:36px;
   margin-top:30px;
+  margin-bottom:40px; /* extra space under block */
 }
 .block-grey { background: var(--grey-tint); }
 .block-blue { background: var(--blue-tint); }
@@ -127,7 +131,8 @@ description: About the Project
   display:grid;
   grid-template-columns: repeat(5,1fr);
   gap: 22px;
-  margin-top: 20px;
+  margin-top: 30px;
+  margin-bottom:50px; /* extra spacing under partners */
 }
 .partner {
   display:flex;
@@ -146,7 +151,7 @@ description: About the Project
 .partner img {
   max-width:100%;
   max-height:42px;
-  filter: none;  /* show original color */
+  filter: none; /* show original colors */
   opacity:1;
 }
 
@@ -211,7 +216,7 @@ Europe’s digital transformation is often slowed down by high costs, complex ru
     <li>Working with the European Digital Infrastructure Consortium (EDIC) to build strong, connected systems across borders.</li>
   </ul>
 
-  <p style="margin-top:20px;">
+  <p style="margin-top:30px;">
 This project is funded by the Digital Europe Programme and directly supports the EU’s vision of a digital, green and inclusive society.
   </p>
 </div>
