@@ -1,6 +1,6 @@
 --- 
 title: Contact 
-layout: fullwidth 
+layout: contact 
 description: Contact Us 
 --- 
 # Contact Us 
