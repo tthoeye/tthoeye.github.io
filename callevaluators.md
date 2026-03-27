@@ -12,7 +12,7 @@ banner: /images/banner-call-two.jpg
   font-size: 15px;
   line-height: 1.6;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 32px auto; /* added vertical spacing for overall balance */
   padding: 0 32px;
 }
 .evp *, .evp *::before, .evp *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -50,7 +50,7 @@ banner: /images/banner-call-two.jpg
   text-transform: uppercase;
   padding: 5px 12px;
   border-radius: 100px;
-  margin-bottom: 18px;
+  margin: 32px 0 18px; /* added top spacing aligned with layout rhythm */
 }
 .evp .hero-badge .dot {
   width: 7px; height: 7px;
@@ -76,7 +76,7 @@ banner: /images/banner-call-two.jpg
   border: 2px solid var(--red-pale);
   border-radius: 10px;
   padding: 20px 28px;
-  margin-bottom: 28px;
+  margin-bottom: 32px; /* aligned spacing */
 }
 .evp .closed-notice h3 { font-size: 15px !important; font-weight: 700; color: var(--red) !important; margin-bottom: 6px !important; }
 .evp .closed-notice p  { font-size: 13.5px; color: #7a3530; line-height: 1.65; }
@@ -97,7 +97,7 @@ banner: /images/banner-call-two.jpg
   font-size: 13.5px;
   font-weight: 700;
   color: var(--ink);
-  margin-bottom: 22px;
+  margin-bottom: 32px; /* aligned spacing */
 }
 
 .evp .doc-link {
@@ -112,7 +112,7 @@ banner: /images/banner-call-two.jpg
   font-size: 13.5px;
   font-weight: 700;
   transition: border-color 0.15s, color 0.15s, background 0.15s;
-  margin-bottom: 22px;
+  margin-bottom: 32px; /* aligned spacing */
 }
 .evp .doc-link:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
 
@@ -127,6 +127,15 @@ banner: /images/banner-call-two.jpg
   opacity: 0.4;
   cursor: not-allowed;
   pointer-events: none;
+  margin-bottom: 32px; /* added spacing below button */
+}
+
+/* small text spacing polish */
+.evp .form-note {
+  font-size: 13px;
+  color: var(--grey-mid);
+  margin-top: 8px;
+  margin-bottom: 14px;
 }
 
 @media (max-width: 768px) {
@@ -162,7 +171,7 @@ banner: /images/banner-call-two.jpg
 
   <div class="sec-divider"></div>
 
-  <p style="font-size:13px;color:var(--grey-mid);margin-bottom:14px;">The expression of interest form is no longer accepting submissions.</p>
+  <p class="form-note">The expression of interest form is no longer accepting submissions.</p>
   <span class="btn-disabled">Express your Interest here</span>
   
 
