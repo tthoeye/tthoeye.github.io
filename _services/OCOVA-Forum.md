@@ -1,6 +1,7 @@
 ---
 title: "OCOVA Forum – 3 February 2026"
-date: 2026-01-23
+type: event
+date: 2026-02-03
 weight: 492
 ---
 The OCOVA 2026 International Forum, ‘Mountains of Tomorrow’, will take place in Les Orres on 3 February 2026, running from 9:00 am to 5:30 pm. 
