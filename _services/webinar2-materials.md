@@ -1,5 +1,6 @@
 ---
 title: "Recording and Slides Now Available – LDT4SSC Webinar: Open Call – Work Strand 1"
+type: news
 date: 2025-12-03
 weight: 494
 ---
