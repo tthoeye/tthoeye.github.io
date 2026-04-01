@@ -1,7 +1,7 @@
 ---
 title: "LDT4SSC & DS4SSCC Joint Stakeholder Forum Meeting, 3 December 2025"
-date: 2025-11-25
-event_date: 2025-12-3
+type: event
+date: 2025-12-3
 weight: 495
 ---
 
