@@ -1,6 +1,3 @@
----
----
-
 // Colors
 $primary: #1F75D6;
 $primary-dark: #29A329;
@@ -17,7 +14,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-heading: "Montserrat", -apple-system, sans-serif;
+$font-family-base: Arial, -apple-system, sans-serif;
+$font-family-heading: Arial, -apple-system, sans-serif;
 
 // Footer
 $footer-background-color: $primary;
@@ -49,29 +47,6 @@ $sub-footer-text-color: lighten($primary, 10%);
 @import "bootstrap/grid";
 @import "bootstrap/tables";
 @import "bootstrap/forms";
-// @import "bootstrap/buttons";
-// @import "bootstrap/transitions";
-// @import "bootstrap/dropdown";
-// @import "bootstrap/button-group";
-// @import "bootstrap/nav";
-// @import "bootstrap/navbar";
-// @import "bootstrap/card";
-// @import "bootstrap/accordion";
-// @import "bootstrap/breadcrumb";
-// @import "bootstrap/pagination";
-// @import "bootstrap/badge";
-// @import "bootstrap/alert";
-// @import "bootstrap/progress";
-// @import "bootstrap/list-group";
-// @import "bootstrap/close";
-// @import "bootstrap/toasts";
-// @import "bootstrap/modal";
-// @import "bootstrap/tooltip";
-// @import "bootstrap/popover";
-// @import "bootstrap/carousel";
-// @import "bootstrap/spinners";
-// @import "bootstrap/offcanvas";
-// @import "bootstrap/placeholders";
 
 // 5. Include Bootstrap helpers and utilities
 @import "bootstrap/helpers";
@@ -99,7 +74,6 @@ $sub-footer-text-color: lighten($primary, 10%);
 @import "components/strip";
 @import "components/feature";
 @import "components/social";
-// @import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
 @import "pages/page-home";
@@ -111,7 +85,7 @@ $sub-footer-text-color: lighten($primary, 10%);
 // Custom styles for submenu functionality
 .main-menu {
   ul {
-    list-style: none; // Remove bullet points
+    list-style: none;
     padding: 0;
     margin: 0;
 
@@ -120,11 +94,11 @@ $sub-footer-text-color: lighten($primary, 10%);
 
       &.has-children {
         .submenu {
-          display: none; // Ensure submenu is hidden by default
+          display: none;
         }
 
         &:hover > .submenu {
-          display: block; // Show submenu only on hover
+          display: block;
         }
       }
 
@@ -134,7 +108,7 @@ $sub-footer-text-color: lighten($primary, 10%);
         left: 0;
         background: $white;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        list-style: none; // Remove bullet points from submenu
+        list-style: none;
         padding: 0;
         margin: 0;
 
@@ -159,7 +133,8 @@ $sub-footer-text-color: lighten($primary, 10%);
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: $font-family-heading;
+  font-family: $font-family-base;
+
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;
