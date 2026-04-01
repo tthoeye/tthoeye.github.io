@@ -1,5 +1,6 @@
 ---
 title: "Webinar: 2nd Call of the LDT4SSC Project – 12 February 2026"
+type: event
 date: 2026-01-26
 weight: 491
 ---
