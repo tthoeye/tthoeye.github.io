@@ -1,6 +1,7 @@
 ---
 title: "LDT4SSC Matchmaking Session for Open Call Applicants – 18 December 2025"
-date: 2025-12-11
+type: event
+date: 2025-12-18
 weight: 493
 ---
 Join the **LDT4SSC Matchmaking Session**, designed specifically for organisations wishing to connect with potential partners for the upcoming LDT4SSC Open Calls. 
