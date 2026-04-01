@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: fullwidth
 description: About the Project
 intro_image: "images/illustrations/reading.jpg"
 intro_image_absolute: false
@@ -9,20 +9,6 @@ bodyClass: page-about
 ---
 
 <style>
-/* ── Force nav above page content on this layout ── */
-header, nav, .navbar, #navbar, .site-header, header nav {
-  position: relative;
-  z-index: 9999 !important;
-}
-
-/* ── Break out of col-md-8 ── */
-.oc2-escape {
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-}
 
 .oc2 {
   font-family: Arial, Helvetica, sans-serif;
@@ -341,7 +327,6 @@ header, nav, .navbar, #navbar, .site-header, header nav {
 }
 </style>
 
-<div class="oc2-escape">
 <div class="oc2" style="padding-top: 40px; padding-bottom: 56px;">
 
   <!-- HERO -->
@@ -529,5 +514,4 @@ header, nav, .navbar, #navbar, .site-header, header nav {
     </div>
   </div>
 
-</div>
 </div>
