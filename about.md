@@ -12,6 +12,7 @@ bodyClass: page-about
 /* ── Break out of col-md-8 ── */
 .oc2-escape {
   position: relative;
+  z-index: 0;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
@@ -100,8 +101,6 @@ bodyClass: page-about
   grid-template-columns: 1fr 280px;
   gap: 48px;
   align-items: center;
-  position: relative;
-  z-index: 0;
 }
 .oc2 .hero-badge {
   display: inline-flex;
