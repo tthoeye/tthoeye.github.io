@@ -11,8 +11,6 @@ bodyClass: page-about
 <style>
 /* ── Break out of col-md-8 ── */
 .oc2-escape {
-  position: relative;
-  z-index: 0;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
@@ -268,7 +266,6 @@ bodyClass: page-about
   width: 14px; height: 14px;
   border-radius: 50%;
   border: 3px solid var(--blue-tint);
-  z-index: 1;
 }
 .oc2 .tl-item:nth-child(1) .tl-dot { background: var(--blue); }
 .oc2 .tl-item:nth-child(2) .tl-dot { background: var(--yellow); }
