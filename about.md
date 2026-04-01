@@ -100,6 +100,8 @@ bodyClass: page-about
   grid-template-columns: 1fr 280px;
   gap: 48px;
   align-items: center;
+  position: relative;
+  z-index: 0;
 }
 .oc2 .hero-badge {
   display: inline-flex;
