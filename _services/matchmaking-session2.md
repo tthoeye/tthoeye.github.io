@@ -1,6 +1,7 @@
 ---
 title: "LDT4SSC Matchmaking Event 2026 – Building Strong Consortia for the Second Round of Open Calls"
-date: 2026-02-24
+type: event
+date: 2026-03-05
 weight: 489
 ---
 
