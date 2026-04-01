@@ -1,5 +1,6 @@
 ---
 title: "LDT4SSC & DS4SSCC Joint Stakeholder Forum Meeting"
+type: event
 date: 2025-10-29
 weight: 497
 ---
