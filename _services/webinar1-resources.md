@@ -1,5 +1,6 @@
 ---
 title: "Recording and Slides Now Available – LDT4SSC Webinar on Digital Twin Pilots"
+type: news
 date: 2025-10-10
 weight: 499
 ---
