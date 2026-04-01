@@ -396,7 +396,6 @@ banner: /images/banner-call-two.jpg
         <div class="glance-head">Call at a glance</div>
         <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">● Open</span></div>
         <div class="glance-row"><span class="gr-key">Programme</span><span class="gr-val">Digital Europe (DEP)</span></div>
-        <div class="glance-row"><span class="gr-key">Total funding</span><span class="gr-val">€17,000,000</span></div>
         <div class="glance-row"><span class="gr-key">Max per consortium</span><span class="gr-val">€1,000,000</span></div>
         <div class="glance-row"><span class="gr-key">Co-funding required</span><span class="gr-val">50%</span></div>
         <div class="glance-row"><span class="gr-key">Submission deadline</span><span class="gr-val gr-urgent">15 Apr 2026</span></div>
@@ -409,11 +408,10 @@ banner: /images/banner-call-two.jpg
     <div class="contact-card">
       <div class="sec-label" style="margin-bottom:8px;">Get Involved</div>
       <h3>Looking to learn more, ask a question or join a consortium?</h3>
-      <p>Reach out via our helpdesk, find partners via the matchmaking platform, join an info session or subscribe for updates.</p>
+      <p>Reach out via our helpdesk, find partners via the matchmaking platform or subscribe for updates.</p>
       <div class="cta-links" style="margin-top:22px;">
         <a href="https://ldt4ssc.eu/faq/" class="cta-link">❓ Visit our Helpdesk &amp; FAQ</a>
         <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">🤝 Find partners via the Matchmaking Platform</a>
-        <a href="https://ldt4ssc.eu/services/webinar3/" class="cta-link">🎥 Join the info session</a>
         <a href="https://shorturl.at/pzMGK" class="cta-link">📬 Subscribe to the newsletter</a>
       </div>
     </div>
