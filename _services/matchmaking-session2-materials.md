@@ -1,5 +1,6 @@
 ---
 title: "Recording and Slides Now Available: LDT4SSC Matchmaking Event for Open Call 2"
+type: news
 date: 2026-03-16
 weight: 488
 ---
