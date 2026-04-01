@@ -1,5 +1,6 @@
 ---
 title: "Open Call 2 – Info Session Materials Now Available"
+type: news
 date: 2026-02-18
 weight: 490
 ---
