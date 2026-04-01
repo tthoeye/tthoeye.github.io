@@ -1,7 +1,7 @@
 ---
 title: "LDT4SSC Webinar: Open Call – Work Strand 1"
-date: 2025-11-19
-event_date: 2025-11-25
+type: event
+date: 2025-11-25
 weight: 496
 ---
 Join us for an interactive webinar introducing the **open call for Work Strand 1** of the *Local Digital Twins for Smart and Sustainable Communities (LDT4SSC)* initiative on 25 November at 11:00-12:30.
