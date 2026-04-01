@@ -1,6 +1,6 @@
 ---
 title: About
-layout: fullwidth
+layout: page
 description: About the Project
 intro_image: "images/illustrations/reading.jpg"
 intro_image_absolute: false
@@ -9,6 +9,12 @@ bodyClass: page-about
 ---
 
 <style>
+/* ── Force nav above page content on this layout ── */
+header, nav, .navbar, #navbar, .site-header, header nav {
+  position: relative;
+  z-index: 9999 !important;
+}
+
 /* ── Break out of col-md-8 ── */
 .oc2-escape {
   left: 50%;
