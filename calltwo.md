@@ -1,7 +1,7 @@
 ---
 layout: fullwidth
 permalink: /call-two/
-banner: /images/banner-call-two.jpg
+banner: /images/banner2updated.jpg
 ---
 
 <style>
