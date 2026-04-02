@@ -1,7 +1,7 @@
 ---
 layout: fullwidth
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
-banner: /images/banner-call-two.jpg
+banner: /images/banner2updated.jpg
 ---
 
 <style>
