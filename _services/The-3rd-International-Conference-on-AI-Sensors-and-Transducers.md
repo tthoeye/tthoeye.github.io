@@ -4,10 +4,18 @@ date: 2025-04-08
 event_date: 2026-08-02
 event_date_end: 2026-08-07
 event_location: "Jeju, South Korea"
-type: event
+type: "event"
 ---
 
 <style>
+/* Hide the layout-injected page title above the image */
+.content h1:first-child,
+.page-title,
+h1.title,
+article > h1:first-of-type {
+  display: none !important;
+}
+
 .ev {
   font-family: Arial, Helvetica, sans-serif;
   color: #4C5562;
@@ -103,7 +111,6 @@ type: event
   border-color: var(--green-pale);
   color: var(--green);
 }
-
 .ev .ev-meta-pill svg {
   flex-shrink: 0;
   width: 15px; height: 15px;
@@ -167,7 +174,7 @@ type: event
   margin: 32px 0;
 }
 
-/* CTA */
+/* CTA — single button only */
 .ev .ev-cta {
   background: var(--blue);
   color: #fff !important;
@@ -183,29 +190,6 @@ type: event
 }
 .ev .ev-cta:hover {
   background: #1660b8;
-}
-.ev .ev-cta-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
-}
-.ev .ev-cta-secondary {
-  background: transparent;
-  color: var(--blue) !important;
-  border: 2px solid var(--blue);
-  font-size: 14px;
-  font-weight: 700;
-  padding: 12px 24px;
-  border-radius: 8px;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  text-decoration: none !important;
-  transition: background 0.15s;
-}
-.ev .ev-cta-secondary:hover {
-  background: var(--blue-tint);
 }
 
 @media (max-width: 600px) {
@@ -264,15 +248,10 @@ type: event
 
   <div class="ev-divider"></div>
 
-  <!-- CTA BUTTONS -->
-  <div class="ev-cta-row">
-    <a class="ev-cta" href="https://sciforum.net/event/AIS2026" target="_blank" rel="noopener">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-      View full event & register
-    </a>
-    <a class="ev-cta-secondary" href="https://sciforum.net/user/submission/create/1506" target="_blank" rel="noopener">
-      Submit abstract
-    </a>
-  </div>
+  <!-- CTA — single button -->
+  <a class="ev-cta" href="https://sciforum.net/event/AIS2026" target="_blank" rel="noopener">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+    View full event &amp; register
+  </a>
 
 </div>
