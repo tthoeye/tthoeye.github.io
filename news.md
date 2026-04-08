@@ -287,7 +287,7 @@ show_call_box: true
   <!-- EVENTS -->
   <div class="sec-label green">Upcoming &amp; Recent Events</div>
   <h2 class="sec-title">Events</h2>
-  <p class="sec-sub">Webinars, forums, matchmaking sessions and conferences featuring the LDT4SSC project.</p>
+  <p class="sec-sub">View upcoming and recent events.</p>
 
   <div class="cards-grid">
     {% assign events = site.services | where: "type", "event" | sort: "event_date" | reverse | limit: 6 %}
@@ -310,7 +310,7 @@ show_call_box: true
   <!-- NEWS -->
   <div class="sec-label">Latest News</div>
   <h2 class="sec-title">News</h2>
-  <p class="sec-sub">Project updates and announcements from across the LDT4SSC initiative.</p>
+  <p class="sec-sub">Read project updates and announcements.</p>
 
   <div class="cards-grid">
     {% assign news = site.services | where: "type", "news" | sort: "date" | reverse | limit: 6 %}
