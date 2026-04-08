@@ -39,7 +39,6 @@ show_call_box: true
   --ink:         #1E2530;
 }
 
-/* ── SECTION LABEL ── */
 .oc2 .sec-label {
   font-size: 11px;
   font-weight: 700;
@@ -83,7 +82,6 @@ show_call_box: true
   margin: 8px 0 40px;
 }
 
-/* ── PAGE HERO ── */
 .oc2 .page-hero {
   background: var(--blue-tint);
   border: 1.5px solid var(--blue-pale);
@@ -112,7 +110,6 @@ show_call_box: true
   margin: 0 auto;
 }
 
-/* ── CARDS GRID ── */
 .oc2 .cards-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -120,7 +117,6 @@ show_call_box: true
   margin-bottom: 48px;
 }
 
-/* ── NEWS CARD ── */
 .oc2 .news-card {
   background: #fff;
   border: 1.5px solid var(--grey-pale);
@@ -163,7 +159,6 @@ show_call_box: true
   margin-top: 4px;
 }
 
-/* ── EVENT CARD ── */
 .oc2 .event-card {
   background: #fff;
   border: 1.5px solid var(--grey-pale);
@@ -209,7 +204,6 @@ show_call_box: true
   margin-top: 4px;
 }
 
-/* ── RESOURCE CARD (recordings, materials) ── */
 .oc2 .resource-card {
   background: #fff;
   border: 1.5px solid var(--grey-pale);
@@ -255,7 +249,6 @@ show_call_box: true
   margin-top: 4px;
 }
 
-/* ── YELLOW HIGHLIGHT BAND ── */
 .oc2 .highlight-band {
   background: var(--yellow);
   border-radius: 10px;
@@ -297,10 +290,12 @@ show_call_box: true
   <p class="sec-sub">Webinars, forums, matchmaking sessions and conferences featuring the LDT4SSC project.</p>
 
   <div class="cards-grid">
-    {% assign events = site.services | where: "type", "event" | sort: "date" | reverse | limit: 6 %}
+    {% assign events = site.services | where: "type", "event" | sort: "event_date" | reverse | limit: 6 %}
     {% for item in events %}
     <a href="{{ item.url }}" class="event-card">
-      <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
+      <div class="card-date">
+        {{ item.event_date | date: "%d %B %Y" }}{% if item.event_date_end %} – {{ item.event_date_end | date: "%d %B %Y" }}{% endif %}
+      </div>
       <div class="card-title">{{ item.title }}</div>
       {% if item.excerpt %}
       <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
