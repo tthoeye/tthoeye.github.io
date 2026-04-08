@@ -190,10 +190,6 @@ show_call_box: true
   align-items: center;
   gap: 6px;
 }
-.oc2 .event-card .card-date::before {
-  content: '📅';
-  font-size: 12px;
-}
 .oc2 .event-card .card-title {
   font-size: 14.5px;
   font-weight: 700;
@@ -239,10 +235,6 @@ show_call_box: true
   display: flex;
   align-items: center;
   gap: 6px;
-}
-.oc2 .resource-card .card-date::before {
-  content: '📥';
-  font-size: 12px;
 }
 .oc2 .resource-card .card-title {
   font-size: 14.5px;
@@ -305,7 +297,7 @@ show_call_box: true
   <p class="sec-sub">Webinars, forums, matchmaking sessions and conferences featuring the LDT4SSC project.</p>
 
   <div class="cards-grid">
-    {% assign events = site.services | where: "type", "event" | sort: "date" | reverse %}
+    {% assign events = site.services | where: "type", "event" | sort: "date" | reverse | limit: 6 %}
     {% for item in events %}
     <a href="{{ item.url }}" class="event-card">
       <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
@@ -326,7 +318,7 @@ show_call_box: true
   <p class="sec-sub">Project updates and announcements from across the LDT4SSC initiative.</p>
 
   <div class="cards-grid">
-    {% assign news = site.services | where: "type", "news" | sort: "date" | reverse %}
+    {% assign news = site.services | where: "type", "news" | sort: "date" | reverse | limit: 6 %}
     {% for item in news %}
     <a href="{{ item.url }}" class="news-card">
       <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
@@ -338,6 +330,5 @@ show_call_box: true
     </a>
     {% endfor %}
   </div>
-
 
 </div>
