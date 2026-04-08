@@ -1,198 +1,22 @@
-<div class="footer-oc">
-  <div class="footer-oc__top">
-    <div class="footer-oc__container">
-
-      <!-- Logo + tagline -->
-      <div class="footer-oc__brand">
-        <img src="{{ '/images/funded.png' | relative_url }}" alt="{{ site.title }}" class="footer-oc__logo" />
-        <p class="footer-oc__tagline">Supporting European communities in developing, connecting and advancing Local Digital Twins for AI-supported decision making.</p>
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <div class="footer-title">
+            <img src="{{ '/images/funded.png' | relative_url }}" alt="{{ site.title }}" class="footer-logo" />
+          </div>
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          
+        </div>
       </div>
-
-      <!-- Nav links -->
-      <nav class="footer-oc__nav">
-        <div class="footer-oc__nav-label">Navigation</div>
-        <ul class="footer-oc__links">
-          {% assign footermenu = site.data.menus.footer | sort: 'weight' %}
-          {% for item in footermenu %}
-          <li>
-            <a href="{{ item.url | relative_url }}" class="{% if item.url == page.url %}footer-oc__link--active{% endif %}">
-              {{ item.name }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </nav>
-
-      <!-- Contact -->
-      <div class="footer-oc__contact">
-        <div class="footer-oc__nav-label">Contact</div>
-        <ul class="footer-oc__links">
-          <li><a href="mailto:info@ldt4ssc.eu">info@ldt4ssc.eu</a></li>
-          <li><a href="https://shorturl.at/pzMGK" target="_blank" rel="noopener">Subscribe to newsletter</a></li>
-          <li><a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank" rel="noopener">LinkedIn</a></li>
-        </ul>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- Bottom bar -->
-  <div class="footer-oc__bottom">
-    <div class="footer-oc__container footer-oc__bottom-inner">
-      <p class="footer-oc__legal">
-        LDT4SSC is funded by the Digital Europe Programme under grant agreement number 101226211.
-        Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission.
-      </p>
-      <a href="{{ '/privacy/' | relative_url }}" class="footer-oc__privacy">Privacy Statement &amp; Copyright Notice</a>
     </div>
   </div>
 </div>
-
-<style>
-.footer-oc {
-  font-family: Arial, Helvetica, sans-serif;
-  background: #1E2530;
-  color: #a8b0bc;
-  font-size: 14px;
-  line-height: 1.6;
-  margin-top: 48px;
-}
-
-.footer-oc__container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 32px;
-}
-
-/* TOP SECTION */
-.footer-oc__top {
-  padding: 52px 0 40px;
-  border-bottom: 1px solid rgba(255,255,255,0.08);
-}
-
-.footer-oc__top .footer-oc__container {
-  display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 48px;
-  align-items: start;
-}
-
-/* BRAND */
-.footer-oc__logo {
-  max-width: 260px;
-  height: auto;
-  display: block;
-  margin-bottom: 16px;
-  /* lighten the image slightly so it reads on dark bg */
-  filter: brightness(1.15);
-}
-
-.footer-oc__tagline {
-  font-size: 13px;
-  color: #7d8896;
-  line-height: 1.7;
-  max-width: 340px;
-  margin: 0;
-}
-
-/* NAV COLUMNS */
-.footer-oc__nav-label {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.13em;
-  text-transform: uppercase;
-  color: #1F75D6;
-  margin-bottom: 14px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.footer-oc__nav-label::before {
-  content: '';
-  display: block;
-  width: 16px;
-  height: 2px;
-  background: #1F75D6;
-  border-radius: 2px;
-  flex-shrink: 0;
-}
-
-.footer-oc__links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.footer-oc__links a {
-  color: #a8b0bc;
-  text-decoration: none;
-  font-size: 13.5px;
-  transition: color 0.15s;
-}
-
-.footer-oc__links a:hover,
-.footer-oc__link--active {
-  color: #ffffff !important;
-}
-
-/* BOTTOM BAR */
-.footer-oc__bottom {
-  padding: 20px 0;
-}
-
-.footer-oc__bottom-inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-  flex-wrap: wrap;
-}
-
-.footer-oc__legal {
-  font-size: 11.5px;
-  color: #555f6e;
-  line-height: 1.6;
-  max-width: 780px;
-  margin: 0;
-}
-
-.footer-oc__privacy {
-  font-size: 11.5px;
-  color: #555f6e;
-  text-decoration: none;
-  white-space: nowrap;
-  flex-shrink: 0;
-  transition: color 0.15s;
-}
-
-.footer-oc__privacy:hover {
-  color: #a8b0bc;
-}
-
-/* RESPONSIVE */
-@media (max-width: 900px) {
-  .footer-oc__top .footer-oc__container {
-    grid-template-columns: 1fr 1fr;
-  }
-  .footer-oc__brand {
-    grid-column: 1 / -1;
-  }
-}
-
-@media (max-width: 600px) {
-  .footer-oc__container { padding: 0 16px; }
-  .footer-oc__top .footer-oc__container {
-    grid-template-columns: 1fr;
-    gap: 32px;
-  }
-  .footer-oc__bottom-inner {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-}
-</style>
