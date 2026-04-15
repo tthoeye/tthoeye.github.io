@@ -4,7 +4,6 @@ layout: faq
 bodyClass: "page-faq"
 description: Frequently Asked Questions
 permalink: /faq/
-intro_image: false
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
@@ -152,6 +151,10 @@ intro_image_hide_on_mobile: true
   .oc2 .ws-grid { grid-template-columns: 1fr; }
   .oc2 .two-col-block { grid-template-columns: 1fr; gap: 24px; }
   .oc2 .block { padding: 24px; }
+}
+
+.intro img {
+  display: none !important;
 }
 </style>
 
