@@ -166,7 +166,7 @@ banner_link: /call-two/
   .oc2 { padding: 0 16px; }
   .oc2 .hero { padding: 32px 24px; }
   .oc2 .goals-grid { grid-template-columns: 1fr; }
-  .oc2 .calls-strip { grid-template-columns: 1fr; }
+  .oc2 .calls-strip { grid-template-columns: 1fr !important; }
   .oc2 .hero-stats { grid-template-columns: repeat(2,1fr); }
   .oc2 .hero-stats .stat:nth-child(2) { border-right: none; }
 }
@@ -182,11 +182,11 @@ banner_link: /call-two/
     <div class="hero-btns">
       <a href="/call-two/" class="btn btn-blue">View Open Call 2</a>
       <a href="/call-three/" class="btn btn-green">View Open Call 3</a>
-      <a href="/faq/" class="btn btn-outline">Helpdesk &amp; FAQ</a>
+      <a href="/faq/" class="btn btn-yellow">Helpdesk &amp; FAQ</a>
     </div>
     <div class="hero-stats">
       <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total Funding</div></div>
-      <div class="stat"><div class="stat-val">5</div><div class="stat-lbl">Open Calls</div></div>
+      <div class="stat"><div class="stat-val">3</div><div class="stat-lbl">Open Calls</div></div>
       <div class="stat"><div class="stat-val">€1M</div><div class="stat-lbl">Max per Consortium</div></div>
       <div class="stat"><div class="stat-val">18 mo</div><div class="stat-lbl">Max Duration</div></div>
     </div>
@@ -224,10 +224,23 @@ banner_link: /call-two/
 
   <!-- Open Calls -->
   <div class="sec-label" style="margin-bottom: 18px;">Open Calls</div>
-  <div class="calls-strip">
+  <div class="calls-strip" style="grid-template-columns: repeat(3,1fr);">
+    <div class="call-card call-card-tint" style="background: var(--grey-tint); border: 1.5px solid var(--grey-pale);">
+      <div>
+        <div class="call-badge" style="background: var(--grey-pale); color: var(--grey-mid); border: 1.5px solid var(--grey-pale);"><span class="badge-dot"></span> Closed</div>
+        <h3 style="color: var(--ink) !important;">Open Call 1</h3>
+        <p style="color: var(--grey-mid);">The first round of pilots across Work Strands 1, 2 and 3 — now closed. Selected consortia are in the implementation phase.</p>
+      </div>
+      <div>
+        <div class="call-meta" style="margin-bottom: 16px; color: var(--grey-mid);">
+          <span>Status: <strong>Closed</strong></span>
+        </div>
+        <a href="/opencalls/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Open Calls</a>
+      </div>
+    </div>
     <div class="call-card call-card-blue">
       <div>
-        <div class="call-badge badge-green"><span class="badge-dot"></span> Closed</div>
+        <div class="call-badge badge-green"><span class="badge-dot"></span> Open</div>
         <h3>Open Call 2</h3>
         <p>Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI capabilities to the EU LDT Toolbox.</p>
       </div>
