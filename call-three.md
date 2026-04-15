@@ -224,8 +224,8 @@ permalink: /call-three/
       <h1>Third Round of <span class="accent">Open Calls</span></h1>
       <p class="hero-sub">The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), will invite applications for its third Open Call focused on creating and enhancing Local Digital Twins across Europe.</p>
       <div class="hero-btns">
-        <a href="https://shorturl.at/pzMGK" class="btn btn-blue">📬 Subscribe for Updates</a>
-        <a href="https://ldt4ssc.eu/faq/" class="btn btn-outline">❓ Visit Helpdesk &amp; FAQ</a>
+        <a href="https://shorturl.at/pzMGK" class="btn btn-blue">Subscribe for Updates</a>
+        <a href="https://ldt4ssc.eu/faq/" class="btn btn-outline">Visit Helpdesk &amp; FAQ</a>
       </div>
       <div class="hero-stats">
         <div class="stat"><div class="stat-val">WS 2</div><div class="stat-lbl">Work Strand 2</div></div>
@@ -284,10 +284,10 @@ permalink: /call-three/
 
   <div class="coming-soon-card">
     <div class="cs-icon">🔔</div>
-    <div class="cs-badge">📅 Launching 13 May 2026</div>
+    <div class="cs-badge">Launching 13 May 2026</div>
     <h2>Full details coming soon</h2>
-    <p>Application documents, eligibility criteria, funding amounts, and submission guidelines will be published at launch on 13 May 2026. Subscribe to be notified the moment the call opens.</p>
-    <a href="https://shorturl.at/pzMGK" class="btn btn-yellow">📬 Subscribe for Updates</a>
+    <p style="color:#fff;">Application documents, eligibility criteria, funding amounts, and submission guidelines will be published at launch on 13 May 2026. Subscribe to be notified the moment the call opens.</p>
+    <a href="https://shorturl.at/pzMGK" class="btn btn-yellow">Subscribe for Updates</a>
   </div>
 
   <div class="sec-divider"></div>
@@ -338,7 +338,7 @@ permalink: /call-three/
         <p>An information session will be held ahead of the launch on 13 May 2026. Slides and recording will be made available here once published.</p>
         <p style="margin-top: 14px; font-size: 13.5px; color: var(--grey-mid);">In the meantime, review the Open Call 2 materials to familiarise yourself with the programme structure and requirements.</p>
         <div class="info-btns" style="margin-top:22px;">
-          <a href="https://shorturl.at/pzMGK" class="btn btn-blue">📬 Subscribe for Updates</a>
+          <a href="https://shorturl.at/pzMGK" class="btn btn-blue">Subscribe for Updates</a>
           <a href="/call-two/" class="btn btn-outline">← View Open Call 2</a>
         </div>
       </div>
