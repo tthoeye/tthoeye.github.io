@@ -168,15 +168,15 @@ permalink: /faq/
 
   <div class="ws-grid">
     <div class="ws-card">
-      <h4>WS1 – Interconnecting Existing Local Digital Twins</h4>
+      <h4>Work Strand 1 – Interconnecting Existing Local Digital Twins</h4>
       <p>Connects operational LDTs for cross-border data exchange, shared services and interoperability.</p>
     </div>
     <div class="ws-card">
-      <h4>WS2 – Creating New Local Digital Twins Based on Common Needs</h4>
+      <h4>Work Strand 2 – Creating New Local Digital Twins Based on Common Needs</h4>
       <p>Co-design and deploy new LDTs addressing shared urban challenges.</p>
     </div>
     <div class="ws-card">
-      <h4>WS3 – Adding Advanced AI-Based Capabilities to LDTs</h4>
+      <h4>Work Strand 3 – Adding Advanced AI-Based Capabilities to LDTs</h4>
       <p>Develops advanced AI-driven predictive and immersive services on LDTs.</p>
     </div>
   </div>
