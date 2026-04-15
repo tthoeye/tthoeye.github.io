@@ -5,120 +5,265 @@ description: The Local Digital Twins for Smart Communities project (LDT4SSC) sup
 banner: /images/banner2updated.jpg
 banner_link: /call-two/
 ---
-<div style="background:#ffffff; font-family:Arial, Helvetica, sans-serif; color:#4C5562;">
 
-  <div style="max-width:1400px; margin:0 auto; padding:60px 20px;">
+<style>
+.oc2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #4C5562;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  text-align: center;
+}
+.oc2 *, .oc2 *::before, .oc2 *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.oc2 a { text-decoration: none; color: inherit; }
+.oc2 p { margin: 0; }
 
-    <!-- MAIN TITLE -->
-    <h1 style="text-align:center; color:#1F75D6; font-size:46px; margin-bottom:40px;">
-      LDT4SSC – Local Digital Twins for Smart and Sustainable Communities
-    </h1>
+.oc2 {
+  --blue:        #1F75D6;
+  --blue-mid:    #5497DC;
+  --blue-pale:   #C8DFF5;
+  --blue-tint:   #EBF4FD;
+  --green:       #29A329;
+  --green-pale:  #C8E8C8;
+  --green-tint:  #EDF7E8;
+  --yellow:      #F5B400;
+  --yellow-pale: #FDE9A0;
+  --yellow-tint: #FFFAE8;
+  --grey:        #4C5562;
+  --grey-mid:    #7D8896;
+  --grey-pale:   #E0E3E8;
+  --grey-tint:   #F5F6F8;
+  --ink:         #1E2530;
+}
 
-    <!-- INTRO TEXT WRAPPED -->
-    <div style="font-size:18px; line-height:1.7; margin-bottom:40px; text-align:left;">
+.oc2 .sec-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.oc2 .sec-label::before,
+.oc2 .sec-label::after {
+  content: '';
+  display: block;
+  width: 22px; height: 2px;
+  background: var(--blue);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.oc2 .sec-divider { height: 1px; background: var(--grey-pale); margin: 8px 0 32px; }
 
-      <p>
-        LDT4SSC is driving the future of smart living by creating connected digital twins for cities and communities across Europe.
-        These digital twins act as virtual mirrors of real places, helping us understand, plan and improve the world around us.
-      </p>
+.oc2 .btn { display: inline-flex; align-items: center; gap: 7px; padding: 11px 22px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; transition: filter 0.15s, transform 0.15s; cursor: pointer; line-height: 1; }
+.oc2 .btn:hover { filter: brightness(1.08); transform: translateY(-1px); }
+.oc2 .btn-blue   { background: var(--blue);   color: #fff !important; }
+.oc2 .btn-green  { background: var(--green);  color: #fff !important; }
+.oc2 .btn-yellow { background: var(--yellow); color: var(--ink) !important; }
+.oc2 .btn-outline { background: #fff; border: 2px solid var(--blue); color: var(--blue) !important; }
+.oc2 .btn-outline:hover { background: var(--blue-tint); filter: none; }
 
-      <p>
-        Working hand in hand with major European initiatives — such as the EU’s Local Digital Twin Toolbox, GAIA-X for trusted data
-        and CitiVERSE for urban innovation — LDT4SSC brings everything together into one powerful ecosystem.
-      </p>
+/* Hero */
+.oc2 .hero {
+  background: var(--blue-tint);
+  border: 1.5px solid var(--blue-pale);
+  border-radius: 14px;
+  padding: 60px 48px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.oc2 .hero h1 {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: clamp(28px, 3.5vw, 48px) !important;
+  font-weight: 700 !important;
+  color: var(--ink) !important;
+  line-height: 1.1 !important;
+  margin-bottom: 20px !important;
+  border: none !important;
+  padding: 0 !important;
+  max-width: 820px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.oc2 .hero h1 .accent { color: var(--blue); }
+.oc2 .hero-sub {
+  font-size: 17px;
+  color: var(--grey);
+  line-height: 1.75;
+  max-width: 680px;
+  margin: 0 auto 36px;
+}
+.oc2 .hero-btns { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin-bottom: 44px; }
+.oc2 .hero-stats { display: grid; grid-template-columns: repeat(4,1fr); border: 1.5px solid var(--blue-pale); border-radius: 10px; overflow: hidden; background: #fff; max-width: 780px; margin: 0 auto; }
+.oc2 .stat { padding: 18px 20px; border-right: 1.5px solid var(--blue-pale); }
+.oc2 .stat:last-child { border-right: none; }
+.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--blue); line-height: 1; }
+.oc2 .stat-lbl { font-size: 11px; color: var(--grey-mid); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.06em; }
 
-      <p>
-        With these tools, regions can take on today’s biggest challenges: fighting climate change, improving air quality,
-        saving energy and making better use of resources.
-      </p>
+/* Intro text */
+.oc2 .intro-text {
+  font-size: 16px;
+  color: var(--grey);
+  line-height: 1.85;
+  max-width: 780px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
 
-      <p>
-        At its heart, the project puts people first. Using ethical and trustworthy AI, LDT4SSC helps create healthier, greener
-        and more sustainable communities for everyone.
-      </p>
+/* Goals grid */
+.oc2 .goals-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; margin-bottom: 40px; text-align: left; }
+.oc2 .goal-card { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 12px; padding: 30px 26px; transition: box-shadow 0.2s, transform 0.2s; }
+.oc2 .goal-card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.08); transform: translateY(-3px); }
+.oc2 .goal-card.gc-blue  { border-top: 4px solid var(--blue); }
+.oc2 .goal-card.gc-green { border-top: 4px solid var(--green); }
+.oc2 .goal-card.gc-yellow { border-top: 4px solid var(--yellow); }
+.oc2 .goal-num { font-size: 36px; font-weight: 700; line-height: 1; margin-bottom: 10px; }
+.oc2 .gc-blue  .goal-num { color: var(--blue-pale); }
+.oc2 .gc-green .goal-num { color: var(--green-pale); }
+.oc2 .gc-yellow .goal-num { color: var(--yellow-pale); }
+.oc2 .goal-card h3 { font-size: 16px !important; font-weight: 700; margin-bottom: 8px !important; }
+.oc2 .gc-blue  h3 { color: var(--blue); }
+.oc2 .gc-green h3 { color: var(--green); }
+.oc2 .gc-yellow h3 { color: #9a7300; }
+.oc2 .goal-card p { font-size: 13.5px; color: var(--grey-mid); line-height: 1.7; }
 
+/* Open calls strip */
+.oc2 .calls-strip { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 40px; text-align: left; }
+.oc2 .call-card { border-radius: 12px; padding: 28px 30px; display: flex; flex-direction: column; justify-content: space-between; gap: 20px; }
+.oc2 .call-card-blue { background: var(--blue); color: #fff; }
+.oc2 .call-card-tint { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); }
+.oc2 .call-badge { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 12px; border-radius: 100px; margin-bottom: 10px; }
+.oc2 .badge-green { background: var(--green-pale); color: var(--green); border: 1.5px solid var(--green); }
+.oc2 .badge-blue  { background: var(--blue-pale); color: var(--blue); border: 1.5px solid var(--blue-mid); }
+.oc2 .badge-dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+.oc2 .call-card h3 { font-size: 18px !important; font-weight: 700; margin-bottom: 6px !important; }
+.oc2 .call-card-blue h3 { color: #fff !important; }
+.oc2 .call-card-tint h3 { color: var(--ink) !important; }
+.oc2 .call-card p { font-size: 13.5px; line-height: 1.65; }
+.oc2 .call-card-blue p { color: rgba(255,255,255,0.8); }
+.oc2 .call-card-tint p { color: var(--grey-mid); }
+.oc2 .call-meta { display: flex; flex-direction: column; gap: 5px; font-size: 12px; }
+.oc2 .call-card-blue .call-meta { color: rgba(255,255,255,0.7); }
+.oc2 .call-card-tint .call-meta { color: var(--grey-mid); }
+.oc2 .call-meta strong { color: inherit; }
+.oc2 .btn-white { background: #fff; color: var(--blue) !important; font-weight: 700; }
+.oc2 .btn-white:hover { background: var(--blue-tint); }
+
+/* CTA row */
+.oc2 .cta-row { display: flex; gap: 14px; flex-wrap: wrap; justify-content: center; margin-bottom: 8px; }
+
+/* Hide intro image like FAQ page */
+.intro img { display: none !important; }
+
+@media (max-width: 768px) {
+  .oc2 { padding: 0 16px; }
+  .oc2 .hero { padding: 32px 24px; }
+  .oc2 .goals-grid { grid-template-columns: 1fr; }
+  .oc2 .calls-strip { grid-template-columns: 1fr; }
+  .oc2 .hero-stats { grid-template-columns: repeat(2,1fr); }
+  .oc2 .hero-stats .stat:nth-child(2) { border-right: none; }
+}
+</style>
+
+<div class="oc2" style="padding-top: 48px; padding-bottom: 60px;">
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="sec-label">EU-Funded Project</div>
+    <h1>Local Digital Twins for <span class="accent">Smart and Sustainable</span> Communities</h1>
+    <p class="hero-sub">LDT4SSC supports cities, regions and public authorities across Europe in developing, connecting and advancing Local Digital Twins — enabling AI-supported decision making for a greener, more inclusive future.</p>
+    <div class="hero-btns">
+      <a href="/call-two/" class="btn btn-blue">View Open Call 2</a>
+      <a href="/call-three/" class="btn btn-green">View Open Call 3</a>
+      <a href="/faq/" class="btn btn-outline">Helpdesk &amp; FAQ</a>
     </div>
-
-    <!-- SOLID BLUE DIVIDER -->
-    <div style="height:4px; background:#1F75D6; margin:40px auto 30px auto; max-width:600px;"></div>
-
-    <!-- KEY GOALS TITLE -->
-    <h2 style="text-align:center; color:#1F75D6; margin-bottom:35px;">
-      Our 3 Key Goals:
-    </h2>
-
-    <!-- GOALS WITH HOVER -->
-    <div style="display:flex; flex-wrap:wrap; gap:28px; justify-content:center;">
-
-      <div style="flex:1; min-width:280px; max-width:340px; padding:28px; border-radius:20px; background:rgba(31,117,214,0.08);
-                  transition: transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;"
-           onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 14px 28px rgba(31,117,214,0.3)';"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        <div style="font-size:30px; color:#1F75D6; margin-bottom:8px;">1</div>
-        <h3 style="color:#1F75D6; margin-bottom:10px;">Smarter Services with AI</h3>
-        <p style="line-height:1.6;">
-          We’re building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use.
-        </p>
-      </div>
-
-      <div style="flex:1; min-width:280px; max-width:340px; padding:28px; border-radius:20px; background:rgba(41,163,41,0.10);
-                  transition: transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;"
-           onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 14px 28px rgba(41,163,41,0.3)';"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        <div style="font-size:30px; color:#29A329; margin-bottom:8px;">2</div>
-        <h3 style="color:#29A329; margin-bottom:10px;">Connected Digital Twins</h3>
-        <p style="line-height:1.6;">
-          By linking digital twins across cities, regions, and sectors, we create a shared framework where data and solutions can flow seamlessly across Europe.
-        </p>
-      </div>
-
-      <div style="flex:1; min-width:280px; max-width:340px; padding:28px; border-radius:20px; background:rgba(245,180,0,0.18);
-                  transition: transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;"
-           onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 14px 28px rgba(245,180,0,0.3)';"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        <div style="font-size:30px; color:#9a7300; margin-bottom:8px;">3</div>
-        <h3 style="color:#9a7300; margin-bottom:10px;">Sustainable Digital Futures</h3>
-        <p style="line-height:1.6;">
-          We promote innovation that is ethical, fair and open — supporting Europe’s vision for a greener, more inclusive Digital Decade.
-        </p>
-      </div>
-
+    <div class="hero-stats">
+      <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total Funding</div></div>
+      <div class="stat"><div class="stat-val">5</div><div class="stat-lbl">Open Calls</div></div>
+      <div class="stat"><div class="stat-val">€1M</div><div class="stat-lbl">Max per Consortium</div></div>
+      <div class="stat"><div class="stat-val">18 mo</div><div class="stat-lbl">Max Duration</div></div>
     </div>
-
-    <!-- SOLID GREEN DIVIDER -->
-    <div style="height:4px; background:#29A329; margin:40px auto 30px auto; max-width:600px;"></div>
-
-    <!-- BUTTONS WITH HOVER EFFECT -->
-    <div style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center; margin-bottom:30px;">
-
-      <a href="https://www.b2match.com/e/local-digital-twins-smart-communities"
-         style="padding:14px 26px; border-radius:28px; background:#1F75D6; color:white; text-decoration:none; font-size:16px; font-weight:normal;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;"
-         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 18px rgba(31,117,214,0.35)';"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        Find Partners via the Matchmaking Platform
-      </a>
-
-      <a href="https://shorturl.at/pzMGK"
-         style="padding:14px 26px; border-radius:28px; background:#F5B400; color:#000; text-decoration:none; font-size:16px; font-weight:normal;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;"
-         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 18px rgba(245,180,0,0.35)';"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        Subscribe to our Newsletter
-      </a>
-
-      <a href="https://forms.gle/v17Y7df5DUwpCRZP6"
-         style="padding:14px 26px; border-radius:28px; background:#29A329; color:white; text-decoration:none; font-size:16px; font-weight:normal;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;"
-         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 18px rgba(41,163,41,0.35)';"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)';">
-        Join the Stakeholder Forum
-      </a>
-
-    </div>
-
-    <!-- SOLID YELLOW DIVIDER -->
-    <div style="height:4px; background:#F5B400; margin:40px auto 80px auto; max-width:600px;"></div>
-
   </div>
+
+  <!-- Intro -->
+  <div class="sec-label">About the Project</div>
+  <p class="intro-text">
+    LDT4SSC is building a federated, interoperable ecosystem of Local Digital Twins across Europe — virtual representations of real places that help communities understand, plan and improve their environment. Working alongside the EU's Local Digital Twin Toolbox, GAIA-X and CitiVERSE, the project brings data, infrastructure and innovation together to address today's most pressing urban challenges.
+  </p>
+
+  <div class="sec-divider"></div>
+
+  <!-- Goals -->
+  <div class="sec-label" style="margin-bottom: 18px;">What We Do</div>
+  <div class="goals-grid">
+    <div class="goal-card gc-blue">
+      <div class="goal-num">01</div>
+      <h3>Smarter Services with AI</h3>
+      <p>Building advanced AI tools that respond directly to the needs of communities — from cleaner air to more efficient energy use and better resource planning.</p>
+    </div>
+    <div class="goal-card gc-green">
+      <div class="goal-num">02</div>
+      <h3>Connected Digital Twins</h3>
+      <p>Linking digital twins across cities, regions and sectors to create a shared framework where data and solutions flow seamlessly across Europe.</p>
+    </div>
+    <div class="goal-card gc-yellow">
+      <div class="goal-num">03</div>
+      <h3>Sustainable Digital Futures</h3>
+      <p>Promoting innovation that is ethical, fair and open — supporting Europe's vision for a greener, more inclusive Digital Decade.</p>
+    </div>
+  </div>
+
+  <div class="sec-divider"></div>
+
+  <!-- Open Calls -->
+  <div class="sec-label" style="margin-bottom: 18px;">Open Calls</div>
+  <div class="calls-strip">
+    <div class="call-card call-card-blue">
+      <div>
+        <div class="call-badge badge-green"><span class="badge-dot"></span> Closed</div>
+        <h3>Open Call 2</h3>
+        <p>Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI capabilities to the EU LDT Toolbox.</p>
+      </div>
+      <div>
+        <div class="call-meta" style="margin-bottom: 16px;">
+          <span>Deadline: <strong>15 April 2026</strong></span>
+          <span>Max per consortium: <strong>€1,000,000</strong></span>
+        </div>
+        <a href="/call-two/" class="btn btn-white">View Call 2</a>
+      </div>
+    </div>
+    <div class="call-card call-card-tint">
+      <div>
+        <div class="call-badge badge-blue"><span class="badge-dot"></span> Upcoming</div>
+        <h3>Open Call 3</h3>
+        <p>Work Strands 2 and 3 — creating new Local Digital Twins based on common needs and adding advanced AI services to the EU LDT Toolbox.</p>
+      </div>
+      <div>
+        <div class="call-meta" style="margin-bottom: 16px;">
+          <span>Launch: <strong>13 May 2026</strong></span>
+          <span>Deadline: <strong>13 July 2026</strong></span>
+        </div>
+        <a href="/call-three/" class="btn btn-blue">View Call 3</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec-divider"></div>
+
+  <!-- CTA -->
+  <div class="sec-label" style="margin-bottom: 16px;">Get Involved</div>
+  <p style="font-size: 15px; color: var(--grey-mid); max-width: 560px; margin: 0 auto 28px; line-height: 1.7;">Find consortium partners, subscribe for updates or join the stakeholder community shaping Europe's digital twin ecosystem.</p>
+  <div class="cta-row">
+    <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="btn btn-blue">Find Partners via Matchmaking Platform</a>
+    <a href="https://shorturl.at/pzMGK" class="btn btn-yellow">Subscribe to Newsletter</a>
+    <a href="https://forms.gle/v17Y7df5DUwpCRZP6" class="btn btn-green">Join the Stakeholder Forum</a>
+  </div>
+
 </div>
