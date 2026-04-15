@@ -15,9 +15,12 @@ main:
       - name: "2nd Round of Open Calls: Open"
         url: "/call-two/"
         weight: 2
+      - name: "3rd Round of Open Calls: Opening soon"
+        urtl: "/call-three/"
+        weight: 3
       - name: "Open Call for Evaluators"
         url: "/call-evaluators/"
-        weight: 3
+        weight: 4
   - name: "Matchmaking Platform"
     url: "https://www.b2match.com/e/local-digital-twins-smart-communities"
     weight: 4
