@@ -4,6 +4,9 @@ layout: faq
 bodyClass: "page-faq"
 description: Frequently Asked Questions
 permalink: /faq/
+intro_image: false
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 
 <style>
