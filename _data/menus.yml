@@ -12,7 +12,7 @@ main:
       - name: "1st Round of Open Calls: Closed"
         url: "/call-one/"
         weight: 1
-      - name: "2nd Round of Open Calls: Open"
+      - name: "2nd Round of Open Calls: Closed"
         url: "/call-two/"
         weight: 2
       - name: "3rd Round of Open Calls: Opening soon"
