@@ -2,8 +2,6 @@
 title: Local Digital Twins for Smart and Sustainable Communities
 layout: home
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
-banner: /images/banner2updated.jpg
-banner_link: /call-two/
 ---
 
 <style>
@@ -238,18 +236,17 @@ banner_link: /call-two/
         <a href="/opencalls/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Open Calls</a>
       </div>
     </div>
-    <div class="call-card call-card-blue">
+    <div class="call-card call-card-tint" style="background: var(--grey-tint); border: 1.5px solid var(--grey-pale);">
       <div>
-        <div class="call-badge badge-green"><span class="badge-dot"></span> Open</div>
-        <h3>Open Call 2</h3>
-        <p>Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI capabilities to the EU LDT Toolbox.</p>
+        <div class="call-badge" style="background: var(--grey-pale); color: var(--grey-mid); border: 1.5px solid var(--grey-pale);"><span class="badge-dot"></span> Closed</div>
+        <h3 style="color: var(--ink) !important;">Open Call 2</h3>
+        <p style="color: var(--grey-mid);">Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI capabilities to the EU LDT Toolbox.</p>
       </div>
       <div>
-        <div class="call-meta" style="margin-bottom: 16px;">
-          <span>Deadline: <strong>15 April 2026</strong></span>
-          <span>Max per consortium: <strong>€1,000,000</strong></span>
+        <div class="call-meta" style="margin-bottom: 16px; color: var(--grey-mid);">
+          <span>Status: <strong>Closed</strong></span>
         </div>
-        <a href="/call-two/" class="btn btn-white">View Call 2</a>
+        <a href="/call-two/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Call 2</a>
       </div>
     </div>
     <div class="call-card call-card-tint">
