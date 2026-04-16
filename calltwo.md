@@ -37,15 +37,15 @@ banner: /images/banner2updated.jpg
 }
 
 .oc2 .banner {
-  background: var(--yellow);
-  color: var(--ink);
+  background: var(--grey-pale);
+  color: var(--grey);
   text-align: center;
   padding: 11px 20px;
   font-size: 13.5px;
   font-weight: 700;
   border-radius: 8px;
   margin-bottom: 28px;
-  border: 2px solid #d69e00;
+  border: 2px solid var(--grey-mid);
 }
 
 .oc2 .sec-label {
@@ -80,8 +80,8 @@ banner: /images/banner2updated.jpg
 .oc2 .btn-outline:hover { background: var(--blue-tint); filter: none; }
 
 .oc2 .hero {
-  background: var(--blue-tint);
-  border: 1.5px solid var(--blue-pale);
+  background: var(--grey-tint);
+  border: 1.5px solid var(--grey-pale);
   border-radius: 14px;
   padding: 48px;
   display: grid;
@@ -90,16 +90,16 @@ banner: /images/banner2updated.jpg
   align-items: center;
   margin-bottom: 40px;
 }
-.oc2 .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--green-pale); border: 1.5px solid var(--green); color: var(--green); font-size: 12px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; margin-bottom: 18px; }
-.oc2 .hero-badge .dot { width: 7px; height: 7px; background: var(--green); border-radius: 50%; }
+.oc2 .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--grey-pale); border: 1.5px solid var(--grey-mid); color: var(--grey-mid); font-size: 12px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; margin-bottom: 18px; }
+.oc2 .hero-badge .dot { width: 7px; height: 7px; background: var(--grey-mid); border-radius: 50%; }
 .oc2 .hero h1 { font-family: Arial, Helvetica, sans-serif !important; font-size: clamp(26px, 3vw, 44px) !important; font-weight: 700 !important; color: var(--ink) !important; line-height: 1.1 !important; margin-bottom: 16px !important; border: none !important; padding: 0 !important; }
 .oc2 .hero h1 .accent { color: var(--blue); }
 .oc2 .hero-sub { font-size: 15px; color: var(--grey); line-height: 1.7; margin-bottom: 28px; }
 .oc2 .hero-btns { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 32px; }
-.oc2 .hero-stats { display: grid; grid-template-columns: repeat(3,1fr); border: 1.5px solid var(--blue-pale); border-radius: 10px; overflow: hidden; background: #fff; }
-.oc2 .stat { padding: 16px 18px; border-right: 1.5px solid var(--blue-pale); }
+.oc2 .hero-stats { display: grid; grid-template-columns: repeat(3,1fr); border: 1.5px solid var(--grey-pale); border-radius: 10px; overflow: hidden; background: #fff; }
+.oc2 .stat { padding: 16px 18px; border-right: 1.5px solid var(--grey-pale); }
 .oc2 .stat:last-child { border-right: none; }
-.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--blue); line-height: 1; }
+.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--grey-mid); line-height: 1; }
 .oc2 .stat-lbl { font-size: 11px; color: var(--grey-mid); margin-top: 3px; text-transform: uppercase; letter-spacing: 0.06em; }
 .oc2 .hero-diagram svg { width: 100%; height: auto; display: block; }
 
@@ -162,20 +162,17 @@ banner: /images/banner2updated.jpg
 .oc2 .doc-grid { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .oc2 .doc-pill { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; transition: border-color 0.15s, color 0.15s, background 0.15s; }
 .oc2 .doc-pill:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
-.oc2 .submit-pill { display: inline-flex; align-items: center; gap: 7px; background: var(--yellow); color: var(--ink) !important; padding: 10px 18px; border-radius: 6px; font-size: 13.5px; font-weight: 700; white-space: nowrap; transition: filter 0.15s, transform 0.15s; }
-.oc2 .submit-pill:hover { filter: brightness(1.07); transform: translateY(-1px); }
 
 .oc2 .info-left h2 { font-size: 24px !important; font-weight: 700; color: var(--ink); margin-bottom: 10px !important; }
 .oc2 .info-left p  { font-size: 14px; color: var(--grey-mid); line-height: 1.7; margin-bottom: 22px; }
 .oc2 .info-btns    { display: flex; gap: 10px; flex-wrap: wrap; }
 .oc2 .glance { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 10px; overflow: hidden; }
-.oc2 .glance-head { background: var(--blue); color: #fff; padding: 12px 20px; font-size: 11px; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
+.oc2 .glance-head { background: var(--grey-mid); color: #fff; padding: 12px 20px; font-size: 11px; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
 .oc2 .glance-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 20px; border-bottom: 1px solid var(--grey-pale); font-size: 13.5px; }
 .oc2 .glance-row:last-child { border-bottom: none; }
 .oc2 .gr-key { color: var(--grey-mid); }
 .oc2 .gr-val { font-weight: 700; color: var(--ink); }
-.oc2 .gr-open   { color: var(--green) !important; }
-.oc2 .gr-urgent { color: #b07f00 !important; }
+.oc2 .gr-closed { color: var(--grey-mid) !important; }
 
 .oc2 .contact-card { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); border-radius: 12px; padding: 36px; }
 .oc2 .contact-card h3 { font-size: 18px !important; font-weight: 700; color: var(--ink); margin-bottom: 8px !important; }
@@ -206,17 +203,17 @@ banner: /images/banner2updated.jpg
 <div class="oc2" style="padding-top: 40px; padding-bottom: 56px;">
 
   <div class="banner">
-    ⚠️ Deadline extended — Submit your application by <strong>15 April 2026 (23:59 CEST)</strong>
+    🔒 Open Call 2 is now <strong>closed</strong>. The deadline was 15 April 2026. Stay tuned for Open Call 3 launching 13 May 2026.
   </div>
 
   <div class="hero">
     <div>
-      <div class="hero-badge"><span class="dot"></span> Open Call 2 · Status: Open</div>
+      <div class="hero-badge"><span class="dot"></span> Open Call 2 · Status: Closed</div>
       <h1>Second Round of <span class="accent">Open Calls</span></h1>
-      <p class="hero-sub">The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its second Open Call (Work Strand 1, 2 and 3).</p>
+      <p class="hero-sub">The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invited applications for its second Open Call (Work Strand 1, 2 and 3). This call is now closed.</p>
       <div class="hero-btns">
         <a href="/documents/infosession2.pdf" class="btn btn-blue">↓ Download Slides</a>
-        <a href="https://youtu.be/Ou3HtJf_R68?si=rM8vHhfYG4UjQrTG" class="btn btn-green">▶ Watch Webinar</a>
+        <a href="https://youtu.be/Ou3HtJf_R68?si=rM8vHhfYG4UjQrTG" class="btn btn-outline">▶ Watch Webinar</a>
       </div>
       <div class="hero-stats">
         <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total Funding</div></div>
@@ -255,8 +252,8 @@ banner: /images/banner2updated.jpg
   </div>
 
   <div class="sec-label">Open Call 2</div>
-  <h2 class="sec-title">What is Open Call 2?</h2>
-  <p class="sec-sub">Open Call 2 invites applications across all three work strands — interconnecting, creating and enhancing Local Digital Twins across Europe.</p>
+  <h2 class="sec-title">What was Open Call 2?</h2>
+  <p class="sec-sub">Open Call 2 invited applications across all three work strands — interconnecting, creating and enhancing Local Digital Twins across Europe. This call is now closed.</p>
 
   <div class="strands-grid">
     <div class="strand-intro">
@@ -291,7 +288,7 @@ banner: /images/banner2updated.jpg
 
   <div class="two-col">
     <div class="funding-card">
-      <h3>💰 What can you get?</h3>
+      <h3>💰 What could you get?</h3>
       <div class="funding-items">
         <div><div class="fi-val">€1,000,000</div><div class="fi-lbl">Max per consortium</div></div>
         <div><div class="fi-val">50%</div><div class="fi-lbl">Co-funding required</div></div>
@@ -300,7 +297,7 @@ banner: /images/banner2updated.jpg
       </div>
     </div>
     <div class="who-card">
-      <h3>👥 Who can apply?</h3>
+      <h3>👥 Who could apply?</h3>
       <div class="who-tags">
         <span class="who-tag">🏛 Local authorities</span>
         <span class="who-tag">🏙 Regional authorities</span>
@@ -319,10 +316,10 @@ banner: /images/banner2updated.jpg
 
   <div class="block block-blue">
     <div class="sec-label">Key Dates</div>
-    <h2 class="sec-title">What to remember?</h2>
+    <h2 class="sec-title">Timeline</h2>
     <div class="timeline">
-      <div class="tl-item"><div class="tl-dot"></div><div class="tl-date">2 February 2026</div><div class="tl-title">Launch</div><div class="tl-desc">Application portal opens; all documents available for download</div></div>
-      <div class="tl-item"><div class="tl-dot"></div><div class="tl-date">15 April 2026 · 23:59 CEST</div><div class="tl-title">Deadline</div><div class="tl-desc">All applications must be submitted to applications@ldt4ssc.eu</div></div>
+      <div class="tl-item"><div class="tl-dot"></div><div class="tl-date">2 February 2026</div><div class="tl-title">Launch</div><div class="tl-desc">Application portal opened; all documents available for download</div></div>
+      <div class="tl-item"><div class="tl-dot"></div><div class="tl-date">15 April 2026 · 23:59 CEST</div><div class="tl-title">Deadline (Closed)</div><div class="tl-desc">Applications were submitted to applications@ldt4ssc.eu</div></div>
       <div class="tl-item"><div class="tl-dot"></div><div class="tl-date">31 August 2026</div><div class="tl-title">Pilot start</div><div class="tl-desc">Selected consortia begin their implementation phase</div></div>
     </div>
   </div>
@@ -330,13 +327,12 @@ banner: /images/banner2updated.jpg
   <div class="sec-divider"></div>
 
   <div class="sec-label">Applications</div>
-  <h2 class="sec-title">How to apply?</h2>
-  <p class="sec-sub">Prepare and submit the required documents per work strand to <strong>applications@ldt4ssc.eu</strong></p>
+  <h2 class="sec-title">Application Documents</h2>
+  <p class="sec-sub">This call is now closed. The documents below are available for reference only.</p>
 
   <div class="strand-card">
     <div class="strand-header">
       <div><span class="strand-tag">Work Strand 01</span><h3>Interconnecting Existing Local Digital Twins</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 1 objectives.</p></div>
-      <a href="mailto:applications@ldt4ssc.eu" class="submit-pill">✉ Submit</a>
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/cpmws1.pdf" class="doc-pill">📄 Pilot Manual</a>
@@ -351,7 +347,6 @@ banner: /images/banner2updated.jpg
   <div class="strand-card">
     <div class="strand-header">
       <div><span class="strand-tag">Work Strand 02</span><h3>Creating New Local Digital Twins Based on Common Needs</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 2 objectives.</p></div>
-      <a href="mailto:applications@ldt4ssc.eu" class="submit-pill">✉ Submit</a>
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/cpmws2.pdf" class="doc-pill">📄 Pilot Manual</a>
@@ -367,7 +362,6 @@ banner: /images/banner2updated.jpg
   <div class="strand-card" style="margin-bottom:36px;">
     <div class="strand-header">
       <div><span class="strand-tag">Work Strand 03</span><h3>Adding New Advanced AI-Based Capabilities to the LDT Toolbox</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 3 objectives.</p></div>
-      <a href="mailto:applications@ldt4ssc.eu" class="submit-pill">✉ Submit</a>
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/cpmws3.pdf" class="doc-pill">📄 Pilot Manual</a>
@@ -394,11 +388,11 @@ banner: /images/banner2updated.jpg
       </div>
       <div class="glance">
         <div class="glance-head">Call at a glance</div>
-        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">● Open</span></div>
+        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-closed">● Closed</span></div>
         <div class="glance-row"><span class="gr-key">Programme</span><span class="gr-val">Digital Europe (DEP)</span></div>
         <div class="glance-row"><span class="gr-key">Max per consortium</span><span class="gr-val">€1,000,000</span></div>
         <div class="glance-row"><span class="gr-key">Co-funding required</span><span class="gr-val">50%</span></div>
-        <div class="glance-row"><span class="gr-key">Submission deadline</span><span class="gr-val gr-urgent">15 Apr 2026</span></div>
+        <div class="glance-row"><span class="gr-key">Submission deadline</span><span class="gr-val">15 Apr 2026</span></div>
         <div class="glance-row"><span class="gr-key">Pilot start</span><span class="gr-val">31 Aug 2026</span></div>
       </div>
     </div>
@@ -407,8 +401,8 @@ banner: /images/banner2updated.jpg
   <div class="cta-grid" style="margin-bottom:8px;">
     <div class="contact-card">
       <div class="sec-label" style="margin-bottom:8px;">Get Involved</div>
-      <h3>Looking to learn more, ask a question or join a consortium?</h3>
-      <p>Reach out via our helpdesk, find partners via the matchmaking platform or subscribe for updates.</p>
+      <h3>Interested in Open Call 3?</h3>
+      <p>Open Call 3 launches on 13 May 2026. Subscribe for updates, find partners or join the stakeholder forum to stay informed.</p>
       <div class="cta-links" style="margin-top:22px;">
         <a href="https://ldt4ssc.eu/faq/" class="cta-link">❓ Visit our Helpdesk &amp; FAQ</a>
         <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">🤝 Find partners via the Matchmaking Platform</a>
