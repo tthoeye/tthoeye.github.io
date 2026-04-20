@@ -246,16 +246,16 @@ show_call_box: true
 
   <div class="cards-grid">
     {% assign news_all = site.services | where: "type", "news" | sort: "date" | reverse %}
-    {% assign news = news_all | limit: 6 %}
-    {% for item in news %}
-    <a href="{{ item.url }}" class="news-card">
-      <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
-      <div class="card-title">{{ item.title }}</div>
-      {% if item.excerpt %}
-      <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
-      {% endif %}
-      <div class="card-more">Read more →</div>
-    </a>
+    {% for item in news_all %}
+      {% if forloop.index > 6 %}{% break %}{% endif %}
+      <a href="{{ item.url }}" class="news-card">
+        <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
+        <div class="card-title">{{ item.title }}</div>
+        {% if item.excerpt %}
+        <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
+        {% endif %}
+        <div class="card-more">Read more →</div>
+      </a>
     {% endfor %}
   </div>
 
@@ -268,18 +268,18 @@ show_call_box: true
 
   <div class="cards-grid">
     {% assign events_all = site.services | where: "type", "event" | sort: "event_date" | reverse %}
-    {% assign events = events_all | limit: 6 %}
-    {% for item in events %}
-    <a href="{{ item.url }}" class="event-card">
-      <div class="card-date">
-        {{ item.event_date | date: "%d %B %Y" }}{% if item.event_date_end %} – {{ item.event_date_end | date: "%d %B %Y" }}{% endif %}
-      </div>
-      <div class="card-title">{{ item.title }}</div>
-      {% if item.excerpt %}
-      <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
-      {% endif %}
-      <div class="card-more">Learn more →</div>
-    </a>
+    {% for item in events_all %}
+      {% if forloop.index > 6 %}{% break %}{% endif %}
+      <a href="{{ item.url }}" class="event-card">
+        <div class="card-date">
+          {{ item.event_date | date: "%d %B %Y" }}{% if item.event_date_end %} – {{ item.event_date_end | date: "%d %B %Y" }}{% endif %}
+        </div>
+        <div class="card-title">{{ item.title }}</div>
+        {% if item.excerpt %}
+        <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
+        {% endif %}
+        <div class="card-more">Learn more →</div>
+      </a>
     {% endfor %}
   </div>
 
