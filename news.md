@@ -204,51 +204,6 @@ show_call_box: true
   margin-top: 4px;
 }
 
-.oc2 .resource-card {
-  background: #fff;
-  border: 1.5px solid var(--grey-pale);
-  border-top: 4px solid var(--yellow);
-  border-radius: 10px;
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  transition: box-shadow 0.2s, border-color 0.2s;
-  text-decoration: none;
-}
-.oc2 .resource-card:hover {
-  box-shadow: 0 6px 20px rgba(245,180,0,0.13);
-  border-color: var(--yellow-pale);
-}
-.oc2 .resource-card .card-date {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  color: #9a7300;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-.oc2 .resource-card .card-title {
-  font-size: 14.5px;
-  font-weight: 700;
-  color: var(--ink);
-  line-height: 1.4;
-  flex: 1;
-}
-.oc2 .resource-card .card-excerpt {
-  font-size: 13px;
-  color: var(--grey-mid);
-  line-height: 1.65;
-}
-.oc2 .resource-card .card-more {
-  font-size: 12.5px;
-  font-weight: 700;
-  color: #9a7300;
-  margin-top: 4px;
-}
-
 .oc2 .highlight-band {
   background: var(--yellow);
   border-radius: 10px;
@@ -284,13 +239,36 @@ show_call_box: true
     <p class="page-hero-sub">Welcome to the LDT4SSC hub! Here you'll find the latest news, project updates, events and community highlights. Follow our progress as we build a European network of interoperable Local Digital Twins, showcase pilot innovations and share ways to get involved.</p>
   </div>
 
+  <!-- NEWS -->
+  <div class="sec-label">Latest News</div>
+  <h2 class="sec-title">News</h2>
+  <p class="sec-sub">Read project updates and announcements.</p>
+
+  <div class="cards-grid">
+    {% assign news_all = site.services | where: "type", "news" | sort: "date" | reverse %}
+    {% assign news = news_all | limit: 6 %}
+    {% for item in news %}
+    <a href="{{ item.url }}" class="news-card">
+      <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
+      <div class="card-title">{{ item.title }}</div>
+      {% if item.excerpt %}
+      <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
+      {% endif %}
+      <div class="card-more">Read more →</div>
+    </a>
+    {% endfor %}
+  </div>
+
+  <div class="sec-divider"></div>
+
   <!-- EVENTS -->
   <div class="sec-label green">Upcoming &amp; Recent Events</div>
   <h2 class="sec-title">Events</h2>
   <p class="sec-sub">View upcoming and recent events.</p>
 
   <div class="cards-grid">
-    {% assign events = site.services | where: "type", "event" | sort: "event_date" | reverse | limit: 6 %}
+    {% assign events_all = site.services | where: "type", "event" | sort: "event_date" | reverse %}
+    {% assign events = events_all | limit: 6 %}
     {% for item in events %}
     <a href="{{ item.url }}" class="event-card">
       <div class="card-date">
@@ -301,27 +279,6 @@ show_call_box: true
       <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
       {% endif %}
       <div class="card-more">Learn more →</div>
-    </a>
-    {% endfor %}
-  </div>
-
-  <div class="sec-divider"></div>
-
-  <!-- NEWS -->
-  <div class="sec-label">Latest News</div>
-  <h2 class="sec-title">News</h2>
-  <p class="sec-sub">Read project updates and announcements.</p>
-
-  <div class="cards-grid">
-    {% assign news = site.services | where: "type", "news" | sort: "date" | reverse | limit: 6 %}
-    {% for item in news %}
-    <a href="{{ item.url }}" class="news-card">
-      <div class="card-date">{{ item.date | date: "%d %B %Y" }}</div>
-      <div class="card-title">{{ item.title }}</div>
-      {% if item.excerpt %}
-      <div class="card-excerpt">{{ item.excerpt | strip_html | truncatewords: 20 }}</div>
-      {% endif %}
-      <div class="card-more">Read more →</div>
     </a>
     {% endfor %}
   </div>
