@@ -1,7 +1,6 @@
 ---
 layout: fullwidth
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
-banner: /images/banner2updated.jpg
 ---
 
 <style>
@@ -230,7 +229,7 @@ banner: /images/banner2updated.jpg
   margin-top: 4px;
 }
 
-/* OC1 / OC3 accent colours */
+/* OC1 / OC2 / OC3 accent colours */
 .oc2 .card-oc1 { border-left-color: var(--blue); }
 .oc2 .card-oc2 { border-left-color: var(--green); }
 .oc2 .card-oc3 { border-left-color: var(--yellow); }
@@ -277,7 +276,7 @@ banner: /images/banner2updated.jpg
     <div class="sec-label" style="justify-content:center;">LDT4SSC Project</div>
     <h1>Open <span class="accent">Calls</span></h1>
     <p class="page-hero-sub">
-      LDT4SSC is launching three rounds of open calls to fund and support pilot projects across Europe — 
+      LDT4SSC is launching three rounds of open calls to fund and support pilot projects across Europe —
       focusing on resource management, climate resilience and energy efficiency.
     </p>
     <div class="hero-stats">
@@ -291,18 +290,18 @@ banner: /images/banner2updated.jpg
   <div class="sec-label">About the Open Calls</div>
   <div class="intro-block">
     <p>
-      To bring ideas to life, <span class="hl-blue">LDT4SSC</span> is launching three rounds of open calls 
+      To bring ideas to life, <span class="hl-blue">LDT4SSC</span> is launching three rounds of open calls
       to fund and support <span class="hl-green">15–20 pilot projects across Europe</span>.
     </p>
     <p>
-      These pilots will focus on critical areas such as 
-      <span class="hl-green">resource management</span>, 
-      <span class="hl-green">climate resilience</span> and 
-      <span class="hl-green">energy efficiency</span>, 
+      These pilots will focus on critical areas such as
+      <span class="hl-green">resource management</span>,
+      <span class="hl-green">climate resilience</span> and
+      <span class="hl-green">energy efficiency</span>,
       developing AI-driven services tailored to local needs.
     </p>
     <p>
-      By connecting solutions across sectors and borders, the pilots will help create 
+      By connecting solutions across sectors and borders, the pilots will help create
       a <span class="hl-blue">unified digital ecosystem</span> that can be scaled and replicated across Europe.
     </p>
   </div>
@@ -350,15 +349,16 @@ banner: /images/banner2updated.jpg
     <div class="call-card-head">
       <div>
         <span class="call-tag call-tag-yellow">Open Call 3</span>
-        <h3>Creating &amp; Enhancing Local Digital Twins</h3>
+        <h3>Interconnecting, Creating &amp; Enhancing Local Digital Twins</h3>
         <div class="call-meta"><strong>Work Strands:</strong></div>
         <ul class="call-strands">
+          <li>Work Strand 1 – Inter-connection of existing Local Digital Twins</li>
           <li>Work Strand 2 – Creation of LDTs based on common needs</li>
           <li>Work Strand 3 – Adding new and advanced AI services to the EU LDT Toolbox</li>
         </ul>
         <div class="call-meta" style="margin-top:12px;"><strong>Launch date:</strong> 13 May 2026</div>
       </div>
-      <span class="call-coming">More info coming soon</span>
+      <a href="https://ldt4ssc.eu/call-three/" class="call-link" style="background: #9a7300;">More information →</a>
     </div>
   </div>
 
