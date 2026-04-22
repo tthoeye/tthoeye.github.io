@@ -102,7 +102,7 @@ permalink: /call-three/
 .oc2 .stat-lbl { font-size: 11px; color: var(--grey-mid); margin-top: 3px; text-transform: uppercase; letter-spacing: 0.06em; }
 .oc2 .hero-diagram svg { width: 100%; height: auto; display: block; }
 
-.oc2 .strands-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 18px; margin-bottom: 36px; }
+.oc2 .strands-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; margin-bottom: 36px; }
 .oc2 .why-grid     { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
 .oc2 .two-col      { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
 .oc2 .cta-grid     { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
@@ -215,7 +215,7 @@ permalink: /call-three/
 <div class="oc2" style="padding-top: 40px; padding-bottom: 56px;">
 
   <div class="banner">
-    📅 Open Call 3 launches on <strong>13 May 2026</strong> — More information coming soon
+    Open Call 3 launches on <strong>13 May 2026</strong> — More information coming soon
   </div>
 
   <div class="hero">
@@ -228,9 +228,9 @@ permalink: /call-three/
         <a href="https://ldt4ssc.eu/faq/" class="btn btn-outline">Visit Helpdesk &amp; FAQ</a>
       </div>
       <div class="hero-stats">
+        <div class="stat"><div class="stat-val">WS 1</div><div class="stat-lbl">Work Strand 1</div></div>
         <div class="stat"><div class="stat-val">WS 2</div><div class="stat-lbl">Work Strand 2</div></div>
         <div class="stat"><div class="stat-val">WS 3</div><div class="stat-lbl">Work Strand 3</div></div>
-        <div class="stat"><div class="stat-val">13 May</div><div class="stat-lbl">Launch Date</div></div>
       </div>
     </div>
     <div class="hero-diagram">
@@ -265,9 +265,14 @@ permalink: /call-three/
 
   <div class="sec-label">Open Call 3</div>
   <h2 class="sec-title">What is Open Call 3?</h2>
-  <p class="sec-sub">Open Call 3 focuses on creating and enhancing Local Digital Twins — inviting applications across Work Strands 2 and 3 to build new LDTs and advance AI-powered capabilities in the EU LDT Toolbox.</p>
+  <p class="sec-sub">Open Call 3 covers all three Work Strands — interconnecting existing Local Digital Twins, creating new ones, and advancing AI-powered capabilities in the EU LDT Toolbox.</p>
 
   <div class="strands-grid">
+    <div class="strand-intro">
+      <div class="strand-num">01</div>
+      <h3>Work Strand 1</h3>
+      <p>Interconnecting existing Local Digital Twins for cross-border data exchange, shared services and interoperability.</p>
+    </div>
     <div class="strand-intro">
       <div class="strand-num">02</div>
       <h3>Work Strand 2</h3>
@@ -283,10 +288,9 @@ permalink: /call-three/
   <div class="sec-divider"></div>
 
   <div class="coming-soon-card">
-    <div class="cs-icon">🔔</div>
     <div class="cs-badge">Launching 13 May 2026</div>
     <h2>Full details coming soon</h2>
-    <p style="color:#fff;">Application documents, eligibility criteria, funding amounts, and submission guidelines will be published at launch on 13 May 2026. Subscribe to be notified the moment the call opens.</p>
+    <p style="color:#fff;">Eligibility criteria, funding amounts, and submission guidelines will be published at launch on 13 May 2026. Subscribe to be notified the moment the call opens.</p>
     <a href="https://shorturl.at/pzMGK" class="btn btn-yellow">Subscribe for Updates</a>
   </div>
 
@@ -296,10 +300,10 @@ permalink: /call-three/
     <div class="sec-label">Benefits</div>
     <h2 class="sec-title">Why apply?</h2>
     <div class="why-grid">
-      <div class="why-card"><div class="why-icon wi-blue">🏙</div><div class="why-body"><h3>01. Build New Digital Twins</h3><p>Create Local Digital Twins from the ground up to address shared urban and regional challenges across European communities.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-yellow">💶</div><div class="why-body"><h3>02. Secure Financial Support</h3><p>Access substantial EU funding through the Digital Europe Programme to de-risk innovation and pilot new solutions.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-blue">🧰</div><div class="why-body"><h3>03. Access the EU LDT Toolbox</h3><p>Build on open-source specifications and tools developed within the LDT4SSC project ecosystem.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-green">🤖</div><div class="why-body"><h3>04. Advance AI Capabilities</h3><p>Contribute cutting-edge AI services that simulate future scenarios and enhance decision-making for smart communities.</p></div></div>
+      <div class="why-card"><div class="why-icon wi-blue"></div><div class="why-body"><h3>01. Interconnect &amp; Build Digital Twins</h3><p>Connect existing LDTs or create new ones from the ground up to address shared urban and regional challenges across European communities.</p></div></div>
+      <div class="why-card"><div class="why-icon wi-yellow"></div><div class="why-body"><h3>02. Secure Financial Support</h3><p>Access substantial EU funding through the Digital Europe Programme to de-risk innovation and pilot new solutions.</p></div></div>
+      <div class="why-card"><div class="why-icon wi-blue"></div><div class="why-body"><h3>03. Access the EU LDT Toolbox</h3><p>Build on open-source specifications and tools developed within the LDT4SSC project ecosystem.</p></div></div>
+      <div class="why-card"><div class="why-icon wi-green"></div><div class="why-body"><h3>04. Advance AI Capabilities</h3><p>Contribute cutting-edge AI services that simulate future scenarios and enhance decision-making for smart communities.</p></div></div>
     </div>
   </div>
 
@@ -311,7 +315,7 @@ permalink: /call-three/
         <div class="tl-dot"></div>
         <div class="tl-date">13 May 2026</div>
         <div class="tl-title">Launch</div>
-        <div class="tl-desc">Application portal opens; all documents available for download</div>
+        <div class="tl-desc">Applications open and all documents become available</div>
       </div>
       <div class="tl-item">
         <div class="tl-dot"></div>
@@ -339,17 +343,16 @@ permalink: /call-three/
         <p style="margin-top: 14px; font-size: 13.5px; color: var(--grey-mid);">In the meantime, review the Open Call 2 materials to familiarise yourself with the programme structure and requirements.</p>
         <div class="info-btns" style="margin-top:22px;">
           <a href="https://shorturl.at/pzMGK" class="btn btn-blue">Subscribe for Updates</a>
-          <a href="/call-two/" class="btn btn-outline">← View Open Call 2</a>
         </div>
       </div>
       <div class="glance">
         <div class="glance-head">Call at a glance</div>
         <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-upcoming">● Upcoming</span></div>
         <div class="glance-row"><span class="gr-key">Programme</span><span class="gr-val">Digital Europe (DEP)</span></div>
-        <div class="glance-row"><span class="gr-key">Work Strands</span><span class="gr-val">WS 2 &amp; WS 3</span></div>
+        <div class="glance-row"><span class="gr-key">Work Strands</span><span class="gr-val">WS 1, WS 2 &amp; WS 3</span></div>
         <div class="glance-row"><span class="gr-key">Max per consortium</span><span class="gr-val">TBC at launch</span></div>
         <div class="glance-row"><span class="gr-key">Launch date</span><span class="gr-val">13 May 2026</span></div>
-        <div class="glance-row"><span class="gr-key">Submission deadline</span><span class="gr-val gr-urgent">13 Jul 2026</span></div>
+        <div class="glance-row"><span class="gr-key">Submission deadline</span><span class="gr-val">13 Jul 2026</span></div>
       </div>
     </div>
   </div>
