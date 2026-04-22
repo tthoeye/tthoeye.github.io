@@ -120,10 +120,11 @@ permalink: /call-three/
 
 .oc2 .why-card { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 10px; padding: 24px; display: flex; gap: 16px; align-items: flex-start; transition: border-color 0.2s, box-shadow 0.2s; }
 .oc2 .why-card:hover { border-color: var(--blue-mid); box-shadow: 0 4px 16px rgba(31,117,214,0.09); }
-.oc2 .why-icon { width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; flex-shrink: 0; }
+.oc2 .why-icon { width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
 .oc2 .wi-blue   { background: var(--blue-tint); }
 .oc2 .wi-green  { background: var(--green-tint); }
 .oc2 .wi-yellow { background: var(--yellow-tint); }
+.oc2 .wi-grey   { background: var(--grey-pale); }
 .oc2 .why-body h3 { font-size: 15px !important; font-weight: 700; color: var(--ink); margin-bottom: 5px !important; }
 .oc2 .why-body p  { font-size: 13.5px; color: var(--grey-mid); line-height: 1.7; }
 
@@ -140,7 +141,6 @@ permalink: /call-three/
   color: #fff;
   margin-bottom: 24px;
 }
-.oc2 .coming-soon-card .cs-icon { font-size: 48px; margin-bottom: 16px; }
 .oc2 .coming-soon-card h2 { font-size: clamp(22px, 2.5vw, 30px) !important; font-weight: 700; color: #fff !important; margin-bottom: 12px !important; }
 .oc2 .coming-soon-card p { font-size: 15px; opacity: 0.8; line-height: 1.7; max-width: 560px; margin: 0 auto 28px; }
 .oc2 .coming-soon-card .cs-badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1.5px solid rgba(255,255,255,0.3); color: #fff; font-size: 13px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 8px 18px; border-radius: 100px; margin-bottom: 28px; }
@@ -168,7 +168,7 @@ permalink: /call-three/
 .oc2 .glance-row:last-child { border-bottom: none; }
 .oc2 .gr-key { color: var(--grey-mid); }
 .oc2 .gr-val { font-weight: 700; color: var(--ink); }
-.oc2 .gr-open   { color: var(--green) !important; }
+.oc2 .gr-open     { color: var(--green) !important; }
 .oc2 .gr-upcoming { color: var(--blue) !important; }
 
 .oc2 .contact-card { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); border-radius: 12px; padding: 36px; }
@@ -300,10 +300,30 @@ permalink: /call-three/
     <div class="sec-label">Benefits</div>
     <h2 class="sec-title">Why apply?</h2>
     <div class="why-grid">
-      <div class="why-card"><div class="why-icon wi-blue"></div><div class="why-body"><h3>01. Interconnect &amp; Build Digital Twins</h3><p>Connect existing LDTs or create new ones from the ground up to address shared urban and regional challenges across European communities.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-yellow"></div><div class="why-body"><h3>02. Secure Financial Support</h3><p>Access substantial EU funding through the Digital Europe Programme to de-risk innovation and pilot new solutions.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-blue"></div><div class="why-body"><h3>03. Access the EU LDT Toolbox</h3><p>Build on open-source specifications and tools developed within the LDT4SSC project ecosystem.</p></div></div>
-      <div class="why-card"><div class="why-icon wi-green"></div><div class="why-body"><h3>04. Advance AI Capabilities</h3><p>Contribute cutting-edge AI services that simulate future scenarios and enhance decision-making for smart communities.</p></div></div>
+      <div class="why-card">
+        <div class="why-icon wi-blue">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F75D6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="4"/><circle cx="17" cy="15" r="4"/><line x1="12.5" y1="11.5" x2="13.5" y2="13.5"/></svg>
+        </div>
+        <div class="why-body"><h3>01. Interconnect &amp; Build Digital Twins</h3><p>Connect existing LDTs or create new ones from the ground up to address shared urban and regional challenges across European communities.</p></div>
+      </div>
+      <div class="why-card">
+        <div class="why-icon wi-yellow">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#b07f00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-4 0v2"/><path d="M8 7V5a2 2 0 0 0-4 0v2"/><line x1="12" y1="12" x2="12" y2="16"/><line x1="10" y1="14" x2="14" y2="14"/></svg>
+        </div>
+        <div class="why-body"><h3>02. Secure Financial Support</h3><p>Access substantial EU funding through the Digital Europe Programme to de-risk innovation and pilot new solutions.</p></div>
+      </div>
+      <div class="why-card">
+        <div class="why-icon wi-green">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#29A329" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M17.5 14v3m0 3v.01M14 17.5h3m3 0h.01"/></svg>
+        </div>
+        <div class="why-body"><h3>03. Access the EU LDT Toolbox</h3><p>Build on open-source specifications and tools developed within the LDT4SSC project ecosystem.</p></div>
+      </div>
+      <div class="why-card">
+        <div class="why-icon wi-grey">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#4C5562" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a4 4 0 0 1 4 4c0 1.5-.8 2.8-2 3.5V12l3 3-3 1v2l-2-1-2 1v-2l-3-1 3-3V9.5A4 4 0 0 1 8 6a4 4 0 0 1 4-4z"/><path d="M9 18c-2 .5-4 1.5-4 3h14c0-1.5-2-2.5-4-3"/></svg>
+        </div>
+        <div class="why-body"><h3>04. Advance AI Capabilities</h3><p>Contribute cutting-edge AI services that simulate future scenarios and enhance decision-making for smart communities.</p></div>
+      </div>
     </div>
   </div>
 
@@ -340,7 +360,6 @@ permalink: /call-three/
         <div class="sec-label" style="margin-bottom:8px;">Resources</div>
         <h2>Open Call 3 – Info Session</h2>
         <p>An information session will be held ahead of the launch on 13 May 2026. Slides and recording will be made available here once published.</p>
-        <p style="margin-top: 14px; font-size: 13.5px; color: var(--grey-mid);">In the meantime, review the Open Call 2 materials to familiarise yourself with the programme structure and requirements.</p>
         <div class="info-btns" style="margin-top:22px;">
           <a href="https://shorturl.at/pzMGK" class="btn btn-blue">Subscribe for Updates</a>
         </div>
