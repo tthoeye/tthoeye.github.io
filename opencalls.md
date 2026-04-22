@@ -6,11 +6,12 @@ description: The Local Digital Twins for Smart Communities project (LDT4SSC) sup
 <style>
 /* ── Break out of col-md-8 and stretch full row width ── */
 .oc2-escape {
+  position: relative;
+  left: 50%;
+  right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  left: 50%;
-  right: 50%;
 }
 
 /* ── All styles scoped to .oc2 ── */
@@ -209,23 +210,6 @@ description: The Local Digital Twins for Smart Communities project (LDT4SSC) sup
   margin-top: 4px;
 }
 .oc2 .call-link:hover { filter: brightness(1.1); transform: translateY(-1px); }
-
-.oc2 .call-coming {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  background: var(--grey-tint);
-  color: var(--grey-mid) !important;
-  font-size: 13.5px;
-  font-weight: 700;
-  padding: 10px 18px;
-  border-radius: 6px;
-  border: 1.5px solid var(--grey-pale);
-  white-space: nowrap;
-  flex-shrink: 0;
-  align-self: flex-start;
-  margin-top: 4px;
-}
 
 /* OC1 / OC2 / OC3 accent colours */
 .oc2 .card-oc1 { border-left-color: var(--blue); }
