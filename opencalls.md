@@ -6,11 +6,13 @@ description: The Local Digital Twins for Smart Communities project (LDT4SSC) sup
 <style>
 /* ── Break out of col-md-8 and stretch full row width ── */
 .oc2-escape {
+  position: relative;
+  left: 50%;
+  right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  left: 50%;
-  right: 50%;
+  z-index: 0;
 }
 
 /* ── All styles scoped to .oc2 ── */
