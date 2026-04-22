@@ -1,6 +1,7 @@
 ---
 layout: fullwidth
 permalink: /call-three/
+banner: /images/bannercall3.jpg
 ---
 
 <style>
