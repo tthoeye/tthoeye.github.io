@@ -179,7 +179,6 @@ banner: /images/bannercall3.jpg
     <h1>Local Digital Twins for <span class="accent">Smart and Sustainable</span> Communities</h1>
     <p class="hero-sub">LDT4SSC supports cities, regions and public authorities across Europe in developing, connecting and advancing Local Digital Twins — enabling AI-supported decision making for a greener, more inclusive future.</p>
     <div class="hero-btns">
-      <a href="/call-two/" class="btn btn-blue">View Open Call 2</a>
       <a href="/call-three/" class="btn btn-green">View Open Call 3</a>
       <a href="/faq/" class="btn btn-yellow">Helpdesk &amp; FAQ</a>
     </div>
@@ -234,7 +233,7 @@ banner: /images/bannercall3.jpg
         <div class="call-meta" style="margin-bottom: 16px; color: var(--grey-mid);">
           <span>Status: <strong>Closed</strong></span>
         </div>
-        <a href="/opencalls/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Open Calls</a>
+        <a href="https://ldt4ssc.eu/call-one/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Call 1</a>
       </div>
     </div>
     <div class="call-card call-card-tint" style="background: var(--grey-tint); border: 1.5px solid var(--grey-pale);">
