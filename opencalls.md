@@ -1,9 +1,13 @@
 ---
 layout: fullwidth
 description: The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
+banner: /images/bannercall3.jpg
 ---
 
 <style>
+/* ── Force nav dropdowns above page content ── */
+.navbar, nav, header, .site-header, .nav-wrapper { z-index: 9999 !important; }
+
 /* ── Break out of col-md-8 and stretch full row width ── */
 .oc2-escape {
   position: relative;
