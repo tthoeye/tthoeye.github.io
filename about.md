@@ -479,7 +479,6 @@ bodyClass: page-about
   <div class="partners-grid">
     <a href="https://oascities.org"          class="partner-cell"><img src="../images/partners/oasc.png"           alt="OASC"></a>
     <a href="https://www.list.lu"            class="partner-cell"><img src="../images/partners/list.png"           alt="LIST"></a>
-    <a href="https://www.fiware.org"         class="partner-cell"><img src="../images/partners/fiware.png"         alt="FIWARE"></a>
     <a href="https://www.kereval.com"        class="partner-cell"><img src="../images/partners/kereval.png"        alt="Kereval"></a>
     <a href="https://taltech.ee"             class="partner-cell"><img src="../images/partners/taltech.png"        alt="TalTech"></a>
     <a href="https://enoll.org"              class="partner-cell"><img src="../images/partners/enoll.svg"          alt="ENoLL"></a>
