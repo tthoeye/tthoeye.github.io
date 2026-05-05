@@ -216,7 +216,7 @@ bodyClass: page-about
 /* ── PARTNERS ── */
 .oc2 .partners-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2px;
   background: var(--grey-pale);
   border: 1.5px solid var(--grey-pale);
@@ -304,7 +304,7 @@ bodyClass: page-about
 /* ── RESPONSIVE ── */
 @media (max-width: 900px) {
   .oc2 .pillars-grid { grid-template-columns: 1fr; }
-  .oc2 .partners-grid { grid-template-columns: repeat(3, 1fr); }
+  .oc2 .partners-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 768px) {
   .oc2 { padding: 0 16px; }
