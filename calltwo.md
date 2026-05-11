@@ -160,8 +160,7 @@ banner: /images/banner2updated.jpg
 .oc2 .strand-card h3 { font-size: 18px !important; font-weight: 700; color: var(--ink); margin-bottom: 5px !important; }
 .oc2 .strand-card .sdesc { font-size: 13.5px; color: var(--grey-mid); line-height: 1.65; }
 .oc2 .doc-grid { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-.oc2 .doc-pill { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; transition: border-color 0.15s, color 0.15s, background 0.15s; }
-.oc2 .doc-pill:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
+.oc2 .doc-pill { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; }
 
 .oc2 .info-left h2 { font-size: 24px !important; font-weight: 700; color: var(--ink); margin-bottom: 10px !important; }
 .oc2 .info-left p  { font-size: 14px; color: var(--grey-mid); line-height: 1.7; margin-bottom: 22px; }
@@ -183,6 +182,25 @@ banner: /images/banner2updated.jpg
 .oc2 .eval-card { background: var(--yellow-tint); border: 1.5px solid var(--yellow-pale); border-radius: 12px; padding: 36px; display: flex; flex-direction: column; }
 .oc2 .eval-card h3 { font-size: 18px !important; font-weight: 700; color: var(--ink); margin-bottom: 8px !important; }
 .oc2 .eval-card p  { font-size: 14px; color: var(--grey-mid); line-height: 1.7; margin-bottom: 26px; flex: 1; }
+.oc2 .eval-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: #b07f00;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.oc2 .eval-label::before {
+  content: '';
+  display: block;
+  width: 22px; height: 2px;
+  background: #b07f00;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
 
 @media (max-width: 768px) {
   .oc2 { padding: 0 16px; }
@@ -203,7 +221,7 @@ banner: /images/banner2updated.jpg
 <div class="oc2" style="padding-top: 40px; padding-bottom: 56px;">
 
   <div class="banner">
-    🔒 Open Call 2 is now <strong>closed</strong>. The deadline was 15 April 2026. Stay tuned for Open Call 3 launching 13 May 2026.
+    Open Call 2 is now <strong>closed</strong>. The deadline was 15 April 2026. Stay tuned for Open Call 3 launching 13 May 2026.
   </div>
 
   <div class="hero">
@@ -288,7 +306,7 @@ banner: /images/banner2updated.jpg
 
   <div class="two-col">
     <div class="funding-card">
-      <h3>💰 What could you get?</h3>
+      <h3>What could you get?</h3>
       <div class="funding-items">
         <div><div class="fi-val">€1,000,000</div><div class="fi-lbl">Max per consortium</div></div>
         <div><div class="fi-val">50%</div><div class="fi-lbl">Co-funding required</div></div>
@@ -297,17 +315,17 @@ banner: /images/banner2updated.jpg
       </div>
     </div>
     <div class="who-card">
-      <h3>👥 Who could apply?</h3>
+      <h3>Who could apply?</h3>
       <div class="who-tags">
-        <span class="who-tag">🏛 Local authorities</span>
-        <span class="who-tag">🏙 Regional authorities</span>
-        <span class="who-tag">🏢 National authorities</span>
-        <span class="who-tag">🏗 Private organisations</span>
-        <span class="who-tag">🚀 SMEs</span>
-        <span class="who-tag">🤝 NGOs</span>
-        <span class="who-tag">🔬 Research institutions</span>
-        <span class="who-tag">🎓 Academia</span>
-        <span class="who-tag">🌱 Not-for-profits</span>
+        <span class="who-tag">Local authorities</span>
+        <span class="who-tag">Regional authorities</span>
+        <span class="who-tag">National authorities</span>
+        <span class="who-tag">Private organisations</span>
+        <span class="who-tag">SMEs</span>
+        <span class="who-tag">NGOs</span>
+        <span class="who-tag">Research institutions</span>
+        <span class="who-tag">Academia</span>
+        <span class="who-tag">Not-for-profits</span>
       </div>
     </div>
   </div>
@@ -335,12 +353,12 @@ banner: /images/banner2updated.jpg
       <div><span class="strand-tag">Work Strand 01</span><h3>Interconnecting Existing Local Digital Twins</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 1 objectives.</p></div>
     </div>
     <div class="doc-grid">
-      <a href="https://ldt4ssc.eu/documents/cpmws1.pdf" class="doc-pill">📄 Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/afws1.docx" class="doc-pill">📝 Application Form</a>
-      <a href="https://ldt4ssc.eu/documents/locws1.docx" class="doc-pill">📋 Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/ocd1.docx" class="doc-pill">🔏 Ownership Declaration</a>
-      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" class="doc-pill">💹 Financial Form</a>
-      <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" class="doc-pill">⚖️ Ethics Assessment</a>
+      <span class="doc-pill">Pilot Manual</span>
+      <span class="doc-pill">Application Form</span>
+      <span class="doc-pill">Letter of Commitment</span>
+      <span class="doc-pill">Ownership Declaration</span>
+      <span class="doc-pill">Financial Form</span>
+      <span class="doc-pill">Ethics Assessment</span>
     </div>
   </div>
 
@@ -349,13 +367,13 @@ banner: /images/banner2updated.jpg
       <div><span class="strand-tag">Work Strand 02</span><h3>Creating New Local Digital Twins Based on Common Needs</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 2 objectives.</p></div>
     </div>
     <div class="doc-grid">
-      <a href="https://ldt4ssc.eu/documents/cpmws2.pdf" class="doc-pill">📄 Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/afws2.docx" class="doc-pill">📝 Application Form</a>
-      <a href="https://ldt4ssc.eu/documents/locws2.docx" class="doc-pill">📋 Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/loiws2.docx" class="doc-pill">🤝 Letter of Intent</a>
-      <a href="https://ldt4ssc.eu/documents/ocd2.docx" class="doc-pill">🔏 Ownership Declaration</a>
-      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" class="doc-pill">💹 Financial Form</a>
-      <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" class="doc-pill">⚖️ Ethics Assessment</a>
+      <span class="doc-pill">Pilot Manual</span>
+      <span class="doc-pill">Application Form</span>
+      <span class="doc-pill">Letter of Commitment</span>
+      <span class="doc-pill">Letter of Intent</span>
+      <span class="doc-pill">Ownership Declaration</span>
+      <span class="doc-pill">Financial Form</span>
+      <span class="doc-pill">Ethics Assessment</span>
     </div>
   </div>
 
@@ -364,12 +382,12 @@ banner: /images/banner2updated.jpg
       <div><span class="strand-tag">Work Strand 03</span><h3>Adding New Advanced AI-Based Capabilities to the LDT Toolbox</h3><p class="sdesc">Ensure all documents are completed, signed, eligibility criteria met and alignment with Work Strand 3 objectives.</p></div>
     </div>
     <div class="doc-grid">
-      <a href="https://ldt4ssc.eu/documents/cpmws3.pdf" class="doc-pill">📄 Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/afws3.docx" class="doc-pill">📝 Application Form</a>
-      <a href="https://ldt4ssc.eu/documents/locws3.docx" class="doc-pill">📋 Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/ocd3.docx" class="doc-pill">🔏 Ownership Declaration</a>
-      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" class="doc-pill">💹 Financial Form</a>
-      <a href="https://ldt4ssc.eu/documents/ethics_and_data_protection_assessment.xlsx" class="doc-pill">⚖️ Ethics Assessment</a>
+      <span class="doc-pill">Pilot Manual</span>
+      <span class="doc-pill">Application Form</span>
+      <span class="doc-pill">Letter of Commitment</span>
+      <span class="doc-pill">Ownership Declaration</span>
+      <span class="doc-pill">Financial Form</span>
+      <span class="doc-pill">Ethics Assessment</span>
     </div>
   </div>
 
@@ -404,16 +422,13 @@ banner: /images/banner2updated.jpg
       <h3>Interested in Open Call 3?</h3>
       <p>Open Call 3 launches on 13 May 2026. Subscribe for updates, find partners or join the stakeholder forum to stay informed.</p>
       <div class="cta-links" style="margin-top:22px;">
-        <a href="https://ldt4ssc.eu/faq/" class="cta-link">❓ Visit our Helpdesk &amp; FAQ</a>
-        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">🤝 Find partners via the Matchmaking Platform</a>
-        <a href="https://shorturl.at/pzMGK" class="cta-link">📬 Subscribe to the newsletter</a>
+        <a href="https://ldt4ssc.eu/faq/" class="cta-link">Visit our Helpdesk &amp; FAQ</a>
+        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">Find partners via the Matchmaking Platform</a>
+        <a href="https://shorturl.at/pzMGK" class="cta-link">Subscribe to the newsletter</a>
       </div>
     </div>
     <div class="eval-card">
-      <div class="sec-label" style="margin-bottom:8px; color:#b07f00;">
-        <span style="width:22px;height:2px;background:#b07f00;display:inline-block;border-radius:2px;flex-shrink:0;"></span>
-        Evaluators
-      </div>
+      <div class="eval-label">Evaluators</div>
       <h3>Interested to apply as an evaluator?</h3>
       <p>Are you an expert in digital twins, smart cities, AI or urban planning? LDT4SSC is looking for qualified evaluators to assess Open Call 2 applications. Contribute your expertise to shape Europe's digital twin ecosystem.</p>
       <a href="https://ldt4ssc.eu/call-evaluators/" class="btn btn-yellow">Learn More →</a>
