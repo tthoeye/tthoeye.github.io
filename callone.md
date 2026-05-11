@@ -41,9 +41,9 @@ banner: /images/banner-call-one.jpg
   --yellow:      #F5B400;
   --yellow-pale: #FDE9A0;
   --yellow-tint: #FFFAE8;
-  --red:         #D9534F;
-  --red-pale:    #F5CCCB;
-  --red-tint:    #FDF0EF;
+  --red:         #4C5562;
+  --red-pale:    #E0E3E8;
+  --red-tint:    #F5F6F8;
   --grey:        #4C5562;
   --grey-mid:    #7D8896;
   --grey-pale:   #E0E3E8;
@@ -175,7 +175,7 @@ banner: /images/banner-call-one.jpg
 }
 .oc2 .stat { padding: 16px 18px; border-right: 1.5px solid var(--red-pale); }
 .oc2 .stat:last-child { border-right: none; }
-.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--red); line-height: 1; }
+.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--grey); line-height: 1; }
 .oc2 .stat-lbl { font-size: 11px; color: var(--grey-mid); margin-top: 3px; text-transform: uppercase; letter-spacing: 0.06em; }
 
 /* Hero diagram */
@@ -294,9 +294,7 @@ banner: /images/banner-call-one.jpg
   background: #fff; border: 1.5px solid var(--grey-pale);
   color: var(--grey) !important; padding: 7px 13px; border-radius: 6px;
   font-size: 13px; font-weight: 700;
-  transition: border-color 0.15s, color 0.15s, background 0.15s;
 }
-.oc2 .doc-pill:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
 .oc2 .submit-pill {
   display: inline-flex; align-items: center; gap: 7px;
   background: var(--yellow); color: var(--ink) !important;
@@ -317,7 +315,7 @@ banner: /images/banner-call-one.jpg
 .oc2 .glance-row:last-child { border-bottom: none; }
 .oc2 .gr-key    { color: var(--grey-mid); }
 .oc2 .gr-val    { font-weight: 700; color: var(--ink); }
-.oc2 .gr-closed { color: var(--red) !important; }
+.oc2 .gr-closed { color: var(--grey) !important; }
 
 /* ── CTA CARDS ── */
 .oc2 .cta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
@@ -336,6 +334,26 @@ banner: /images/banner-call-one.jpg
 .oc2 .eval-card { background: var(--yellow-tint); border: 1.5px solid var(--yellow-pale); border-radius: 12px; padding: 36px; display: flex; flex-direction: column; }
 .oc2 .eval-card h3 { font-size: 18px !important; font-weight: 700; color: var(--ink); margin-bottom: 8px !important; }
 .oc2 .eval-card p  { font-size: 14px; color: var(--grey-mid); line-height: 1.7; margin-bottom: 26px; flex: 1; }
+/* Evaluator label — yellow decorative line */
+.oc2 .eval-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: #b07f00;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.oc2 .eval-label::before {
+  content: '';
+  display: block;
+  width: 22px; height: 2px;
+  background: #b07f00;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
 
 /* ── RESPONSIVE ── */
 @media (max-width: 768px) {
@@ -385,7 +403,7 @@ banner: /images/banner-call-one.jpg
       <svg viewBox="0 0 280 300" xmlns="http://www.w3.org/2000/svg">
         <circle cx="140" cy="135" r="128" fill="#FDF0EF" stroke="#F5CCCB" stroke-width="1"/>
         <circle cx="140" cy="135" r="102" fill="none" stroke="#F5CCCB" stroke-width="1" stroke-dasharray="4 7"/>
-        <g stroke="#D9534F" stroke-width="1.5" opacity="0.4">
+        <g stroke="#7D8896" stroke-width="1.5" opacity="0.4">
           <line x1="140" y1="135" x2="72"  y2="52"/>
           <line x1="140" y1="135" x2="208" y2="52"/>
           <line x1="140" y1="135" x2="46"  y2="170"/>
@@ -410,12 +428,12 @@ banner: /images/banner-call-one.jpg
         <text   x="108" y="237" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#1F75D6">DT</text>
         <circle cx="172" cy="232" r="18" fill="#EBF4FD" stroke="#1F75D6" stroke-width="2"/>
         <text   x="172" y="237" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#1F75D6">DT</text>
-        <circle cx="140" cy="135" r="30" fill="#F5CCCB"/>
-        <circle cx="140" cy="135" r="20" fill="#D9534F" stroke="#fff" stroke-width="2.5"/>
+        <circle cx="140" cy="135" r="30" fill="#E0E3E8"/>
+        <circle cx="140" cy="135" r="20" fill="#4C5562" stroke="#fff" stroke-width="2.5"/>
         <text   x="140" y="139" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#fff">EU</text>
         <g font-family="Arial" font-size="9.5" fill="#4C5562">
           <circle cx="12" cy="278" r="5" fill="#1F75D6"/><text x="22" y="282">Connect existing DTs</text>
-          <circle cx="12" cy="292" r="5" fill="#D9534F"/><text x="22" y="296">EU hub</text>
+          <circle cx="12" cy="292" r="5" fill="#4C5562"/><text x="22" y="296">EU hub</text>
         </g>
       </svg>
     </div>
@@ -461,7 +479,7 @@ banner: /images/banner-call-one.jpg
   <!-- FUNDING + WHO -->
   <div class="two-col">
     <div class="funding-card">
-      <h3>💰 What could you get?</h3>
+      <h3>What could you get?</h3>
       <div class="funding-items">
         <div><div class="fi-val">€1,000,000</div><div class="fi-lbl">Max per consortium</div></div>
         <div><div class="fi-val">50%</div><div class="fi-lbl">Co-funding required</div></div>
@@ -470,17 +488,17 @@ banner: /images/banner-call-one.jpg
       </div>
     </div>
     <div class="who-card">
-      <h3>👥 Who could apply?</h3>
+      <h3>Who could apply?</h3>
       <div class="who-tags">
-        <span class="who-tag">🏛 Local authorities</span>
-        <span class="who-tag">🏙 Regional authorities</span>
-        <span class="who-tag">🏢 National authorities</span>
-        <span class="who-tag">🏗 Private organisations</span>
-        <span class="who-tag">🚀 SMEs</span>
-        <span class="who-tag">🤝 NGOs</span>
-        <span class="who-tag">🔬 Research institutions</span>
-        <span class="who-tag">🎓 Academia</span>
-        <span class="who-tag">🌱 Not-for-profits</span>
+        <span class="who-tag">Local authorities</span>
+        <span class="who-tag">Regional authorities</span>
+        <span class="who-tag">National authorities</span>
+        <span class="who-tag">Private organisations</span>
+        <span class="who-tag">SMEs</span>
+        <span class="who-tag">NGOs</span>
+        <span class="who-tag">Research institutions</span>
+        <span class="who-tag">Academia</span>
+        <span class="who-tag">Not-for-profits</span>
       </div>
     </div>
   </div>
@@ -530,11 +548,11 @@ banner: /images/banner-call-one.jpg
       <a href="mailto:applications@ldt4ssc.eu" class="submit-pill">✉ Submit Application</a>
     </div>
     <div class="doc-grid">
-      <a href="https://ldt4ssc.eu/documents/Call_for_Pilots_Manual_WS1.pdf"        class="doc-pill">📄 Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/ldt4ssc_application_form_ws1.docx"     class="doc-pill">📝 Application Form</a>
-      <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx"              class="doc-pill">📋 Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx"    class="doc-pill">🔏 Ownership Declaration</a>
-      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx"                   class="doc-pill">💹 Financial Form</a>
+      <span class="doc-pill">Pilot Manual</span>
+      <span class="doc-pill">Application Form</span>
+      <span class="doc-pill">Letter of Commitment</span>
+      <span class="doc-pill">Ownership Declaration</span>
+      <span class="doc-pill">Financial Form</span>
     </div>
   </div>
 
@@ -573,16 +591,13 @@ banner: /images/banner-call-one.jpg
       <h3>Learn more, ask questions or join a consortium</h3>
       <p>Reach out to the team, find partners via the matchmaking platform, or subscribe for updates on upcoming calls.</p>
       <div class="cta-links" style="margin-top:22px;">
-        <a href="mailto:info@ldt4ssc.eu" class="cta-link">✉ Email us — info@ldt4ssc.eu</a>
-        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">🤝 Find partners via the Matchmaking Platform</a>
-        <a href="https://shorturl.at/pzMGK" class="cta-link">📬 Subscribe to the newsletter</a>
+        <a href="mailto:info@ldt4ssc.eu" class="cta-link">Email us — info@ldt4ssc.eu</a>
+        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">Find partners via the Matchmaking Platform</a>
+        <a href="https://shorturl.at/pzMGK" class="cta-link">Subscribe to the newsletter</a>
       </div>
     </div>
     <div class="eval-card">
-      <div class="sec-label" style="margin-bottom:8px; color:#b07f00;">
-        <span style="width:22px;height:2px;background:#b07f00;display:inline-block;border-radius:2px;flex-shrink:0;"></span>
-        Evaluators
-      </div>
+      <div class="eval-label">Evaluators</div>
       <h3>Apply as an Evaluator</h3>
       <p>Are you an expert in digital twins, smart cities, AI or urban planning? LDT4SSC is looking for qualified evaluators to assess open call applications. Contribute your expertise to shape Europe's digital twin ecosystem.</p>
       <a href="https://ldt4ssc.eu/call-evaluators/" class="btn btn-yellow">Learn More →</a>
