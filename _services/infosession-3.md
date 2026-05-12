@@ -1,6 +1,6 @@
 ---
 title: "Final Round of Open Calls – LDT4SSC Project Info Session"
-date: 2025-04-20
+date: 2025-05-12
 event_date: 2026-05-22
 event_location: "Online (Zoom Webinar)"
 type: "event"
