@@ -1,6 +1,6 @@
 ---
 title: "Final Round of Open Calls – LDT4SSC Project Info Session"
-date: 2025-05-12
+date: 2025-04-20
 event_date: 2026-05-22
 event_location: "Online (Zoom Webinar)"
 type: "event"
@@ -362,9 +362,6 @@ article > h1:first-of-type {
 </style>
 
 <div class="ev">
-
-  <!-- HERO IMAGE -->
-  <img class="ev-hero-img" src="/images/infosession3.jpg" alt="Info Session: Final Round of Open Calls of the LDT4SSC Project" />
 
   <!-- LABEL -->
   <div class="ev-label">Upcoming Event</div>
