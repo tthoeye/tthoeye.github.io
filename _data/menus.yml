@@ -15,10 +15,10 @@ main:
       - name: "2nd Round of Open Calls: Closed"
         url: "/call-two/"
         weight: 2
-      - name: "3rd Round of Open Calls: Opening soon"
+      - name: "3rd Round of Open Calls: Open"
         url: "/call-three/"
         weight: 3
-      - name: "Open Call for Evaluators"
+      - name: "Open Call for Evaluators: Closed"
         url: "/call-evaluators/"
         weight: 4
   - name: "Matchmaking Platform"
