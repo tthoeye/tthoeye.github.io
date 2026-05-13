@@ -348,7 +348,7 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 01</div>
     <h3>Interconnecting Existing Local Digital Twins</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws1callforpilotsmanualwork.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws1callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
       <a href="/documents/ws1applicationform.docx" class="doc-btn">Application Form</a>
       <a href="/documents/ws1letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
       <a href="/documents/ws1ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
@@ -361,7 +361,7 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 02</div>
     <h3>Creating New Local Digital Twins Based on Common Needs</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws2callforpilotsmanualwork.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws2callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
       <a href="/documents/ws2applicationform.docx" class="doc-btn">Application Form</a>
       <a href="/documents/ws2letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
       <a href="/documents/ws2letterofintent.docx" class="doc-btn">Letter of Intent</a>
@@ -375,10 +375,9 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 03</div>
     <h3>Adding New Advanced AI-Based Capabilities to the LDT Toolbox</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws3callforpilotsmanualwork.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws3callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
       <a href="/documents/ws3applicationform.docx" class="doc-btn">Application Form</a>
       <a href="/documents/ws3letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
-      <a href="/documents/ws3letterofintent.docx" class="doc-btn">Letter of Intent</a>
       <a href="/documents/ws3ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
       <a href="/documents/ws3financialform.xlsx" class="doc-btn">Financial Form</a>
       <a href="/documents/ws3ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
