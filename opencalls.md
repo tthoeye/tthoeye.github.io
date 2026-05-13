@@ -347,7 +347,7 @@ banner: /images/bannercall3.jpg
         </ul>
         <div class="call-meta" style="margin-top:12px;"><strong>Launch date:</strong> 13 May 2026</div>
       </div>
-      <a href="https://ldt4ssc.eu/call-three/" class="call-link" style="background: var(--yellow); color: var(--ink) !important;">More information →</a>
+      <a href="https://ldt4ssc.eu/call-three/" class="call-link" style="background: var(--yellow); color: var(--ink) !important;">View Open Call 3 →</a>
     </div>
   </div>
 
