@@ -399,7 +399,7 @@ article > h1:first-of-type {
   <!-- AGENDA -->
   <div class="ev-body">
     <h3>Agenda</h3>
-    <table class="ev-agenda-table">
+    <table class="ev-agenda-table" style="text-transform: uppercase;">
         <thead>
           <tr>
             <th>Time</th>
