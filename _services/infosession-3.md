@@ -283,6 +283,7 @@ article > h1:first-of-type {
   width: 100%;
   border-collapse: collapse;
   font-size: 13.5px;
+  text-transform: uppercase;
 }
 .ev .ev-agenda-table thead th {
   background: var(--green);
