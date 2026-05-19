@@ -278,50 +278,6 @@ article > h1:first-of-type {
   color: #fff;
 }
 
-/* AGENDA TABLE */
-.ev .ev-agenda-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 13.5px;
-  text-transform: uppercase;
-}
-.ev .ev-agenda-table thead th {
-  background: var(--green);
-  color: #fff;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  padding: 10px 14px;
-  text-align: left;
-}
-.ev .ev-agenda-table thead th:first-child { border-radius: 7px 0 0 0; }
-.ev .ev-agenda-table thead th:last-child  { border-radius: 0 7px 0 0; }
-.ev .ev-agenda-table tbody tr {
-  border-bottom: 1px solid var(--grey-pale);
-}
-.ev .ev-agenda-table tbody td {
-  padding: 10px 14px;
-  vertical-align: top;
-  color: var(--grey);
-  line-height: 1.55;
-}
-.ev .ev-agenda-table .td-time {
-  white-space: nowrap;
-  font-weight: 700;
-  color: var(--blue);
-  width: 60px;
-}
-.ev .ev-agenda-table .td-lead {
-  color: var(--grey-mid);
-  font-size: 12.5px;
-  width: 220px;
-}
-.ev .ev-agenda-table .sub {
-  font-size: 12px;
-  color: var(--grey-mid);
-  margin-top: 3px;
-}
 .ev .ev-agenda-panel { display: none; }
 .ev .ev-agenda-panel.active { display: block; }
 
@@ -399,62 +355,10 @@ article > h1:first-of-type {
   <!-- AGENDA -->
   <div class="ev-body">
     <h3>Agenda</h3>
-    <table class="ev-agenda-table" style="text-transform: uppercase;">
-        <thead>
-          <tr>
-            <th>Time</th>
-            <th>Agenda Item</th>
-            <th>Lead</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">15 min</td>
-            <td>
-              <strong>Welcome and Introduction</strong>
-              <div class="sub">Introduction to LDT4SSC · Introduction to Work Strand 1, 2 and 3 Objectives and Targets</div>
-            </td>
-            <td class="td-lead">OASC &amp; Technopolis Group<div class="sub">Karl-Filip Coenegrachts · Laura Galante</div></td>
-          </tr>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">10 min</td>
-            <td>
-              <strong>Presentation WP1 Pilot</strong>
-              <div class="sub">5 min Case Presentation · 5 min Q&amp;A</div>
-            </td>
-            <td class="td-lead">TBD</td>
-          </tr>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">30 min</td>
-            <td>
-              <strong>Application Requirements</strong>
-              <div class="sub">Funding Structure and Financial Support Mechanisms · Application Process and Timeline · Eligibility Criteria · Technical Requirements</div>
-            </td>
-            <td class="td-lead">Technopolis Group &amp; Cerema<div class="sub">Laura Galante · Adriana Badau · Laura Riou</div></td>
-          </tr>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">15 min</td>
-            <td>
-              <strong>Preparing a Proposal</strong>
-              <div class="sub">Dos and Don'ts · Support Material</div>
-            </td>
-            <td class="td-lead">Technopolis Group &amp; OASC<div class="sub">Adriana Badau &amp; Thimo Thoeye</div></td>
-          </tr>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">5 min</td>
-            <td>
-              <strong>Support to Applicants</strong>
-              <div class="sub">Helpdesk · Matchmaking Platform · Newsletter</div>
-            </td>
-            <td class="td-lead">ENoLL<div class="sub">Michelle González Torres</div></td>
-          </tr>
-          <tr style="background:var(--green-tint);">
-            <td class="td-time" style="color:var(--green);">15 min</td>
-            <td><strong>Q&amp;As</strong></td>
-            <td class="td-lead">Moderated by ENoLL</td>
-          </tr>
-        </tbody>
-      </table>
+    <a class="ev-cta" href="documents/info-session-3-agenda.pdf" target="_blank" rel="noopener">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      View the Agenda Here
+    </a>
   </div>
 
   <div class="ev-divider"></div>
