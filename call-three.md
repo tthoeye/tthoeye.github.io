@@ -44,9 +44,39 @@ banner: /images/bannercall3.jpg
   font-size: 13.5px;
   font-weight: 700;
   border-radius: 8px;
-  margin-bottom: 28px;
+  margin-bottom: 12px;
   border: 2px solid var(--green-pale);
 }
+
+.oc2 .banner-yellow {
+  background: var(--yellow-tint);
+  border: 2px solid var(--yellow-pale);
+  border-left: 5px solid var(--yellow);
+  border-radius: 8px;
+  margin-bottom: 28px;
+  padding: 11px 20px;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.oc2 .banner-yellow a {
+  background: var(--yellow);
+  color: var(--ink) !important;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: filter 0.15s;
+}
+.oc2 .banner-yellow a:hover { filter: brightness(1.08); }
 
 .oc2 .sec-label {
   font-size: 11px;
@@ -204,6 +234,7 @@ banner: /images/bannercall3.jpg
   .oc2 .tl-item { padding-top: 0; padding-left: 24px; padding-bottom: 20px; }
   .oc2 .tl-dot  { top: 2px; left: 0; }
   .oc2 .block   { padding: 24px; }
+  .oc2 .banner-yellow { flex-direction: column; align-items: flex-start; }
 }
 </style>
 
@@ -211,6 +242,11 @@ banner: /images/bannercall3.jpg
 
   <div class="banner">
     Open Call 3 is now <strong>open</strong> — Submit your application by <strong>13 July 2026 · 23:59 CEST</strong>
+  </div>
+
+  <div class="banner-yellow">
+    <span>Looking for consortium partners? Join the <strong>LDT4SSC Matchmaking Event</strong> on <strong>11 June 2026, 10:30–12:30 CET</strong></span>
+    <a href="https://ldt4ssc.eu/services/matchmaking-three/">Register Now &rarr;</a>
   </div>
 
   <div class="hero">
@@ -396,7 +432,7 @@ banner: /images/bannercall3.jpg
       </div>
       <div class="glance">
         <div class="glance-head">Call at a glance</div>
-        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">● Open</span></div>
+        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">&#9679; Open</span></div>
         <div class="glance-row"><span class="gr-key">Programme</span><span class="gr-val">Digital Europe (DEP)</span></div>
         <div class="glance-row"><span class="gr-key">Work Strands</span><span class="gr-val">WS 1, WS 2 &amp; WS 3</span></div>
         <div class="glance-row"><span class="gr-key">Max per consortium</span><span class="gr-val">€1,000,000</span></div>
