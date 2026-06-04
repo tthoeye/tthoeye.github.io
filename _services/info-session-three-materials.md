@@ -256,11 +256,11 @@ article > h1:first-of-type {
     </div>
     <div class="nw-strand green">
       <div class="strand-num">Work Strand 2</div>
-      <div class="strand-title">Deploying new Local Digital Twin services</div>
+      <div class="strand-title">Creation of LDTs based on common needs</div>
     </div>
     <div class="nw-strand yellow">
       <div class="strand-num">Work Strand 3</div>
-      <div class="strand-title">Deploying AI-based LDT services</div>
+      <div class="strand-title">Adding new and advanced AI services to the EU LDT Toolbox</div>
     </div>
   </div>
 
