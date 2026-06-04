@@ -194,11 +194,14 @@ banner: /images/bannercall3.jpg
 .oc2 .doc-strand.ds-blue   { border-left: 4px solid var(--blue); }
 .oc2 .doc-strand.ds-green  { border-left: 4px solid var(--green); }
 .oc2 .doc-strand.ds-yellow { border-left: 4px solid var(--yellow); }
+.oc2 .doc-strand.ds-grey   { border-left: 4px solid var(--grey-mid); }
 .oc2 .doc-strand-label { font-size: 11px; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; margin-bottom: 6px; }
 .oc2 .ds-blue   .doc-strand-label { color: var(--blue); }
 .oc2 .ds-green  .doc-strand-label { color: var(--green); }
 .oc2 .ds-yellow .doc-strand-label { color: #9a7300; }
+.oc2 .ds-grey   .doc-strand-label { color: var(--grey-mid); }
 .oc2 .doc-strand h3 { font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 14px; }
+.oc2 .doc-strand p.doc-note { font-size: 13px; color: var(--grey-mid); line-height: 1.6; margin-bottom: 14px; }
 .oc2 .doc-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
 .oc2 .doc-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 6px 12px; border-radius: 5px; text-decoration: none; transition: background 0.15s, border-color 0.15s; }
 .oc2 .ds-blue   .doc-btn { background: var(--blue-tint);   border: 1px solid var(--blue-pale);   color: var(--blue) !important; }
@@ -207,6 +210,8 @@ banner: /images/bannercall3.jpg
 .oc2 .ds-green  .doc-btn:hover { background: var(--green-pale);  border-color: var(--green); }
 .oc2 .ds-yellow .doc-btn { background: var(--yellow-tint); border: 1px solid var(--yellow-pale); color: #9a7300 !important; }
 .oc2 .ds-yellow .doc-btn:hover { background: var(--yellow-pale); border-color: var(--yellow); }
+.oc2 .ds-grey   .doc-btn { background: var(--grey-tint);   border: 1px solid var(--grey-pale);   color: var(--grey) !important; }
+.oc2 .ds-grey   .doc-btn:hover { background: var(--grey-pale); border-color: var(--grey-mid); }
 
 .oc2 .cta-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
 .oc2 .cta-card { border-radius: 12px; padding: 32px; display: flex; flex-direction: column; gap: 16px; }
@@ -420,6 +425,15 @@ banner: /images/bannercall3.jpg
     </div>
   </div>
 
+  <div class="doc-strand ds-grey">
+    <div class="doc-strand-label">Additional Document</div>
+    <h3>LDT4SSC Guarantee Form</h3>
+    <p class="doc-note">Required for applicants from non-EU/EEA countries participating under the Digital Europe Programme. Organisations based in EU or EEA member states do not need to submit this form.</p>
+    <div class="doc-buttons">
+      <a href="https://ldt4ssc.eu/documents/LDT4SSC-guarantee.docx" class="doc-btn">Download Guarantee Form</a>
+    </div>
+  </div>
+
   <div class="sec-divider"></div>
 
   <div class="block block-grey" style="margin-bottom: 32px;">
@@ -427,8 +441,18 @@ banner: /images/bannercall3.jpg
       <div>
         <div class="sec-label" style="margin-bottom:8px;">Resources</div>
         <h2 class="sec-title">Open Call 3 – Info Session</h2>
-        <p style="font-size:14px; color:var(--grey-mid); line-height:1.7; margin-bottom:22px;">An information session will be held ahead of the deadline. Slides and recording will be made available here once published.</p>
-        <a href="https://shorturl.at/pzMGK" class="btn btn-blue">Subscribe for Updates</a>
+        <p style="font-size:14px; color:var(--grey-mid); line-height:1.7; margin-bottom:22px;">The Open Call 3 Info Session was held on <strong>22 May 2026</strong>. The recording and presentation slides are available below.</p>
+        <div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:22px;">
+          <a href="https://youtu.be/QBZLbNLpuII" class="btn btn-blue" target="_blank">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8" fill="currentColor" stroke="none"/></svg>
+            Watch Recording
+          </a>
+          <a href="https://ldt4ssc.eu/documents/info-session-three.pdf" class="btn btn-outline" target="_blank">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+            Download Slides
+          </a>
+        </div>
+        <a href="https://shorturl.at/pzMGK" class="btn btn-outline" style="font-size:13px;">Subscribe for Updates</a>
       </div>
       <div class="glance">
         <div class="glance-head">Call at a glance</div>
