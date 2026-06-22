@@ -237,7 +237,7 @@ intro_image_hide_on_mobile: true
       <div class="faq-a"><div class="faq-a-text">No. Information about submitted applications or evaluation outcomes cannot be disclosed before the formal evaluation process is completed.</div></div>
       <div class="faq-sep"></div>
       <div class="faq-q"><div class="faq-q-label">Q4</div><div class="faq-q-text">How many Open Calls are planned in LDT4SSC?</div></div>
-      <div class="faq-a"><div class="faq-a-text">There are five Open Calls planned within the LDT4SSC project. An overview is available on the official LDT4SSC website.</div></div>
+      <div class="faq-a"><div class="faq-a-text">There are three Open Calls planned within the LDT4SSC project. An overview is available on the official LDT4SSC website.</div></div>
     </div>
   </details>
 
