@@ -291,7 +291,7 @@ intro_image_hide_on_mobile: true
       <div class="faq-a"><div class="faq-a-text">Municipalities can use the LORDIMAS framework to assess their digital maturity and readiness for participating in different Work Strands. Completing this assessment is recommended for applying but not mandatory. Applicants can find recommendations on the level of maturity to have upon application and to be achieved by the end of the piloting at the LORDIMAS assessment in the CfP Manual.</div></div>
       <div class="faq-sep"></div>
       <div class="faq-q"><div class="faq-q-label">Q3</div><div class="faq-q-text">What if the timeline of a call does not fit our readiness?</div></div>
-      <div class="faq-a"><div class="faq-a-text">No deadline extensions are provided. However, the LDT4SSC project includes five Open Calls, offering multiple opportunities to apply over time.</div></div>
+      <div class="faq-a"><div class="faq-a-text">No deadline extensions are provided. However, the LDT4SSC project includes three Open Calls, offering multiple opportunities to apply over time.</div></div>
     </div>
   </details>
 
