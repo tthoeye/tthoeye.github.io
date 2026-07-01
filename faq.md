@@ -260,7 +260,7 @@ intro_image_hide_on_mobile: true
   </details>
 
   <!-- 3 -->
-  <details class="faq-item">
+<details class="faq-item">
     <summary class="faq-summary">Eligibility Rules for Applying to the Open Calls</summary>
     <div class="faq-body">
       <div class="faq-q"><div class="faq-q-label">Q1</div><div class="faq-q-text">Is participation in one Work Strand mandatory to apply for another?</div></div>
@@ -277,6 +277,12 @@ intro_image_hide_on_mobile: true
       <div class="faq-sep"></div>
       <div class="faq-q"><div class="faq-q-label">Q5</div><div class="faq-q-text">Can a city with an existing LDT participate in WS2?</div></div>
       <div class="faq-a"><div class="faq-a-text">If you already have an LDT in place, it can serve as a basis to develop new cases in the LDT, by complying with the technical and non-technical requirements of the call and in collaboration with at least one other city or community.</div></div>
+      <div class="faq-sep"></div>
+      <div class="faq-q"><div class="faq-q-label">Q6</div><div class="faq-q-text">Are Swiss entities eligible to apply to LDT4SSC?</div></div>
+      <div class="faq-a"><div class="faq-a-text">No, they are not eligible.</div></div>
+      <div class="faq-sep"></div>
+      <div class="faq-q"><div class="faq-q-label">Q7</div><div class="faq-q-text">What counts as a public authority?</div></div>
+      <div class="faq-a"><div class="faq-a-text">A public authority is any authority at local, regional, or national level applying on behalf of a city or region. This does not only have to be the city authority itself, but it can also be an entity that is majority owned or fully owned by that city, such as a public transport organisation.</div></div>
     </div>
   </details>
 
