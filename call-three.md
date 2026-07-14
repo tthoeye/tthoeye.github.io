@@ -172,7 +172,7 @@ banner: /images/bannercall3.jpg
 .oc2 .doc-strand h3 { font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 14px; }
 .oc2 .doc-strand p.doc-note { font-size: 13px; color: var(--grey-mid); line-height: 1.6; margin-bottom: 14px; }
 .oc2 .doc-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
-.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 6px 12px; border-radius: 5px; cursor: default; pointer-events: none; background: var(--grey-tint) !important; border: 1px solid var(--grey-pale) !important; color: var(--grey-mid) !important; }
+.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; cursor: default; pointer-events: none; }
 
 .oc2 .cta-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
 .oc2 .cta-card { border-radius: 12px; padding: 32px; display: flex; flex-direction: column; gap: 16px; }
