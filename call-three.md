@@ -37,7 +37,7 @@ banner: /images/bannercall3.jpg
 }
 
 .oc2 .banner {
-  background: var(--green-tint);
+  background: var(--grey-tint);
   color: var(--ink);
   text-align: center;
   padding: 11px 20px;
@@ -45,7 +45,7 @@ banner: /images/bannercall3.jpg
   font-weight: 700;
   border-radius: 8px;
   margin-bottom: 28px;
-  border: 2px solid var(--green-pale);
+  border: 2px solid var(--grey-pale);
 }
 
 .oc2 .sec-label {
@@ -90,9 +90,8 @@ banner: /images/bannercall3.jpg
   align-items: center;
   margin-bottom: 40px;
 }
-.oc2 .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--green-pale); border: 1.5px solid var(--green); color: var(--green); font-size: 12px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; margin-bottom: 18px; }
-.oc2 .hero-badge .dot { width: 7px; height: 7px; background: var(--green); border-radius: 50%; animation: pulse 1.5s infinite; }
-@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+.oc2 .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--grey-pale); border: 1.5px solid var(--grey-mid); color: var(--grey-mid); font-size: 12px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; margin-bottom: 18px; }
+.oc2 .hero-badge .dot { width: 7px; height: 7px; background: var(--grey-mid); border-radius: 50%; }
 .oc2 .hero h1 { font-family: Arial, Helvetica, sans-serif !important; font-size: clamp(26px, 3vw, 44px) !important; font-weight: 700 !important; color: var(--ink) !important; line-height: 1.1 !important; margin-bottom: 16px !important; border: none !important; padding: 0 !important; }
 .oc2 .hero h1 .accent { color: var(--blue); }
 .oc2 .hero-sub { font-size: 15px; color: var(--grey); line-height: 1.7; margin-bottom: 28px; }
@@ -158,9 +157,9 @@ banner: /images/bannercall3.jpg
 .oc2 .glance-row:last-child { border-bottom: none; }
 .oc2 .gr-key { color: var(--grey-mid); }
 .oc2 .gr-val { font-weight: 700; color: var(--ink); }
-.oc2 .gr-open { color: var(--green) !important; }
+.oc2 .gr-closed { color: var(--grey-mid) !important; }
 
-.oc2 .doc-strand { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 10px; padding: 24px 28px; margin-bottom: 16px; }
+.oc2 .doc-strand { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 10px; padding: 24px 28px; margin-bottom: 16px; opacity: 0.75; }
 .oc2 .doc-strand.ds-blue   { border-left: 4px solid var(--blue); }
 .oc2 .doc-strand.ds-green  { border-left: 4px solid var(--green); }
 .oc2 .doc-strand.ds-yellow { border-left: 4px solid var(--yellow); }
@@ -173,15 +172,7 @@ banner: /images/bannercall3.jpg
 .oc2 .doc-strand h3 { font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 14px; }
 .oc2 .doc-strand p.doc-note { font-size: 13px; color: var(--grey-mid); line-height: 1.6; margin-bottom: 14px; }
 .oc2 .doc-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
-.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 6px 12px; border-radius: 5px; text-decoration: none; transition: background 0.15s, border-color 0.15s; }
-.oc2 .ds-blue   .doc-btn { background: var(--blue-tint);   border: 1px solid var(--blue-pale);   color: var(--blue) !important; }
-.oc2 .ds-blue   .doc-btn:hover { background: var(--blue-pale);   border-color: var(--blue-mid); }
-.oc2 .ds-green  .doc-btn { background: var(--green-tint);  border: 1px solid var(--green-pale);  color: var(--green) !important; }
-.oc2 .ds-green  .doc-btn:hover { background: var(--green-pale);  border-color: var(--green); }
-.oc2 .ds-yellow .doc-btn { background: var(--yellow-tint); border: 1px solid var(--yellow-pale); color: #9a7300 !important; }
-.oc2 .ds-yellow .doc-btn:hover { background: var(--yellow-pale); border-color: var(--yellow); }
-.oc2 .ds-grey   .doc-btn { background: var(--grey-tint);   border: 1px solid var(--grey-pale);   color: var(--grey) !important; }
-.oc2 .ds-grey   .doc-btn:hover { background: var(--grey-pale); border-color: var(--grey-mid); }
+.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 6px 12px; border-radius: 5px; cursor: default; pointer-events: none; background: var(--grey-tint) !important; border: 1px solid var(--grey-pale) !important; color: var(--grey-mid) !important; }
 
 .oc2 .cta-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
 .oc2 .cta-card { border-radius: 12px; padding: 32px; display: flex; flex-direction: column; gap: 16px; }
@@ -215,17 +206,17 @@ banner: /images/bannercall3.jpg
 <div class="oc2" style="padding-top: 40px; padding-bottom: 56px;">
 
   <div class="banner">
-    Open Call 3 is now <strong>open</strong> — Submit your application by <strong>13 July 2026 · 23:59 CEST</strong>
+    Open Call 3 is now <strong>closed</strong>. The deadline was 13 July 2026.
   </div>
 
   <div class="hero">
     <div>
-      <div class="hero-badge"><span class="dot"></span> Open Call 3 · Status: Open</div>
+      <div class="hero-badge"><span class="dot"></span> Open Call 3 · Status: Closed</div>
       <h1>Third Round of <span class="accent">Open Calls</span></h1>
-      <p class="hero-sub">The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its third Open Call across all three Work Strands — interconnecting, creating and enhancing Local Digital Twins across Europe.</p>
+      <p class="hero-sub">The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invited applications for its third Open Call across all three Work Strands — interconnecting, creating and enhancing Local Digital Twins across Europe. This call is now closed.</p>
       <div class="hero-btns">
-        <a href="mailto:applications@ldt4ssc.eu" class="btn btn-green">Apply Now</a>
-        <a href="https://ldt4ssc.eu/faq/" class="btn btn-outline">Visit Helpdesk &amp; FAQ</a>
+        <a href="https://ldt4ssc.eu/documents/info-session-three.pdf" class="btn btn-blue" target="_blank">Download Slides</a>
+        <a href="https://youtu.be/QBZLbNLpuII" class="btn btn-outline" target="_blank">Watch Webinar</a>
       </div>
       <div class="hero-stats">
         <div class="stat"><div class="stat-val">€1M</div><div class="stat-lbl">Max / Consortium</div></div>
@@ -264,8 +255,8 @@ banner: /images/bannercall3.jpg
   </div>
 
   <div class="sec-label">Open Call 3</div>
-  <h2 class="sec-title">What is Open Call 3?</h2>
-  <p class="sec-sub">Open Call 3 covers all three Work Strands — interconnecting existing Local Digital Twins, creating new ones, and advancing AI-powered capabilities in the EU LDT Toolbox.</p>
+  <h2 class="sec-title">What was Open Call 3?</h2>
+  <p class="sec-sub">Open Call 3 covered all three Work Strands — interconnecting existing Local Digital Twins, creating new ones, and advancing AI-powered capabilities in the EU LDT Toolbox. This call is now closed.</p>
 
   <div class="strands-grid">
     <div class="strand-intro si-blue">
@@ -320,19 +311,19 @@ banner: /images/bannercall3.jpg
 
   <div class="block block-blue">
     <div class="sec-label">Key Dates</div>
-    <h2 class="sec-title">What to remember?</h2>
+    <h2 class="sec-title">Timeline</h2>
     <div class="timeline">
       <div class="tl-item">
         <div class="tl-dot"></div>
         <div class="tl-date">13 May 2026</div>
         <div class="tl-title">Launch</div>
-        <div class="tl-desc">Applications open and all documents available for download</div>
+        <div class="tl-desc">Application portal opened; all documents available for download</div>
       </div>
       <div class="tl-item">
         <div class="tl-dot"></div>
         <div class="tl-date">13 July 2026 · 23:59 CEST</div>
-        <div class="tl-title">Deadline</div>
-        <div class="tl-desc">All applications must be submitted to applications@ldt4ssc.eu</div>
+        <div class="tl-title">Deadline (Closed)</div>
+        <div class="tl-desc">Applications were submitted to applications@ldt4ssc.eu</div>
       </div>
       <div class="tl-item">
         <div class="tl-dot"></div>
@@ -345,20 +336,20 @@ banner: /images/bannercall3.jpg
 
   <div class="sec-divider"></div>
 
-  <div class="sec-label">Application Documents</div>
-  <h2 class="sec-title">Download Application Documents</h2>
-  <p class="sec-sub">Ensure all documents are completed, signed, eligibility criteria met and alignment with your chosen Work Strand objectives.</p>
+  <div class="sec-label">Applications</div>
+  <h2 class="sec-title">Application Documents</h2>
+  <p class="sec-sub">This call is now closed. The documents below are available for reference only.</p>
 
   <div class="doc-strand ds-blue">
     <div class="doc-strand-label">Work Strand 01</div>
     <h3>Interconnecting Existing Local Digital Twins</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws1callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
-      <a href="/documents/ws1applicationform.docx" class="doc-btn">Application Form</a>
-      <a href="/documents/ws1letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
-      <a href="/documents/ws1ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
-      <a href="/documents/ws1financialform.xlsx" class="doc-btn">Financial Form</a>
-      <a href="/documents/ws1ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
+      <span class="doc-btn">Pilot Manual</span>
+      <span class="doc-btn">Application Form</span>
+      <span class="doc-btn">Letter of Commitment</span>
+      <span class="doc-btn">Ownership Declaration</span>
+      <span class="doc-btn">Financial Form</span>
+      <span class="doc-btn">Ethics Assessment</span>
     </div>
   </div>
 
@@ -366,13 +357,13 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 02</div>
     <h3>Creating New Local Digital Twins Based on Common Needs</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws2callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
-      <a href="/documents/ws2applicationform.docx" class="doc-btn">Application Form</a>
-      <a href="/documents/ws2letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
-      <a href="/documents/ws2letterofintent.docx" class="doc-btn">Letter of Intent</a>
-      <a href="/documents/ws2ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
-      <a href="/documents/ws2financialform.xlsx" class="doc-btn">Financial Form</a>
-      <a href="/documents/ws2ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
+      <span class="doc-btn">Pilot Manual</span>
+      <span class="doc-btn">Application Form</span>
+      <span class="doc-btn">Letter of Commitment</span>
+      <span class="doc-btn">Letter of Intent</span>
+      <span class="doc-btn">Ownership Declaration</span>
+      <span class="doc-btn">Financial Form</span>
+      <span class="doc-btn">Ethics Assessment</span>
     </div>
   </div>
 
@@ -380,21 +371,21 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 03</div>
     <h3>Adding New Advanced AI-Based Capabilities to the LDT Toolbox</h3>
     <div class="doc-buttons">
-      <a href="/documents/ws3callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
-      <a href="/documents/ws3applicationform.docx" class="doc-btn">Application Form</a>
-      <a href="/documents/ws3letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
-      <a href="/documents/ws3ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
-      <a href="/documents/ws3financialform.xlsx" class="doc-btn">Financial Form</a>
-      <a href="/documents/ws3ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
+      <span class="doc-btn">Pilot Manual</span>
+      <span class="doc-btn">Application Form</span>
+      <span class="doc-btn">Letter of Commitment</span>
+      <span class="doc-btn">Ownership Declaration</span>
+      <span class="doc-btn">Financial Form</span>
+      <span class="doc-btn">Ethics Assessment</span>
     </div>
   </div>
 
   <div class="doc-strand ds-grey">
     <div class="doc-strand-label">Additional Document</div>
     <h3>LDT4SSC Guarantee Form</h3>
-    <p class="doc-note">Required for applicants from non-EU/EEA countries participating under the Digital Europe Programme. Organisations based in EU or EEA member states do not need to submit this form.</p>
+    <p class="doc-note">Required for applicants from non-EU/EEA countries participating under the Digital Europe Programme. Organisations based in EU or EEA member states did not need to submit this form.</p>
     <div class="doc-buttons">
-      <a href="https://ldt4ssc.eu/documents/LDT4SSC-guarantee.docx" class="doc-btn">Download Guarantee Form</a>
+      <span class="doc-btn">Guarantee Form</span>
     </div>
   </div>
 
@@ -404,8 +395,8 @@ banner: /images/bannercall3.jpg
     <div class="info-inner">
       <div>
         <div class="sec-label" style="margin-bottom:8px;">Resources</div>
-        <h2 class="sec-title">Open Call 3 – Info Session</h2>
-        <p style="font-size:14px; color:var(--grey-mid); line-height:1.7; margin-bottom:22px;">The Open Call 3 Info Session was held on <strong>22 May 2026</strong>. The recording and presentation slides are available below.</p>
+        <h2 class="sec-title">Open Call 3 – Info Session Materials</h2>
+        <p style="font-size:14px; color:var(--grey-mid); line-height:1.7; margin-bottom:22px;">The Open Call 3 Info Session was held on <strong>22 May 2026</strong>. The recording and presentation slides remain available below.</p>
         <div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:22px;">
           <a href="https://youtu.be/QBZLbNLpuII" class="btn btn-blue" target="_blank">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8" fill="currentColor" stroke="none"/></svg>
@@ -420,7 +411,7 @@ banner: /images/bannercall3.jpg
       </div>
       <div class="glance">
         <div class="glance-head">Call at a glance</div>
-        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">&#9679; Open</span></div>
+        <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-closed">&#9679; Closed</span></div>
         <div class="glance-row"><span class="gr-key">Programme</span><span class="gr-val">Digital Europe (DEP)</span></div>
         <div class="glance-row"><span class="gr-key">Work Strands</span><span class="gr-val">WS 1, WS 2 &amp; WS 3</span></div>
         <div class="glance-row"><span class="gr-key">Max per consortium</span><span class="gr-val">€1,000,000</span></div>
@@ -442,7 +433,7 @@ banner: /images/bannercall3.jpg
     </div>
     <div class="cta-card cta-card-green">
       <h3>Stay Informed</h3>
-      <p>Subscribe to the newsletter to receive updates on the call, info sessions and project news.</p>
+      <p>Subscribe to the newsletter to receive updates on future opportunities and project news.</p>
       <div class="cta-links">
         <a href="https://shorturl.at/pzMGK" class="cta-link">Subscribe to Newsletter</a>
       </div>
