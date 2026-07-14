@@ -171,7 +171,7 @@ banner: /images/bannercall3.jpg
     <h1>Local Digital Twins for <span class="accent">Smart and Sustainable</span> Communities</h1>
     <p class="hero-sub">LDT4SSC supports cities, regions and public authorities across Europe in developing, connecting and advancing Local Digital Twins — enabling AI-supported decision making for a greener, more inclusive future.</p>
     <div class="hero-btns">
-      <a href="/call-three/" class="btn btn-green">Apply to Open Call 3</a>
+      <a href="/call-three/" class="btn btn-outline">View Call 3 Results</a>
       <a href="/faq/" class="btn btn-yellow">Helpdesk &amp; FAQ</a>
     </div>
     <div class="hero-stats">
@@ -244,18 +244,18 @@ banner: /images/bannercall3.jpg
       </div>
     </div>
 
-    <div class="call-card call-card-open">
+    <div class="call-card call-card-closed">
       <div>
-        <div class="call-badge badge-green"><span class="badge-dot"></span> Open</div>
+        <div class="call-badge badge-closed"><span class="badge-dot"></span> Closed</div>
         <h3>Open Call 3</h3>
-        <p>Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI services to the EU LDT Toolbox.</p>
+        <p>Work Strands 1, 2 and 3 — interconnecting existing Local Digital Twins, creating new ones, and adding advanced AI services to the EU LDT Toolbox. Now closed; selected consortia to be announced.</p>
       </div>
       <div>
         <div class="call-meta" style="margin-bottom: 16px;">
-          <span>Status: <strong>Open</strong></span>
+          <span>Status: <strong>Closed</strong></span>
           <span>Deadline: <strong>13 July 2026</strong></span>
         </div>
-        <a href="/call-three/" class="btn btn-green">Apply Now</a>
+        <a href="/call-three/" class="btn btn-outline" style="font-size:13px; padding: 9px 16px;">View Call 3</a>
       </div>
     </div>
 
