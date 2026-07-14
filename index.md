@@ -170,10 +170,6 @@ banner: /images/bannercall3.jpg
     <div class="sec-label">EU-Funded Project</div>
     <h1>Local Digital Twins for <span class="accent">Smart and Sustainable</span> Communities</h1>
     <p class="hero-sub">LDT4SSC supports cities, regions and public authorities across Europe in developing, connecting and advancing Local Digital Twins — enabling AI-supported decision making for a greener, more inclusive future.</p>
-    <div class="hero-btns">
-      <a href="/call-three/" class="btn btn-outline">View Call 3 Results</a>
-      <a href="/faq/" class="btn btn-yellow">Helpdesk &amp; FAQ</a>
-    </div>
     <div class="hero-stats">
       <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total Funding</div></div>
       <div class="stat"><div class="stat-val">3</div><div class="stat-lbl">Open Calls</div></div>
