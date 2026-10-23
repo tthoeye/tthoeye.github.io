@@ -294,7 +294,9 @@ banner: /images/banner-call-one.jpg
   background: #fff; border: 1.5px solid var(--grey-pale);
   color: var(--grey) !important; padding: 7px 13px; border-radius: 6px;
   font-size: 13px; font-weight: 700;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
 }
+.oc2 .doc-pill:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
 .oc2 .submit-pill {
   display: inline-flex; align-items: center; gap: 7px;
   background: var(--yellow); color: var(--ink) !important;
@@ -548,11 +550,11 @@ banner: /images/banner-call-one.jpg
       <a href="mailto:applications@ldt4ssc.eu" class="submit-pill">✉ Submit Application</a>
     </div>
     <div class="doc-grid">
-      <span class="doc-pill">Pilot Manual</span>
-      <span class="doc-pill">Application Form</span>
-      <span class="doc-pill">Letter of Commitment</span>
-      <span class="doc-pill">Ownership Declaration</span>
-      <span class="doc-pill">Financial Form</span>
+      <a href="https://ldt4ssc.eu/documents/Call_for_Pilots_Manual_WS1.pdf" class="doc-pill">Pilot Manual</a>
+      <a href="https://ldt4ssc.eu/documents/ldt4ssc_application_form_ws1.docx" class="doc-pill">Application Form</a>
+      <a href="https://ldt4ssc.eu/documents/letter_of_commitment.docx" class="doc-pill">Letter of Commitment</a>
+      <a href="https://ldt4ssc.eu/documents/ownership_control_declaration.docx" class="doc-pill">Ownership Declaration</a>
+      <a href="https://ldt4ssc.eu/documents/financial_form.xlsx" class="doc-pill">Financial Form</a>
     </div>
   </div>
 
