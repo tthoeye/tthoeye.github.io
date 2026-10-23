@@ -172,7 +172,8 @@ banner: /images/bannercall3.jpg
 .oc2 .doc-strand h3 { font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 14px; }
 .oc2 .doc-strand p.doc-note { font-size: 13px; color: var(--grey-mid); line-height: 1.6; margin-bottom: 14px; }
 .oc2 .doc-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
-.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; cursor: default; pointer-events: none; }
+.oc2 .doc-btn { display: inline-flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--grey-pale); color: var(--grey) !important; padding: 7px 13px; border-radius: 6px; font-size: 13px; font-weight: 700; transition: border-color 0.15s, color 0.15s, background 0.15s; }
+.oc2 .doc-btn:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
 
 .oc2 .cta-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
 .oc2 .cta-card { border-radius: 12px; padding: 32px; display: flex; flex-direction: column; gap: 16px; }
@@ -344,12 +345,12 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 01</div>
     <h3>Interconnecting Existing Local Digital Twins</h3>
     <div class="doc-buttons">
-      <span class="doc-btn">Pilot Manual</span>
-      <span class="doc-btn">Application Form</span>
-      <span class="doc-btn">Letter of Commitment</span>
-      <span class="doc-btn">Ownership Declaration</span>
-      <span class="doc-btn">Financial Form</span>
-      <span class="doc-btn">Ethics Assessment</span>
+      <a href="/documents/ws1callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws1applicationform.docx" class="doc-btn">Application Form</a>
+      <a href="/documents/ws1letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
+      <a href="/documents/ws1ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
+      <a href="/documents/ws1financialform.xlsx" class="doc-btn">Financial Form</a>
+      <a href="/documents/ws1ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
     </div>
   </div>
 
@@ -357,13 +358,13 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 02</div>
     <h3>Creating New Local Digital Twins Based on Common Needs</h3>
     <div class="doc-buttons">
-      <span class="doc-btn">Pilot Manual</span>
-      <span class="doc-btn">Application Form</span>
-      <span class="doc-btn">Letter of Commitment</span>
-      <span class="doc-btn">Letter of Intent</span>
-      <span class="doc-btn">Ownership Declaration</span>
-      <span class="doc-btn">Financial Form</span>
-      <span class="doc-btn">Ethics Assessment</span>
+      <a href="/documents/ws2callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws2applicationform.docx" class="doc-btn">Application Form</a>
+      <a href="/documents/ws2letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
+      <a href="/documents/ws2letterofintent.docx" class="doc-btn">Letter of Intent</a>
+      <a href="/documents/ws2ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
+      <a href="/documents/ws2financialform.xlsx" class="doc-btn">Financial Form</a>
+      <a href="/documents/ws2ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
     </div>
   </div>
 
@@ -371,12 +372,12 @@ banner: /images/bannercall3.jpg
     <div class="doc-strand-label">Work Strand 03</div>
     <h3>Adding New Advanced AI-Based Capabilities to the LDT Toolbox</h3>
     <div class="doc-buttons">
-      <span class="doc-btn">Pilot Manual</span>
-      <span class="doc-btn">Application Form</span>
-      <span class="doc-btn">Letter of Commitment</span>
-      <span class="doc-btn">Ownership Declaration</span>
-      <span class="doc-btn">Financial Form</span>
-      <span class="doc-btn">Ethics Assessment</span>
+      <a href="/documents/ws3callforpilotsmanual.pdf" class="doc-btn">Pilot Manual</a>
+      <a href="/documents/ws3applicationform.docx" class="doc-btn">Application Form</a>
+      <a href="/documents/ws3letterofcommitment.docx" class="doc-btn">Letter of Commitment</a>
+      <a href="/documents/ws3ownershipcontroldeclaration.docx" class="doc-btn">Ownership Declaration</a>
+      <a href="/documents/ws3financialform.xlsx" class="doc-btn">Financial Form</a>
+      <a href="/documents/ws3ethicsanddataprotectionwork.xlsx" class="doc-btn">Ethics Assessment</a>
     </div>
   </div>
 
@@ -385,7 +386,7 @@ banner: /images/bannercall3.jpg
     <h3>LDT4SSC Guarantee Form</h3>
     <p class="doc-note">Required for applicants from non-EU/EEA countries participating under the Digital Europe Programme. Organisations based in EU or EEA member states did not need to submit this form.</p>
     <div class="doc-buttons">
-      <span class="doc-btn">Guarantee Form</span>
+      <a href="https://ldt4ssc.eu/documents/LDT4SSC-guarantee.docx" class="doc-btn">Guarantee Form</a>
     </div>
   </div>
 
