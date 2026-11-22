@@ -337,7 +337,7 @@ bodyClass: page-about
       <p class="hero-sub">LDT4SSC — short for Local Digital Twins for Smart Sustainable Cities — helps cities meet these challenges by sharing powerful digital tools called Local Digital Twins. Think of them as digital copies of real places. They use data and Artificial Intelligence (AI) to help local governments make smarter, faster decisions — for example, predicting traffic, planning green spaces or improving waste collection.</p>
       <div class="hero-stats">
         <div class="stat"><div class="stat-val">10</div><div class="stat-lbl">Partner organisations</div></div>
-        <div class="stat"><div class="stat-val">2025–28</div><div class="stat-lbl">Project period</div></div>
+        <div class="stat"><div class="stat-val">2025–2028</div><div class="stat-lbl">Project period</div></div>
         <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total funding</div></div>
       </div>
     </div>
@@ -355,13 +355,13 @@ bodyClass: page-about
         </g>
         <!-- city nodes -->
         <circle cx="72"  cy="57"  r="16" fill="#EDF7E8" stroke="#29A329" stroke-width="2"/>
-        <text   x="72"  y="61"  text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#29A329">🏙</text>
+        <text   x="72"  y="61"  text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#29A329">CITY</text>
         <circle cx="208" cy="57"  r="16" fill="#EDF7E8" stroke="#29A329" stroke-width="2"/>
-        <text   x="208" y="61"  text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#29A329">🏙</text>
+        <text   x="208" y="61"  text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#29A329">CITY</text>
         <circle cx="46"  cy="175" r="16" fill="#FFFAE8" stroke="#F5B400" stroke-width="2"/>
-        <text   x="46"  y="179" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#b07f00">🤖</text>
+        <text   x="46"  y="179" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#b07f00">AI</text>
         <circle cx="234" cy="175" r="16" fill="#FFFAE8" stroke="#F5B400" stroke-width="2"/>
-        <text   x="234" y="179" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#b07f00">🤖</text>
+        <text   x="234" y="179" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#b07f00">AI</text>
         <circle cx="108" cy="237" r="16" fill="#EBF4FD" stroke="#1F75D6" stroke-width="2"/>
         <text   x="108" y="241" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#1F75D6">DT</text>
         <circle cx="172" cy="237" r="16" fill="#EBF4FD" stroke="#1F75D6" stroke-width="2"/>
@@ -387,17 +387,14 @@ bodyClass: page-about
 
   <div class="pillars-grid">
     <div class="pillar">
-      <div class="pillar-icon">🌐</div>
       <h3>Linking digital twins across Europe</h3>
       <p>We connect the tools cities already use — like traffic monitors, energy trackers or environmental sensors — into a shared European network. This makes it easier to collaborate, reuse solutions and give smaller communities access to cutting-edge technology.</p>
     </div>
     <div class="pillar pillar-green">
-      <div class="pillar-icon">🏙</div>
       <h3>Testing smart solutions in the real world</h3>
       <p>Through pilot projects, we support local teams to develop and test AI-driven services. These real-life pilots improve everyday life by making public services faster, decision-making smarter and cities more sustainable.</p>
     </div>
     <div class="pillar pillar-yellow">
-      <div class="pillar-icon">🤖</div>
       <h3>Expanding Europe's toolbox with AI innovation</h3>
       <p>We are enriching the EU's Local Digital Twin Toolbox with new AI-powered tools — from prediction models to self-organising systems — so cities can respond to challenges more quickly and effectively.</p>
     </div>
@@ -412,19 +409,15 @@ bodyClass: page-about
     <p class="sec-sub" style="margin-bottom:24px;">Europe's digital transformation is often slowed down by high costs, complex rules and scattered expertise. LDT4SSC helps break down these barriers by:</p>
     <div class="impact-grid">
       <div class="impact-item">
-        <div class="impact-icon">🤝</div>
         <div class="impact-body"><p>Bringing cities together to share solutions</p></div>
       </div>
       <div class="impact-item">
-        <div class="impact-icon">⚖️</div>
         <div class="impact-body"><p>Supporting open, ethical, people-centred technology</p></div>
       </div>
       <div class="impact-item">
-        <div class="impact-icon">📐</div>
         <div class="impact-body"><p>Creating fair digital markets with open standards</p></div>
       </div>
       <div class="impact-item">
-        <div class="impact-icon">🇪🇺</div>
         <div class="impact-body"><p>Working with the European Digital Infrastructure Consortium (EDIC) to build strong, connected systems across borders</p></div>
       </div>
     </div>
@@ -456,8 +449,8 @@ bodyClass: page-about
       </div>
       <div class="tl-item">
         <div class="tl-dot"></div>
-        <div class="tl-date">November 2025 – May 2026</div>
-        <div class="tl-title">Three Open Calls</div>
+        <div class="tl-date">November 2025 – January 2027</div>
+        <div class="tl-title">Four Open Calls</div>
         <div class="tl-desc">Multi-stakeholder consortia invited to propose impactful, real-world use cases</div>
       </div>
       <div class="tl-item">
@@ -495,11 +488,10 @@ bodyClass: page-about
     <div class="contact-card">
       <div class="sec-label" style="margin-bottom:8px;">Get Involved</div>
       <h3>Learn more, ask questions or join a consortium</h3>
-      <p>Reach out to the team, find partners via the matchmaking platform, or subscribe for updates on upcoming open calls.</p>
+      <p>Reach out to the team or subscribe for updates on upcoming open calls.</p>
       <div class="cta-links" style="margin-top:22px;">
-        <a href="https://ldt4ssc.eu/faq/" class="cta-link">❓ Visit our Helpdesk &amp; FAQ</a>
-        <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="cta-link">🤝 Find partners via the Matchmaking Platform</a>
-        <a href="https://shorturl.at/pzMGK" class="cta-link">📬 Subscribe to the newsletter</a>
+        <a href="https://ldt4ssc.eu/faq/" class="cta-link">Visit our Helpdesk &amp; FAQ</a>
+        <a href="https://shorturl.at/pzMGK" class="cta-link">Subscribe to the newsletter</a>
       </div>
     </div>
     <div class="eval-card">
@@ -508,7 +500,7 @@ bodyClass: page-about
         Open Calls
       </div>
       <h3>Apply for Funding</h3>
-      <p>LDT4SSC is running three rounds of open calls, offering up to €1 million per consortium to fund real-world Local Digital Twin pilot projects across Europe.</p>
+      <p>LDT4SSC is running four rounds of open calls, offering up to €1 million per consortium to fund real-world Local Digital Twin pilot projects across Europe.</p>
       <a href="/open-calls/" class="btn btn-yellow">View Open Calls →</a>
     </div>
   </div>
