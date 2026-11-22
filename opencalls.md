@@ -215,10 +215,11 @@ banner: /images/generalbanner.jpg
 }
 .oc2 .call-link:hover { filter: brightness(1.1); transform: translateY(-1px); }
 
-/* OC1 / OC2 / OC3 accent colours */
+/* OC1 / OC2 / OC3 / OC4 accent colours */
 .oc2 .card-oc1 { border-left-color: var(--blue); }
 .oc2 .card-oc2 { border-left-color: var(--green); }
 .oc2 .card-oc3 { border-left-color: var(--yellow); }
+.oc2 .card-oc4 { border-left-color: var(--blue); }
 
 /* ── BUDGET CARDS ── */
 .oc2 .budget-row {
@@ -262,13 +263,13 @@ banner: /images/generalbanner.jpg
     <div class="sec-label" style="justify-content:center;">LDT4SSC Project</div>
     <h1>Open <span class="accent">Calls</span></h1>
     <p class="page-hero-sub">
-      LDT4SSC is launching three rounds of open calls to fund and support pilot projects across Europe —
+      LDT4SSC is launching four rounds of open calls to fund and support pilot projects across Europe —
       focusing on resource management, climate resilience and energy efficiency.
     </p>
     <div class="hero-stats">
       <div class="stat"><div class="stat-val">15–20</div><div class="stat-lbl">Pilot projects</div></div>
       <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total funding</div></div>
-      <div class="stat"><div class="stat-val">3</div><div class="stat-lbl">Open call rounds</div></div>
+      <div class="stat"><div class="stat-val">4</div><div class="stat-lbl">Open call rounds</div></div>
     </div>
   </div>
 
@@ -276,7 +277,7 @@ banner: /images/generalbanner.jpg
   <div class="sec-label">About the Open Calls</div>
   <div class="intro-block">
     <p>
-      To bring ideas to life, <span class="hl-blue">LDT4SSC</span> is launching three rounds of open calls
+      To bring ideas to life, <span class="hl-blue">LDT4SSC</span> is launching four rounds of open calls
       to fund and support <span class="hl-green">15–20 pilot projects across Europe</span>.
     </p>
     <p>
@@ -297,7 +298,7 @@ banner: /images/generalbanner.jpg
   <!-- OPEN CALL SCHEDULE -->
   <div class="sec-label">Schedule</div>
   <h2 class="sec-title">Open Call Schedule</h2>
-  <p class="sec-sub">Three rounds of funding across all work strands — from interconnecting existing twins to deploying advanced AI capabilities.</p>
+  <p class="sec-sub">Four rounds of funding across all work strands — from interconnecting existing twins to deploying advanced AI capabilities.</p>
 
   <!-- OC1 -->
   <div class="call-card card-oc1">
@@ -334,7 +335,7 @@ banner: /images/generalbanner.jpg
   </div>
 
   <!-- OC3 -->
-  <div class="call-card card-oc3" style="border-left-color: var(--yellow); margin-bottom: 36px;">
+  <div class="call-card card-oc3" style="border-left-color: var(--yellow);">
     <div class="call-card-head">
       <div>
         <span class="call-tag call-tag-yellow">Open Call 3</span>
@@ -348,6 +349,22 @@ banner: /images/generalbanner.jpg
         <div class="call-meta" style="margin-top:12px;"><strong>Launch date:</strong> 13 May 2026</div>
       </div>
       <a href="https://ldt4ssc.eu/call-three/" class="call-link" style="background: var(--yellow); color: var(--ink) !important;">View Open Call 3 →</a>
+    </div>
+  </div>
+
+  <!-- OC4 -->
+  <div class="call-card card-oc4" style="margin-bottom: 36px;">
+    <div class="call-card-head">
+      <div>
+        <span class="call-tag">Open Call 4</span>
+        <h3>Interconnecting Existing Local Digital Twins</h3>
+        <div class="call-meta"><strong>Work Strand:</strong></div>
+        <ul class="call-strands">
+          <li>Work Strand 1 – Inter-connection of existing Local Digital Twins</li>
+        </ul>
+        <div class="call-meta" style="margin-top:12px;"><strong>Launch date:</strong> 23 November 2026</div>
+      </div>
+      <a href="https://ldt4ssc.eu/call-four/" class="call-link">View Open Call 4 →</a>
     </div>
   </div>
 
@@ -365,7 +382,7 @@ banner: /images/generalbanner.jpg
     </div>
     <div class="budget-card bc-blue">
       <strong>Pilot duration</strong>
-      <span>Approximately 18 months</span>
+      <span>12–18 months, depending on the call</span>
     </div>
     <div class="budget-card bc-yellow">
       <strong>Funding per pilot</strong>
