@@ -134,8 +134,8 @@ banner: /images/generalbanner.jpg
 .oc2 .goal-card p { font-size: 13.5px; color: var(--grey-mid); line-height: 1.7; }
 
 /* Open calls strip */
-.oc2 .calls-strip { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; margin-bottom: 40px; text-align: left; }
-.oc2 .call-card { border-radius: 12px; padding: 28px 30px; display: flex; flex-direction: column; justify-content: space-between; gap: 20px; }
+.oc2 .calls-strip { display: grid; grid-template-columns: repeat(4,1fr); gap: 18px; margin-bottom: 40px; text-align: left; }
+.oc2 .call-card { border-radius: 12px; padding: 26px 24px; display: flex; flex-direction: column; justify-content: space-between; gap: 20px; }
 .oc2 .call-card-closed { background: var(--grey-tint); border: 1.5px solid var(--grey-pale); }
 .oc2 .call-card-open   { background: var(--green-tint); border: 1.5px solid var(--green-pale); }
 .oc2 .call-badge { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 12px; border-radius: 100px; margin-bottom: 10px; }
@@ -153,6 +153,9 @@ banner: /images/generalbanner.jpg
 /* Hide intro image */
 .intro img { display: none !important; }
 
+@media (max-width: 1000px) {
+  .oc2 .calls-strip { grid-template-columns: repeat(2,1fr); }
+}
 @media (max-width: 768px) {
   .oc2 { padding: 0 16px; }
   .oc2 .hero { padding: 32px 24px; }
@@ -172,7 +175,7 @@ banner: /images/generalbanner.jpg
     <p class="hero-sub">LDT4SSC supports cities, regions and public authorities across Europe in developing, connecting and advancing Local Digital Twins — enabling AI-supported decision making for a greener, more inclusive future.</p>
     <div class="hero-stats">
       <div class="stat"><div class="stat-val">€17M</div><div class="stat-lbl">Total Funding</div></div>
-      <div class="stat"><div class="stat-val">3</div><div class="stat-lbl">Open Calls</div></div>
+      <div class="stat"><div class="stat-val">4</div><div class="stat-lbl">Open Calls</div></div>
       <div class="stat"><div class="stat-val">€1M</div><div class="stat-lbl">Max per Consortium</div></div>
       <div class="stat"><div class="stat-val">18 mo</div><div class="stat-lbl">Max Duration</div></div>
     </div>
@@ -255,15 +258,29 @@ banner: /images/generalbanner.jpg
       </div>
     </div>
 
+    <div class="call-card call-card-open">
+      <div>
+        <div class="call-badge badge-green"><span class="badge-dot"></span> Open</div>
+        <h3>Open Call 4</h3>
+        <p>Work Strand 1 — interconnecting existing Local Digital Twins. Applications are now open for consortia across Europe.</p>
+      </div>
+      <div>
+        <div class="call-meta" style="margin-bottom: 16px;">
+          <span>Status: <strong>Open</strong></span>
+          <span>Deadline: <strong>25 January 2027</strong></span>
+        </div>
+        <a href="/call-four/" class="btn btn-green" style="font-size:13px; padding: 9px 16px;">View Call 4</a>
+      </div>
+    </div>
+
   </div>
 
   <div class="sec-divider"></div>
 
   <!-- CTA -->
   <div class="sec-label" style="margin-bottom: 16px;">Get Involved</div>
-  <p style="font-size: 15px; color: var(--grey-mid); max-width: 560px; margin: 0 auto 28px; line-height: 1.7;">Find consortium partners, subscribe for updates or join the stakeholder community shaping Europe's digital twin ecosystem.</p>
+  <p style="font-size: 15px; color: var(--grey-mid); max-width: 560px; margin: 0 auto 28px; line-height: 1.7;">Subscribe for updates or join the stakeholder community shaping Europe's digital twin ecosystem.</p>
   <div class="cta-row">
-    <a href="https://www.b2match.com/e/local-digital-twins-smart-communities" class="btn btn-blue">Find Partners via Matchmaking Platform</a>
     <a href="https://shorturl.at/pzMGK" class="btn btn-yellow">Subscribe to Newsletter</a>
     <a href="https://forms.gle/v17Y7df5DUwpCRZP6" class="btn btn-green">Join the Stakeholder Forum</a>
   </div>
