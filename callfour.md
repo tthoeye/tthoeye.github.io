@@ -540,9 +540,9 @@ permalink: /call-four/
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/call4_Call_for_Pilots_Manual_WS1.pdf" class="doc-pill">Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/call4_Application_form__Work_Strand_1.docx" class="doc-pill">Application Form</a>
+      <a href="https://ldt4ssc.eu/documents/call4_Application_form_Work_Strand_1.docx" class="doc-pill">Application Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_LOC.docx" class="doc-pill">Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/call4_LDT4SSC__Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
+      <a href="https://ldt4ssc.eu/documents/call4_LDT4SSC_Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
       <a href="https://ldt4ssc.eu/documents/call4_Financial_Form_template.xlsx" class="doc-pill">Financial Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_Ethics_and_data_protection_assessment.xlsx" class="doc-pill">Ethics &amp; Data Protection Assessment</a>
     </div>
