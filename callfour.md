@@ -1,6 +1,7 @@
 ---
 layout: fullwidth
 permalink: /call-four/
+banner: /images/banner-call-one.jpg
 ---
 
 <style>
@@ -130,9 +131,9 @@ permalink: /call-four/
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: var(--green-pale);
-  border: 1.5px solid var(--green);
-  color: var(--green);
+  background: var(--blue-pale);
+  border: 1.5px solid var(--blue);
+  color: var(--blue);
   font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.07em;
@@ -143,7 +144,7 @@ permalink: /call-four/
 }
 .oc2 .hero-badge .dot {
   width: 7px; height: 7px;
-  background: var(--green);
+  background: var(--blue);
   border-radius: 50%;
 }
 .oc2 .hero h1 {
@@ -200,7 +201,10 @@ permalink: /call-four/
   align-items: flex-start;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
-.oc2 .why-card:hover { border-color: var(--blue-mid); box-shadow: 0 4px 16px rgba(31,117,214,0.09); }
+.oc2 .why-card { border-color: var(--yellow-pale) !important; }
+.oc2 .why-card:hover { border-color: var(--yellow) !important; box-shadow: 0 4px 16px rgba(245,180,0,0.15); }
+.oc2 .block-yellow .sec-label { color: #b07f00; }
+.oc2 .block-yellow .sec-label::before { background: #b07f00; }
 .oc2 .why-icon {
   width: 42px; height: 42px;
   border-radius: 10px;
@@ -241,7 +245,7 @@ permalink: /call-four/
   position: absolute;
   top: 12px; left: 12px; right: 12px;
   height: 2px;
-  background: linear-gradient(90deg, var(--blue), var(--yellow), var(--green));
+  background: var(--blue);
 }
 .oc2 .tl-item { position: relative; padding-top: 36px; padding-right: 20px; }
 .oc2 .tl-dot {
@@ -252,19 +256,19 @@ permalink: /call-four/
   z-index: 1;
 }
 .oc2 .tl-item:nth-child(1) .tl-dot { background: var(--blue); }
-.oc2 .tl-item:nth-child(2) .tl-dot { background: var(--yellow); }
-.oc2 .tl-item:nth-child(3) .tl-dot { background: var(--green); }
+.oc2 .tl-item:nth-child(2) .tl-dot { background: var(--blue); }
+.oc2 .tl-item:nth-child(3) .tl-dot { background: var(--blue); }
 .oc2 .tl-date  { font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 5px; }
 .oc2 .tl-item:nth-child(1) .tl-date { color: var(--blue); }
-.oc2 .tl-item:nth-child(2) .tl-date { color: #b07f00; }
-.oc2 .tl-item:nth-child(3) .tl-date { color: var(--green); }
+.oc2 .tl-item:nth-child(2) .tl-date { color: var(--blue); }
+.oc2 .tl-item:nth-child(3) .tl-date { color: var(--blue); }
 .oc2 .tl-title { font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 4px; }
 .oc2 .tl-desc  { font-size: 13px; color: var(--grey-mid); line-height: 1.6; }
 
 /* ── STRAND CARD ── */
 .oc2 .strand-card {
-  background: var(--yellow-tint);
-  border: 1.5px solid var(--yellow-pale);
+  background: var(--blue-tint);
+  border: 1.5px solid var(--blue-pale);
   border-left: 5px solid var(--blue);
   border-radius: 10px;
   padding: 32px 36px 28px;
@@ -292,15 +296,16 @@ permalink: /call-four/
 .oc2 .doc-grid { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .oc2 .doc-pill {
   display: inline-flex; align-items: center; gap: 6px;
-  background: #fff; border: 1.5px solid var(--grey-pale);
-  color: var(--grey) !important; padding: 7px 13px; border-radius: 6px;
+  background: #fff; border: 2px solid var(--blue);
+  color: var(--blue) !important; padding: 8px 14px; border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(30,37,48,0.08);
   font-size: 13px; font-weight: 700;
-  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  transition: background 0.15s, transform 0.15s;
 }
-.oc2 .doc-pill:hover { border-color: var(--blue); color: var(--blue) !important; background: var(--blue-tint); }
+.oc2 .doc-pill:hover { background: var(--blue); color: #fff !important; transform: translateY(-1px); }
 .oc2 .submit-pill {
   display: inline-flex; align-items: center; gap: 7px;
-  background: var(--yellow); color: var(--ink) !important;
+  background: var(--blue); color: #fff !important;
   padding: 10px 18px; border-radius: 6px;
   font-size: 13.5px; font-weight: 700; white-space: nowrap;
   transition: filter 0.15s, transform 0.15s;
@@ -311,9 +316,9 @@ permalink: /call-four/
 .oc2 .info-left h2 { font-size: 24px !important; font-weight: 700; color: var(--ink); margin-bottom: 10px !important; }
 .oc2 .info-left p  { font-size: 14px; color: var(--grey-mid); line-height: 1.7; margin-bottom: 22px; }
 .oc2 .info-btns    { display: flex; gap: 10px; flex-wrap: wrap; }
-.oc2 .glance { background: #fff; border: 1.5px solid var(--grey-pale); border-radius: 10px; overflow: hidden; }
-.oc2 .glance-head { background: var(--blue); color: #fff; padding: 12px 20px; font-size: 11px; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
-.oc2 .glance-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 20px; border-bottom: 1px solid var(--grey-pale); font-size: 13.5px; }
+.oc2 .glance { background: #fff; border: 1.5px solid var(--green-pale); border-radius: 10px; overflow: hidden; }
+.oc2 .glance-head { background: var(--green); color: #fff; padding: 12px 20px; font-size: 11px; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
+.oc2 .glance-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 20px; border-bottom: 1px solid var(--green-pale); font-size: 13.5px; }
 .oc2 .glance-row:last-child { border-bottom: none; }
 .oc2 .gr-key    { color: var(--grey-mid); }
 .oc2 .gr-val    { font-weight: 700; color: var(--ink); }
@@ -542,9 +547,9 @@ permalink: /call-four/
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/call4_Call_for_Pilots_Manual_WS1.pdf" class="doc-pill">Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/call4_Application_form_WS1.docx" class="doc-pill">Application Form</a>
+      <a href="https://ldt4ssc.eu/documents/call4_Application_form _Work_Strand_1.docx" class="doc-pill">Application Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_LOC.docx" class="doc-pill">Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/call4_Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
+      <a href="https://ldt4ssc.eu/documents/call4_LDT4SSC_ Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
       <a href="https://ldt4ssc.eu/documents/call4_Financial_Form_template.xlsx" class="doc-pill">Financial Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_Ethics_and_data_protection_assessment.xlsx" class="doc-pill">Ethics &amp; Data Protection Assessment</a>
     </div>
