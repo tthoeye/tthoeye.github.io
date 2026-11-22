@@ -232,9 +232,9 @@ description: Contact Us
     <h1>Get in <span class="accent">Touch</span></h1>
     <p class="hero-sub">Got a question or want to connect with the LDT4SSC team? Use our contact form, follow our updates on LinkedIn or subscribe to our newsletter.</p>
     <div class="hero-btns">
-      <a href="/faq/#contact-form" class="btn btn-blue">📋 Contact Form</a>
-      <a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank" class="btn btn-green">in Follow on LinkedIn</a>
-      <a href="https://shorturl.at/pzMGK" target="_blank" class="btn btn-yellow">📬 Subscribe to Newsletter</a>
+      <a href="/faq/#contact-form" class="btn btn-blue">Contact Form</a>
+      <a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank" class="btn btn-green">Follow on LinkedIn</a>
+      <a href="https://shorturl.at/pzMGK" target="_blank" class="btn btn-yellow">Subscribe to Newsletter</a>
     </div>
   </div>
 
@@ -245,19 +245,16 @@ description: Contact Us
 
   <div class="contact-grid">
     <div class="channel-card">
-      <div class="channel-icon ci-blue">📋</div>
       <h3>Contact Form</h3>
       <p>The easiest way to get in touch — use the contact form at the bottom of the FAQ page for questions, feedback or any other enquiries.</p>
       <a href="/faq/" class="channel-link cl-blue">Go to FAQ page →</a>
     </div>
     <div class="channel-card">
-      <div class="channel-icon ci-green">in</div>
       <h3>Follow on LinkedIn</h3>
       <p>Stay up to date with project news, event announcements, and open call updates on our LinkedIn page.</p>
       <a href="https://www.linkedin.com/company/ldt4ssc-project/" target="_blank" class="channel-link cl-green">Follow LDT4SSC →</a>
     </div>
     <div class="channel-card">
-      <div class="channel-icon ci-yellow">📬</div>
       <h3>Newsletter</h3>
       <p>Subscribe to the LDT4SSC newsletter to receive updates on open calls, events and news from the European digital twin ecosystem directly in your inbox.</p>
       <a href="https://shorturl.at/pzMGK" target="_blank" class="channel-link cl-yellow">Subscribe now →</a>
