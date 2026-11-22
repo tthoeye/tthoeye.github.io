@@ -40,9 +40,9 @@ permalink: /call-four/
   --yellow:      #F5B400;
   --yellow-pale: #FDE9A0;
   --yellow-tint: #FFFAE8;
-  --red:         #4C5562;
-  --red-pale:    #E0E3E8;
-  --red-tint:    #F5F6F8;
+  --red:         #1F75D6;
+  --red-pale:    #C8DFF5;
+  --red-tint:    #EBF4FD;
   --grey:        #4C5562;
   --grey-mid:    #7D8896;
   --grey-pale:   #E0E3E8;
@@ -174,7 +174,7 @@ permalink: /call-four/
 }
 .oc2 .stat { padding: 16px 18px; border-right: 1.5px solid var(--red-pale); }
 .oc2 .stat:last-child { border-right: none; }
-.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--grey); line-height: 1; }
+.oc2 .stat-val { font-size: 24px; font-weight: 700; color: var(--blue); line-height: 1; }
 .oc2 .stat-lbl { font-size: 11px; color: var(--grey-mid); margin-top: 3px; text-transform: uppercase; letter-spacing: 0.06em; }
 
 /* Hero diagram */
@@ -185,6 +185,8 @@ permalink: /call-four/
 .oc2 .block-grey { background: var(--grey-tint); border: 1.5px solid var(--grey-pale); }
 .oc2 .block-blue { background: var(--blue-tint); border: 1.5px solid var(--blue-pale); }
 .oc2 .block-red  { background: var(--red-tint);  border: 1.5px solid var(--red-pale); }
+.oc2 .block-green  { background: var(--green-tint);  border: 1.5px solid var(--green-pale); }
+.oc2 .block-yellow { background: var(--yellow-tint); border: 1.5px solid var(--yellow-pale); }
 
 /* ── WHY CARDS ── */
 .oc2 .why-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
@@ -219,12 +221,12 @@ permalink: /call-four/
 .oc2 .funding-items { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 .oc2 .fi-val { font-size: 24px; font-weight: 700; line-height: 1; }
 .oc2 .fi-lbl { font-size: 11px; opacity: 0.7; margin-top: 3px; text-transform: uppercase; letter-spacing: 0.05em; }
-.oc2 .who-card { background: var(--grey-tint); border: 1.5px solid var(--grey-pale); border-radius: 12px; padding: 36px; }
+.oc2 .who-card { background: var(--green-tint); border: 1.5px solid var(--green-pale); border-radius: 12px; padding: 36px; }
 .oc2 .who-card h3 { font-size: 17px !important; font-weight: 700; color: var(--ink); margin-bottom: 20px !important; }
 .oc2 .who-tags { display: flex; flex-wrap: wrap; gap: 9px; }
 .oc2 .who-tag {
   background: #fff;
-  border: 1.5px solid var(--grey-pale);
+  border: 1.5px solid var(--green-pale);
   color: var(--grey);
   font-size: 13px;
   font-weight: 700;
@@ -261,8 +263,8 @@ permalink: /call-four/
 
 /* ── STRAND CARD ── */
 .oc2 .strand-card {
-  background: var(--grey-tint);
-  border: 1.5px solid var(--grey-pale);
+  background: var(--yellow-tint);
+  border: 1.5px solid var(--yellow-pale);
   border-left: 5px solid var(--blue);
   border-radius: 10px;
   padding: 32px 36px 28px;
@@ -396,9 +398,9 @@ permalink: /call-four/
     </div>
     <div class="hero-diagram">
       <svg viewBox="0 0 280 300" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="140" cy="135" r="128" fill="#FDF0EF" stroke="#F5CCCB" stroke-width="1"/>
-        <circle cx="140" cy="135" r="102" fill="none" stroke="#F5CCCB" stroke-width="1" stroke-dasharray="4 7"/>
-        <g stroke="#7D8896" stroke-width="1.5" opacity="0.4">
+        <circle cx="140" cy="135" r="128" fill="#EBF4FD" stroke="#C8DFF5" stroke-width="1"/>
+        <circle cx="140" cy="135" r="102" fill="none" stroke="#C8DFF5" stroke-width="1" stroke-dasharray="4 7"/>
+        <g stroke="#5497DC" stroke-width="1.5" opacity="0.4">
           <line x1="140" y1="135" x2="72"  y2="52"/>
           <line x1="140" y1="135" x2="208" y2="52"/>
           <line x1="140" y1="135" x2="46"  y2="170"/>
@@ -423,12 +425,12 @@ permalink: /call-four/
         <text   x="108" y="237" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#1F75D6">DT</text>
         <circle cx="172" cy="232" r="18" fill="#EBF4FD" stroke="#1F75D6" stroke-width="2"/>
         <text   x="172" y="237" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#1F75D6">DT</text>
-        <circle cx="140" cy="135" r="30" fill="#E0E3E8"/>
-        <circle cx="140" cy="135" r="20" fill="#4C5562" stroke="#fff" stroke-width="2.5"/>
+        <circle cx="140" cy="135" r="30" fill="#C8DFF5"/>
+        <circle cx="140" cy="135" r="20" fill="#1F75D6" stroke="#fff" stroke-width="2.5"/>
         <text   x="140" y="139" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#fff">EU</text>
         <g font-family="Arial" font-size="9.5" fill="#4C5562">
           <circle cx="12" cy="278" r="5" fill="#1F75D6"/><text x="22" y="282">Connect existing DTs</text>
-          <circle cx="12" cy="292" r="5" fill="#4C5562"/><text x="22" y="296">EU hub</text>
+          <circle cx="12" cy="292" r="5" fill="#1F75D6"/><text x="22" y="296">EU hub</text>
         </g>
       </svg>
     </div>
@@ -439,7 +441,7 @@ permalink: /call-four/
   <h2 class="sec-title">Work Strand 1 — Interconnecting Existing Local Digital Twins</h2>
   <p class="sec-sub">Open Call 4 focuses exclusively on Work Strand 1, supporting pilots that demonstrate how existing Local Digital Twins can be federated into a European-scale interoperable network.</p>
 
-  <div class="block block-red" style="margin-bottom: 36px;">
+  <div class="block block-green" style="margin-bottom: 36px;">
     <p style="font-size:15px; color: var(--grey); line-height:1.75;">
       The Local Digital Twins for Smart and Sustainable Communities (LDT4SSC) project, funded by the Digital Europe Programme (DEP), invites applications for its fourth Open Call. It supports pilots demonstrating how existing Local Digital Twins can interconnect to form a European-scale network — enabling cross-border data exchange and multi-city optimisation.
     </p>
@@ -448,7 +450,7 @@ permalink: /call-four/
   <div class="sec-divider"></div>
 
   <!-- WHY APPLY -->
-  <div class="block block-grey">
+  <div class="block block-yellow">
     <div class="sec-label">Work Strand 1</div>
     <h2 class="sec-title">What is it for?</h2>
     <div class="why-grid">
@@ -540,9 +542,9 @@ permalink: /call-four/
     </div>
     <div class="doc-grid">
       <a href="https://ldt4ssc.eu/documents/call4_Call_for_Pilots_Manual_WS1.pdf" class="doc-pill">Pilot Manual</a>
-      <a href="https://ldt4ssc.eu/documents/call4_Application_form_Work_Strand_1.docx" class="doc-pill">Application Form</a>
+      <a href="https://ldt4ssc.eu/documents/call4_Application_form_WS1.docx" class="doc-pill">Application Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_LOC.docx" class="doc-pill">Letter of Commitment</a>
-      <a href="https://ldt4ssc.eu/documents/call4_LDT4SSC_Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
+      <a href="https://ldt4ssc.eu/documents/call4_Ownership_Control_Declaration.docx" class="doc-pill">Ownership Declaration</a>
       <a href="https://ldt4ssc.eu/documents/call4_Financial_Form_template.xlsx" class="doc-pill">Financial Form</a>
       <a href="https://ldt4ssc.eu/documents/call4_Ethics_and_data_protection_assessment.xlsx" class="doc-pill">Ethics &amp; Data Protection Assessment</a>
     </div>
@@ -551,7 +553,7 @@ permalink: /call-four/
   <div class="sec-divider"></div>
 
   <!-- AT A GLANCE -->
-  <div class="block block-grey" style="margin-bottom:24px;">
+  <div class="block block-green" style="margin-bottom:24px;">
     <div class="glance">
       <div class="glance-head">Call at a glance</div>
       <div class="glance-row"><span class="gr-key">Status</span><span class="gr-val gr-open">● Open</span></div>
